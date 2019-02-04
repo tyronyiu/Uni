@@ -12,7 +12,7 @@ Krugman to their opinions on the degree of government intervention.
 
 ## Measuring the Size of the public sector
 
-The size can be given as a percentage of the GDP and is commonly used. Measuring
+The size can be given as a percentage of the GDP and is commonly used.
 
 ## Problems when using public finances
 
@@ -28,4 +28,5 @@ directly affect the state expenditures, but which result nevertheless in high
 costs for those who have to adapt to the regulations. Over-regulation and
 extensive bureaucracy for example lead to hidden costs because growth is
 hampered and at the same time private resources are bound inefficiently.
+
 
