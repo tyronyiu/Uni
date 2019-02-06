@@ -142,5 +142,40 @@ job title, the department, the date the employee is needed by.
 
 ## External Recruitment Models
 
-Sometimes necessary
+External Recruitment is necessary as entry level jobs have to be filled to acquire skills not possessed by current labour body. It brings different backgrounds and cultural mixture to the workforce to provide diversity in ideas.
+
+### External Recruitment Sources
+
+- High schools and vocational schools
+    - Entry-level employees and Clerical
+    - Some companies work with schools
+    - Companies can loan employees to schools for training
+- Community colleges
+    - Sensitive to local employment needs
+    - High demand for students with marketable skills
+- Colleges & Universities
+    - Technical / high level employees
+- Competitors in the labour market
+    - Relevant experience / skills needed already present
+    - Smaller firms can *poach* employees from bigger organisations
+- Unemployed labour
+    - Qualified applicants become unemployed every day
+    - Companies go out of business, cut back operations or merge with other
+      firms, which may lead to employees being laid off.
+
+Depending on employees sought after, traditional as well as modern tools can
+help find and employ these resources. Traditional methods could include Job
+fairs or Internships.
+
+### Active and Passive Job Seekers
+
+Active job seekers are commited to finding another job. Where as passive
+candidates are typically employed, satisfied with their employer, content and
+current role, but still open to improvements. For these distinct groups of
+people, recruitment strategies / methods differ.
+ 
+
+
+
+
 

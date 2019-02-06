@@ -18,7 +18,7 @@ If you’re not certain this skill is useful for your survival, be sure to read
 post](https://medium.com/@talkol/why-decentralized-consensus-blockchain-is-good-for-business-5ff263468210)
 on how blockchain can vastly improve island life.
 
-*****
+---------
 
 Let’s go back to that original story and go through the process with our
 fearless heroes, who just crashed on a deserted island somewhere in the South
@@ -37,7 +37,7 @@ island use case. In future posts we can explore other implementations and tie
 them to concepts like *Proof of Work* and *Proof of Stake — *this will help us
 see their benefits and drawbacks. But for now, let’s start as simple as it gets.
 
-*****
+---------------------------
 
 What are we trying to achieve? It’s very simple actually — all we’re trying to
 do is maintain a simple table of balances on a piece of paper. This table will
@@ -80,7 +80,7 @@ one version of balances, and the other 2 people (Kate and Jack) signing a
 different version that doesn’t match. We can’t have two conflicting versions of
 reality both considered final.
 
-*****
+-----------------------------------------------
 
 On the morning of the second day, Kate wants to buy a tomato. Hugo sells
 tomatoes for 2 coins each. She wants to transfer 2 coins to Hugo. Kate takes a
@@ -111,7 +111,7 @@ Once every island inhabitant completes their verification process and signs the
 paper, Sawyer now has a final status paper for day 2 to publish to everybody.
 Everybody makes a copy and goes to sleep happy and content.
 
-*****
+--------------------------------------------------
 
 Day 3 is upon us. The system is working well and everybody is excited to spend
 their coins. Hugo wants to buy some firewood from Sawyer for 10 coins. Sawyer
@@ -139,7 +139,7 @@ Kate managed to get 3 signatures on the paper, each verifying that the balances
 indeed match the transfers and yesterday’s balances. We have a majority, so this
 status sheet is considered final.
 
-*****
+-----------------------------------
 
 It’s day 4 and nobody knows where Jack is. He went fishing the night before, got
 caught out in a storm and didn’t return to camp. It might be problematic because
@@ -152,7 +152,7 @@ Evening approaches and Jack isn’t back yet. The gang had previously agreed tha
 it’s his turn to publish the balances, but he’s nowhere to be found, so this
 day’s balance update is skipped.
 
-*****
+------------------------------------------
 
 It’s day 5, and Hugo is the one responsible for publishing the daily update.
 It’s been raining for a few days and Hugo wants a warmer place to sleep. He asks
@@ -175,7 +175,7 @@ correct. They eventually sign it:
 
 This balance update is final because it has 3 signatures.
 
-*****
+----------------------------------
 
 It’s the morning of day 6. Jack finally comes back to camp. He had a rough
 couple of days with the storm and all. He wasn’t part of the discussions in the
@@ -191,14 +191,14 @@ based on these updates and the latest update he has (from day 2). This will
 allow Jack to participate in today’s transfers just like he didn’t miss
 anything.
 
-*****
+--------------------------------
 
 The system seems to be working well. It’s true that it’s a bit simplistic, but
 it’s enough for what these island inhabitants need. Well, we can’t have a
 functioning blockchain without a white paper! The gang sits down and celebrates
 the accomplishment by publishing this magnificent one:
 
-*****
+------------------------------
 
 Why is this considered a blockchain? For starters, each piece of paper published
 daily represents a *block*. Each block is numbered and points to the previous
@@ -216,7 +216,7 @@ Work* or maybe *Proof of Stake*?
 
 Well, we’re going to explore these ideas in the next posts in this series.
 
-*****
+------------------------------------
 
 **Tal is a founder at Orbs.com — a public blockchain infrastructure for large
 scale consumer applications with millions of users. To learn more and read the
@@ -239,89 +239,3 @@ engineering. Ex Wix.com head of mobile engineering.
 ### [Hacker Noon](https://hackernoon.com/?source=footer_card)
 
 how hackers start their afternoons.
-
-Simple and elegant explanation of blockchain technology. Very nice :)
-
-Best blockchain explainer yet. Nice work!
-
-The first example of a blockchain I have been able to comprehend. Thank you for
-this :)
-
-Great post!
-
-Wow. This is the first real, understandable definition of blockchain that I’ve
-ever seen. 💡
-
-I miss Lost…
-
-Love how the fonts represent their characters. Great job!
-
-Could I translate your post “How to Run a Blockchain on a Deserted Island with
-Pen and Paper” into Japanese on my blog? I’d like to share it in Japan.
-
-I wonder if the Jack got his tomato or they just cheated him ;)
-
-Can you explain how a 51% attack works using the above?
-
-This is the cleanest and most elegant piece of work explaining how blockchain
-works. It’s also entertaining. Well done!
-
-hilariously well explained. Chapeau.
-
-### Authorization
-
-Hi Tal Kol,
-
-I hope this message finds you well.
-
-This is Ajian, from Ethfans.org, which is a China based Ethereum developer
-community, dedicating to promoting Ethereum and blockchain technology in China.
-One of our main projects is translating selected…
-
-This is the best illustration/ story to explain blockchain I’ve read. Ever. I
-will use this to explain blockchain from now on.
-
-Thank you!
-
-This has to be the best intro to how block chain works!
-
-Yep, we could start a blockchain right here in the comments. But what about a
-Holochain?
-
-Nice article well explained.
-
-So simple and elegant, thanks!
-
-I think that ought to say 92! It’s Kate who has a balance of 98 coins at the end
-of day #3.
-
-What an excellent post. Thank you very much.
-
-I think you’re a good storyteller, you should try to write a novel!
-
-Im now in my Dissertation for my doctoral degree in Information Technology here
-in the Philippines, I am eyeing Beyond Blockchain as a research topic because it
-is timely and interesting. This article of yours (IslandCoin) really catch my
-attention. Kudos to…
-
-Tal Kol Great write-up!!! Do you mind if I translate it in French? (All credit
-to you) Its critical to spend this type of write-up to everybody around the
-world.
-
-Nice post! Thanks for sharing. Fun and easy to read/follow.
-
-I’m at Consensys and working on a blockchain simulation our community team can
-play with people they meet at meetups or conferences. Would love if you had a
-minute for feedback on it (or anyone else on this chain for that matter.)
-
-Hey! Great work!
-
-Do I have your permission to translate this to Portugues (Brazil) and to publish
-it in my medium?
-
-Hi Tal Kol,
-
-Loved how you explain Blockchain in a very comprehensive way.
-
-I’d love to translate them into Japanese so your thoughts can be shared in Japan
-as well. Would it be possible?

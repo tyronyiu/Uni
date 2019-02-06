@@ -1,5 +1,17 @@
--------------------
+---
+layout: post
+title: "Do we need a public sector?"
+date: 2019-02-06
+Categories: Uni
+---
+
 # Glossary
+
+**Pareto Efficiency**
+: Pareto optimality is a state of allocation of resources from which it is
+impossible to reallocate so as to make any one individual or preference
+criterion better off without making at least one individual or preference
+criterion worse off.
 
 -------------------
 
@@ -28,5 +40,109 @@ directly affect the state expenditures, but which result nevertheless in high
 costs for those who have to adapt to the regulations. Over-regulation and
 extensive bureaucracy for example lead to hidden costs because growth is
 hampered and at the same time private resources are bound inefficiently.
+
+## Do we need a Public Sector?
+
+## Market Efficiency
+
+According to Adam smith, there is a much more persistent characteristic of human
+nature than a concern to do good. Therefore, self-interest provides a more
+reliable basis for the organisation of the society. *The invisible hand* is a
+concept created by Adam smith in 1776. The intuition behind Smith's insight is
+that if there is some commodity or service that individuals value but is not
+produced, then they will be willing to pay something for it. If the value to a
+consumer exceeds the cost of production, there is a potential profit and an
+entrepreneur will produce. The entrepreneur makes it unnecessary for the
+government to produce the same good.
+
+## Welfare Economics
+
+Focuses on *normative* issues - What should be produced, how, for whom and who
+should make these decisions. How can we evaluate different mixes in the mixed
+economies around the world? Most economists embrace a criterion called **Pareto
+Efficiency**. Resource allocations, when no one can be made better off without
+someone being made worse off are said to be *pareto efficient* or *pareto
+optimal*. Moving to such an equilibrium, is known as *Pareto improvement*.
+Pareto Principle refers to the need of instituting such improvements. The option
+of both players hunting a stag is considered *Pareto optimal* because players
+cannot switch to any other outcome and make at least one party better off
+without making the situation worse for themselves.*Nash's Equilibrium* is an
+outcome in which every player is doing the best he possibly can given other
+player's choices. So, no player can benefit from unilaterally changing his
+choice. The Criterion of **Pareto** is individualistic in two senses, first of
+all because it is concerned with each individual's welfare, not with the
+relative well-being of different individuals. Secondly, it is each individual's
+perception of his/her own welfare that counts. (Consumer sovereignty is
+subjective.
+
+## Two fundamental theorems of welfare economics
+
+**1 Theorem**
+: Every competitive economy is Pareto Efficient
+
+
+**2 Theorem**
+: Every Pareto efficient resource allocation can be obtained through a
+competitive market process with an initial redistribution of wealth.
+
+The second theorem says that the only thing government needs to do is to redistribute initial wealth. In other words, Pareto efficient allocation can be attained by means if a decentralized market mechanism.
+
+## Efficiency in a market
+
+From Micro-economics, in a competitive market the price equals marginal cost.
+Market efficiency is reached where $ \text{supply} = \text{demand} $
+
+### Three types of Efficiency
+
+Economists  consider three aspects  of efficiency, all of which are required for
+Pareto efficiency.
+
+**Exchange efficiency**
+: Whatever goods are produced  have to go to the individuals  who value them
+most.
+
+**Production efficiency**
+: Given the society’s resources, the production of one good cannot be increased
+without decreasing  the production  of another. 
+
+**Product Mix efficiency**
+: The goods produced  correspond  to those desired  by individuals.
+
+## Budget Constraint
+
+![Budget Constraint Figure](https://i.ibb.co/k9xkKg1/Budget-Constraint.png)
+
+Given income £100, PO= £2 and PA= £1, an individual can purchase any combination
+of apples and oranges along or to the left of the budget constraint. Any
+combination to the right is unaffordable. The slope of the budget constraint is
+based on the relative price of goods. The budget constraint describes how there
+is a trade-off and only 100 can be produced, which can be subdivided into two
+kind of goods. *SEE: Production Possibility Frontiers*
+
+## Indifference Curve
+
+![Indifference Curve Figure](https://i.ibb.co/MRgRCFX/Indifference-Curve.png)
+
+An indifference curve (I0, I1, I2,I3, I4) gives the combinations of apples and
+oranges among which a consumer is indifferent. The amount of one commodity that
+an individual is willing to give up in exchange for a unit of another commodity
+is called marginal rate of substitution. As long as different individuals have
+different marginal rates of substitution there will be room for a deal.Thus,
+exchange efficiency requires that all individuals have the same marginal rate of
+substitution.
+
+## Consumer’s choice problem
+
+![Consumer's Choice Problem Figure](https://i.ibb.co/SxTPhV7/Consumer-Choice-Problem.png)
+
+Because all consumers face the same prices in a competitive economy, and each
+sets his/her marginal rate of substitution equal to the price ratio, they all
+have the same marginal rate of substitution. In the previous slide we showed
+that the condition for exchange efficiency was that all individuals have the
+same marginal rate of substation. Thus, competitive markets have exchange
+efficiency.Consumer chooses the point along the budget constraint that most
+prefers; that is the point at which the indifference curve $I_0$ tangent to the
+budget constraint (point E). At that point the marginal rate of substitution
+equals the relative price of the commodities. 
 
 
