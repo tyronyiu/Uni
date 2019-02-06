@@ -145,4 +145,63 @@ prefers; that is the point at which the indifference curve $I_0$ tangent to the
 budget constraint (point E). At that point the marginal rate of substitution
 equals the relative price of the commodities. 
 
+## Isocost Line
+
+![The Isocost Line](https://i.ibb.co/2NsKM5W/Isocost-line.png)
+
+An isocostline shows the different combinations of inputs that cost a firm the
+same amount. The slope of the isocostline is the relative price of the two
+production factors. 
+
+## Isoquants
+
+Isoquants trace the different combination of inputs that produce the same
+quantities of outputs.The slope of an isoquant is called marginal rate of
+technical substitution.Whenever marginal rates of technical substitution differ,
+we can switch resources around to increase production. Thus, production
+efficiency requires that all firms have the same marginal rate of technical
+substitution.
+
+## Isoquants and Isocost Line
+
+![Isoquants and Isocost Lines combined](https://i.ibb.co/wYcNPbY/Isoquant-and-isocost.png)
+
+In a competitive economy all firms face the same prices, so all firms will set
+their marginal rate of technical substitution equal to the same price ratio.
+Hence, they all have the same marginal rate of technical substitution.In the
+previous slide we showed that the condition for production efficiency was that
+all firms have the same marginal rate of technical substation. Thus, competitive
+markets have production efficiency.A firm maximizes its output, given a
+particular level of expenditure on inputs, at the point where the isoquant is
+tangent to the isocostline. At that point the marginal rate of technical
+substitution equals the relative price of the inputs.
+
+## Production Possibility Schedule
+
+![The Production Possibility Schedule](https://i.ibb.co/3zZnz4c/production-possibility-frontier.png)
+
+For each level of output of one commodity, we can determine from the technology
+the maximum feasible level of output of the other commodity. This generates the
+Production Possibilities Schedule. The slope of the production possibilities
+schedule is called marginal rate of transformation.
+
+## Production Possibilities Schedule and Indifference Curves
+
+Under competition, the marginal rate of transformation will equal the relative
+price of the commodities. We have already shown that, under competition,
+consumers’ marginal rate of substitution will equal the price ratio.  Because
+both the marginal rates of substitution and the marginal rate of transformation
+equal price ratio, the marginal rate of transformation must equal the marginal
+rate of substitution. Thus, competitive markets have product mix efficiency.
+
+![Product mix efficiency](https://i.ibb.co/DQGxdnr/production-possibility-and-indifference.png)
+
+> Product mix efficiency requires that the marginal rate of transformation
+> equals consumers’ marginal rate of substitution
+
+To reach the highest level of consumers’ utility, the indifference curve and the
+production possibilities schedule must be tangent (point E). At any other point,
+such E’, consumer utility is lower than E. 
+
+
 
