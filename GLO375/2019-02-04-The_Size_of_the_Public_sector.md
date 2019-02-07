@@ -201,7 +201,10 @@ rate of substitution. Thus, competitive markets have product mix efficiency.
 
 To reach the highest level of consumers’ utility, the indifference curve and the
 production possibilities schedule must be tangent (point E). At any other point,
-such E’, consumer utility is lower than E. 
+such E’, consumer utility is lower than E. Thus, in a competitive market,
+suppliers provide what consumers want. Producers are trying to produce at the
+highest possible *Isoquant*, where as Consumers pursue the highest possible
+*indifference curve*.
 
 
 
