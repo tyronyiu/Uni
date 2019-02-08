@@ -46,4 +46,3 @@ In turn, other individuals pursuing their goals had harder circumstances, as the
 The final agreement would have been able to be predicted, but the extend of the added aspects certainly not.
 The overall outcome of the negotiation is acceptable, but more interestingly I believe, is the process, through which the whole group, as well as every individual had to go through, in order to be a constructive negotiator.
 
-
