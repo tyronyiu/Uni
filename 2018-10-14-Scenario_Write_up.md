@@ -42,9 +42,3 @@ Subventions delivered to farmers, funds for movement of settlings into more urba
 These aspects of the agreement were negligible for the government party, in terms of overall effect, but the impact on the citizens is drastic.
 Thankfully, that made it fairly easy to negotiate terms acceptable to myself. 
 In turn, other individuals pursuing their goals had harder circumstances, as their position was different in nature of mine.
-
-The final agreement would have been able to be predicted, but the extend of the added aspects certainly not.
-The overall outcome of the negotiation is acceptable, but more interestingly I believe, is the process, through which the whole group, as well as every individual had to go through, in order to be a constructive negotiator.
-
-
-
