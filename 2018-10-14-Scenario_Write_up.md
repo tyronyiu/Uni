@@ -48,4 +48,3 @@ The overall outcome of the negotiation is acceptable, but more interestingly I b
 
 
 
-
