@@ -192,3 +192,17 @@ policies.
 - identify criteria used in recruitment processes
 - be able to explain why a person with protected status was not hired
 
+### Alternatives to Recruitment
+
+**Promotion policies** can be implemented from within, effectively filling
+vacancies above entry-level positions with current employees. It gives
+incentives to strive for advancements. As organisations are usually aware of
+employees capabilities, it accounts often for around 80%.
+
+#### Overtime
+
+Most commonly used method for meeting short-term fluctuations in work volume. It
+avoids recruitment, selection and training costs and emploees benefit from
+increased profit, though problems can arise and overtime is not a sustainable
+method for filling vacancies, as employees will probably not normalise to
+overtime level work loads.
