@@ -56,4 +56,50 @@ the desired qualifications for the job.
    graduates are young. It does not say anything about working environments, pay
    or similar.
 
+## HRM Incident 2: I Am Qualified, Why Not Me? 
+
+Five years ago when Bobby Bret joined Crystal Productions as a junior
+accountant, he felt that he was on his way up. He had just graduated with a B+
+average from college, where he was well liked by his peers and by the faculty
+and had been an officer in several student organizations. Bobby had shown a
+natural ability to get along with people as well as to get things done. He
+remembered what Roger Friedman, the controller at Crystal, had told him when he
+was hired: “I think you will do well here, Bobby. You’ve come highly
+recommended. You are the kind of guy that can expect to move right on up the
+ladder.”Bobby felt that he had done a good job at Crystal, and everybody seemed
+to like him. In addition, his performance appraisals had been excellent.
+However, after five years he was still a junior accountant. He had applied for
+two senior accountant positions that had opened, but they were both filled by
+people hired from outside the firm. When the accounting supervisor’s job came
+open two years ago, Bobby had not applied. He was surprised when his new boss
+turned out to be a hotshot graduate of State University whose only experience
+was three years with a large accounting firm. Bobby had hoped that Ron Greene, a
+senior accountant he particularly respected, would get the job.On the fifth
+anniversary of his employment at Crystal, Bobby decided it was time to do
+something. He made an appointment with the controller. At that meeting Bobby
+explained to Mr. Friedman that he had worked hard to obtain a promotion and
+shared his frustration about having been in the same job for so long. “Well,”
+said Mr. Friedman, “you don’t think that you were all that much better qualified
+than the people that we have hired, do you?” “No,” said Bobby, “but I think I
+could have handled the senior accountant job. Of course, the people you have
+hired are doing a great job too.” The controller responded, “We just look at the
+qualifications of all the applicants for each job, and considering everything,
+try to make a reasonable decision.”
+
+### QUESTIONS
+
+1. Do you believe that Bobby has a legitimate complaint? Explain.
+2. Explain the benefits of a promotion from within policy. Would such a policy
+   be appropriate for Crystal?
+
+-------------------------------------------------------------------------------
+
+1. Yes, everyone in his position would feel that way after five years of
+   excellence in the workplace with no significant promotion.
+
+2. Promotions from within encourage good work and creates loyalty with the
+   employees. It will retain company talent and develop it, while being less
+   costly as recruitmen from outside.
+
+
 
