@@ -206,3 +206,9 @@ avoids recruitment, selection and training costs and emploees benefit from
 increased profit, though problems can arise and overtime is not a sustainable
 method for filling vacancies, as employees will probably not normalise to
 overtime level work loads.
+
+#### Onshoring
+
+Describes the movement of jobs not to another country but lower cost american
+cities. The government may require onshore handling of certain sensible data
+such as financial, health or defense data. 
