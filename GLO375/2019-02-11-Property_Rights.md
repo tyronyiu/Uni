@@ -62,4 +62,38 @@ breaking a contract then there will be no trust in the market. Government
 activities aiming at protecting citizens and property, enforcing contracts, and
 defining property rights provide the foundations on which market economies rest. 
 
+## Market Failures
+
+> When there is no invisible hand, or when the invisible hand is broken, or when
+> the invisible hand points to the wrong direction
+
+Markets are not Pareto efficient under six important conditions, which are known
+as market failures, and provide a rationale for government intervention. 
+
+1. Failure of competition
+2. Public Goods
+3. Externalities
+4. Incomplete Markets
+5. Information Failures
+6. Unemployment, Inflation, and Disequilibrium
+
+## Failure of Competition
+
+For markets to result in Pareto efficiency, there must be perfect competition, in
+other words a sufficiently large number of firms that each believes it has no
+effect on prices (price-takers). However perfect competition is not always the
+prevailing norm. 
+
+![Overview of imperfect competition](https://i.ibb.co/9HV8B96/market-failure.png)
+
+
+
+
+
+
+
+
+
+
+
 
