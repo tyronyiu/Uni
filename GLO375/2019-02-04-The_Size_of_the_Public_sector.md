@@ -207,4 +207,3 @@ highest possible *Isoquant*, where as Consumers pursue the highest possible
 *indifference curve*.
 
 
-
