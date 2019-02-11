@@ -167,6 +167,11 @@ Depending on employees sought after, traditional as well as modern tools can
 help find and employ these resources. Traditional methods could include Job
 fairs or Internships.
 
+### Tailoring recruitment methods to sources
+
+Firms are different from each other, thus recruitment methods have to be
+tailored suitably.
+
 ### Active and Passive Job Seekers
 
 Active job seekers are commited to finding another job. Where as passive
@@ -174,8 +179,11 @@ candidates are typically employed, satisfied with their employer, content and
 current role, but still open to improvements. For these distinct groups of
 people, recruitment strategies / methods differ.
  
+### Legal Considerations
 
-
-
+The first contact between employer and candidate is made during the recruitment
+process. It is essential to emphasize *nondiscriminatory practices*. The U.S.
+department of labour has issued guidelines concerning online recruitment
+policies.
 
 
