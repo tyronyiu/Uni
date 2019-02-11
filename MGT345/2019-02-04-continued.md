@@ -186,4 +186,9 @@ process. It is essential to emphasize *nondiscriminatory practices*. The U.S.
 department of labour has issued guidelines concerning online recruitment
 policies.
 
+#### Labour department guidelines
+
+- keep detailed records
+- identify criteria used in recruitment processes
+- be able to explain why a person with protected status was not hired
 
