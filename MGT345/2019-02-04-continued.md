@@ -5,7 +5,7 @@
 provides information regarding the essential tasks, duties responsibilties for
 the job. Minimum acceptable qualifications a person needs to perform a
 particular job, like requirements seen in a job advertisement. Job analyis
-impacts every aspeect of HR practice, staffing, training/development,
+impacts every aspect of HR practice, staffing, training/development,
 performance appraisal, compensation, safety/health, employee relations and legal
 considerations, all in terms of the job. E.g. compensation considering
 health/safety implications. A heavy lifting worker may get higher compensation
