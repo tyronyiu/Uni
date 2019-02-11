@@ -230,5 +230,54 @@ delivery of services to vendors located in another country.
 : The reverse of *offshoring* and involves bringing work back to the united
 states or the country of origin.
 
+## Selection
+
+Is the process of choosing the individual best suited for a particular position
+and organisation from a group of applicant. Thus, it is the goal to properly
+match people with jobs and organisations. Selecting the wrong person for any job
+is very costly usually, which is why selection is vital.
+
+```
++---------External Environemnt----------
+|+--------Internal Environemnt----------
+||
+||  Recruited               
+||  individual              
+||      |                       
+||      V
+||  Preliminary
+||  Screening
+||      |
+||      V
+||  Review of
+||  Applications &
+||  Resumes
+||      |
+||      V
+||  Selection
+||  Tests
+||      |
+||      V
+||  Employment
+||  Interviews
+||      |
+||      V
+||  Pre-employment
+||  Screening:
+||  Background and
+||  reference checks
+||      |
+||      V
+||  Selection
+||  Decision
+||      |
+||      V
+||  Offer of 
+||  Employment
+```
+
+
+
+
 
 
