@@ -99,7 +99,10 @@ try to make a reasonable decision.”
 
 2. Promotions from within encourage good work and creates loyalty with the
    employees. It will retain company talent and develop it, while being less
-   costly as recruitmen from outside.
+   costly as recruitmen from outside. If Bobby was actually as good as the
+   externally hired person, the firm should promote Bobby instead of employing
+   from outside, as it would be cheaper, encourage labour and have the same
+   efficiency.
 
 
 
