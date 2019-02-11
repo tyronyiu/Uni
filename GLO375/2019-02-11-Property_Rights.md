@@ -86,14 +86,115 @@ prevailing norm.
 
 ![Overview of imperfect competition](https://i.ibb.co/9HV8B96/market-failure.png)
 
+### Imperfect competition leads to economic inefficiency
 
 
 
+Under imperfect competition, firms set the marginal revenue from one extra unit
+equal to the marginal cost. With a downward-sloping demand curve, when a firm
+sells an extra unit receives the price of the unit (+) but must lower the price
+it charges on that and all previous units (-). Thus marginal revenue is less
+than the price. Thus, monopoly output is lower than competitive output.
 
+### What about natural monopolies?
 
+A situation in which is cheaper for a single firm to produce the entire output
+than for each of several firms to produce part of it is described as natural
+monopoly.
 
+If there is a natural monopoly, with declining average costs, and with marginal
+costs below average costs, competition is not viable. If a firm charged a price
+equal to the marginal cost it would operate at a loss (marginal cost < average
+cost).
 
+Even then, a private monopoly would typically charge more than a government
+monopoly, as the private one seeks to maximize profitability, whereas the
+government-run monopoly would only seek to break even. 
 
+#### Public Goods
 
+Some goods either will not be supplied by market or, if supplied, will be
+supplied in insufficient quantity e.g. national defence, lighthouses. These
+goods are known as *pure public goods*. Pure public goods have two critical
+properties:
 
+- It costs nothing for an additional individual to enjoy their benefits (MC=0,
+  the cost of a lighthouse is not affected by the number of passing by ships)
+
+- It is generally difficult or even impossible to exclude an individual from the
+  enjoyment of a pure public good (If I put a lighthouse on a rock, I can’t
+  exclude other ships from taking advantage of its presence).  
+
+#### Market will not supply enough public goods
+
+A ship owner with many ships might decide that the benefit of a lighthouse is
+more than its construction cost. However when deciding how many lighthouses to
+build he will only take into consideration his own benefit, and not that of
+other ship owners. Thus there will be some lighthouses for which the total
+benefits (taking into account all ships that make use of them) exceed the costs,
+but for which the benefits of any single ship owner are less than the cost. Such
+lighthouses will not be constructed which is inefficient.
+
+#### Externalities
+
+Some times the actions of an individual or firm affect other individuals or
+firms (third parties). We refer to such instances as externalities. When the
+actions of an individual or firm impose a cost on others for which they are not
+compensated  we have negative externalities.When the actions of an individual or
+firm conferring a benefit to others for which they don’t pay we have positive
+externalities. 
+
+##### Market ignores externalities
+
+Whenever such externalities exist, the resource allocation provided by the
+market will be inefficient:
+
+- Individuals do not bear the full cost of negative externalities they generate
+  and will engage in an excessive amount of such activities.
+
+- On the other hand, individuals do not enjoy the full benefits of activities
+  with positive externalities and will engage in too little of these.
+
+#### Incomplete and Missing Markets
+
+Whenever private markets fail to provide a good or service even though the cost
+of providing it is less than what individuals are willing to pay, there is a
+market failure referred to as incomplete markets. E.g. Health insurance for the
+elder, student loansA complete market would provide all goods and services for
+which the provision cost is less than what individuals are willing to pay. 
+
+### Why do we have incomplete markets?
+
+At least three answers have been proposed:
+
+1. InnovationThere is often an undersupply of innovative new products in the
+   insurance and security industries, which is why there is an important role
+   for government in research.
+
+2. Transaction CostsIt is costly to run markets, to enforce contracts, and to
+   introduce new insurance policies. A private firm may be reluctant to do so if
+   unsure whether everyone will buy the policy or whether will be able to reap
+   the reward as competitors enter the market.
+
+3. Asymmetries of Information and Enforcement CostsThe insurance company is
+   often less informed about the nature of some risks than the person purchasing
+   insurance. If risjis overestimated, the premium will be too high and the
+   policy will not be purchased, if the risk is underestimated the premium will
+   be too low and the insurer will lose money. It is a
+   heads-you-win-tails-I-lose situation.
+
+### Asymmetric information and adverse selection
+
+**Adverse selection** is a term used to describe the situation that arises when the
+customers we have are the ones we would like to avoid. It is a result of
+asymmetric information.
+
+> Example: In capital markets, lenders are not able to tell which borrowers will
+> repay them (especially when there are no collaterals –eg. student loans). If
+> the bank increases the interest rate to reflect that many loans are not
+> repaid, it may find that the default rate (percentage of loans not repaid)
+> increases. Those who know that they are not going to pay anyway care less
+> about the level of the interest rate. Similarly, people in good health with
+> healthy lifestyles are less likely to buy health insurance compared to those
+> who are in bad shape and have unhealthy or even risky lifestyles.  
 
