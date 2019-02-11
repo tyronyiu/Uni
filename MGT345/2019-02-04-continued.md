@@ -212,3 +212,23 @@ overtime level work loads.
 Describes the movement of jobs not to another country but lower cost american
 cities. The government may require onshore handling of certain sensible data
 such as financial, health or defense data. 
+
+#### reshoring
+
+Reverse of offshoring and involves bringing work back to the united states. 
+
+#### Outsourcing and offshoring
+
+**Outsourcing**
+: Transfers responsibility to external provider
+
+**Offshoring**
+: Migration of all or a significant part of development, maintenance and
+delivery of services to vendors located in another country.
+
+**Reshoring**
+: The reverse of *offshoring* and involves bringing work back to the united
+states or the country of origin.
+
+
+
