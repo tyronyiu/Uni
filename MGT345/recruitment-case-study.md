@@ -32,7 +32,7 @@ the desired qualifications for the job.
 
 2. Identify the hiring standards that should be avoided in the ad.   
 
-3. hat recruitment sources and methods might have been used to have generated a
+3. What recruitment sources and methods might have been used to have generated a
    better applicant pool for the two software design engineer positionsfor
    International Manufacturing? Defend your recommendations.
 
@@ -40,10 +40,20 @@ the desired qualifications for the job.
 
 1. Dorothy did not specify what skills are needed and what knowledge should be
    possessed by the applicants, thus the job specifications were missing and
-   applicant could not identify whether they are suitable for the job or not.    
+   applicant could not identify whether they are suitable for the job or not.
+   She also didn't specify the industry in which the job lies. 
 
-2. 
+2. Wanting applicants to be *in a good appearance*, is a bad hiring standard, as
+   it is being subjective and not relevant for the job. Prefering college
+   students may count toward a specification that is needed, though wanting
+   *recent college graduates* discriminates against age, or so it seems.
+   describing the job as fulfilling growth in the industry is a promise that may
+   not hold up, thus it should have been avoided.
 
-
+3. If the company prefers recent college graduates, they could go directly to
+   universities for them to recruit from. As young people utilise internet
+   recruitment, that could be a valid recruitment method, given recent college
+   graduates are young. It does not say anything about working environments, pay
+   or similar.
 
 
