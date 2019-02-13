@@ -88,8 +88,6 @@ prevailing norm.
 
 ### Imperfect competition leads to economic inefficiency
 
-
-
 Under imperfect competition, firms set the marginal revenue from one extra unit
 equal to the marginal cost. With a downward-sloping demand curve, when a firm
 sells an extra unit receives the price of the unit (+) but must lower the price
@@ -155,7 +153,7 @@ market will be inefficient:
 - On the other hand, individuals do not enjoy the full benefits of activities
   with positive externalities and will engage in too little of these.
 
-#### Incomplete and Missing Markets
+### Incomplete and Missing Markets
 
 Whenever private markets fail to provide a good or service even though the cost
 of providing it is less than what individuals are willing to pay, there is a
@@ -163,7 +161,7 @@ market failure referred to as incomplete markets. E.g. Health insurance for the
 elder, student loansA complete market would provide all goods and services for
 which the provision cost is less than what individuals are willing to pay. 
 
-### Why do we have incomplete markets?
+#### Why do we have incomplete markets?
 
 At least three answers have been proposed:
 
@@ -183,7 +181,7 @@ At least three answers have been proposed:
    be too low and the insurer will lose money. It is a
    heads-you-win-tails-I-lose situation.
 
-### Asymmetric information and adverse selection
+#### Asymmetric information and adverse selection
 
 **Adverse selection** is a term used to describe the situation that arises when the
 customers we have are the ones we would like to avoid. It is a result of
@@ -197,4 +195,51 @@ asymmetric information.
 > about the level of the interest rate. Similarly, people in good health with
 > healthy lifestyles are less likely to buy health insurance compared to those
 > who are in bad shape and have unhealthy or even risky lifestyles.  
+
+#### Missing Markets
+
+Another reason for incomplete or missing markets is the absence of certain
+complimentary markets. Assume that everyone drinks coffee with sugar. If sugar
+is not produced then an entrepreneur considering producing coffee would not do
+so, as he would realize that he would have no sales. In many cases, particularly
+in less developed countries, large-scale coordination is required. Similarly
+urban renewal programs require coordination among factories, retailers,
+landlords, and other businesses.  
+
+### Information Failures
+
+Government activities, in many occasions, are motivated by imperfect information
+on the part of the consumer, and by the belief that the market will supply too
+little information. Information, in many respects, is a public good. Offering
+information to one more individual does not reduce the available information to
+the rest. Resources devoted to producing new knowledge –research and development
+-can be considered a particularly important expenditure on information however
+market on its own might engage in an insufficient amount of certain R&D
+activities.
+
+### Unemployment, inflation and disequilibrium
+
+For many economists, the high levels of unemployment  are taken as prima facie
+evidence that something is not working well in the market. The recent global
+economic crisis hit several countries in Europe, with unemployment rates of 25%
+and youth unemployment in excess of 50%.In a Pareto efficient market there
+should be no unemployment (unutilized resources).
+
+## Redistribution
+
+> Even when the market is pareto efficient
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
