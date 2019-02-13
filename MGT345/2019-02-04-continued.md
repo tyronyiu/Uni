@@ -238,6 +238,7 @@ match people with jobs and organisations. Selecting the wrong person for any job
 is very costly usually, which is why selection is vital.
 
 ```
+
 +---------External Environemnt----------
 |+--------Internal Environemnt---------+
 ||                                     | 
@@ -274,6 +275,7 @@ is very costly usually, which is why selection is vital.
 ||      V           |
 ||  Offer of        |
 ||  Employment -----+
+
 ```
 
 ### Preliminary screening
@@ -306,6 +308,53 @@ in ones résumé. Keywords are job-related words or phrases.
 Are reliable and accurate means of selecting qualified candidates. The cost is
 relatively small to e.g. assessment centers. They identify attitudes and
 job-related skills that interviews cannot recognise.
+
+#### Characteristics of properly designed selection tests
+
+**Standardisation**
+: Uniformity of procedures and conditions of administering a test.  
+
+**Objectivity**
+: Everyone scoring a test obtains same results.  
+
+**Norms**
+: Frame of reference for comparing applicant's performance with that of others.  
+
+**Reliability**
+: Provides consistent results
+
+**Validity**
+: Measures what it is supposed to measure (basic requirement)
+
+**Requirement for job relatedness**
+: Must not have adverse impact on minorities, females and individuals with
+background or characteristics protected under law.
+
+#### Test validation Approaches
+
+**Criterion-related validity**
+: Comparing scores on selection tests to some aspect of job performance.
+
+**Content validity**
+: Includes certain tasks actually required by the job.
+
+**Construct validity**
+: Measures certain traits or qualities important in performing a job.
+
+**Concurrent validity**
+: Obtaining test scores and the criterion data at essentially the same time.
+
+**Predictive validity**
+: Administering a test and later obtaining the criterion information.
+
+
+> The goal is to validate the selection test. Is our test valid and doing what it
+> is supposed to do?
+
+
+
+
+
 
 ------------------------------------------------
 
