@@ -239,44 +239,47 @@ is very costly usually, which is why selection is vital.
 
 ```
 +---------External Environemnt----------
-|+--------Internal Environemnt----------
-||
+|+--------Internal Environemnt---------+
+||                                     | 
 ||  Recruited               
-||  individual              
-||      |                       
-||      V
-||  Preliminary
-||  Screening
-||      |
-||      V
-||  Review of
-||  Applications &
-||  Resumes
-||      |
-||      V
-||  Selection
-||  Tests
-||      |
-||      V
-||  Employment
-||  Interviews
-||      |
-||      V
-||  Pre-employment
-||  Screening:
-||  Background and
-||  reference checks
-||      |
-||      V
-||  Selection
-||  Decision
-||      |
-||      V
-||  Offer of 
-||  Employment
+||  individual -----+       
+||      |           |           
+||      V           |
+||  Preliminary     |
+||  Screening ------+
+||      |           |
+||      V           |
+||  Review of       |
+||  Applications &  |
+||  Resumes --------+
+||      |           |
+||      V           | 
+||  Selection ------+------> Rejected 
+||  Tests           |        Applicant
+||      |           |
+||      V           |
+||  Employment      |
+||  Interviews -----+
+||      |           |
+||      V           |
+||  Pre-employment  |
+||  Screening: -----+
+||  Background and  |
+||  reference checks|
+||      |           |
+||      V           |
+||  Selection       |
+||  Decision -------+
+||      |           |
+||      V           |
+||  Offer of        |
+||  Employment -----+
 ```
 
+## Preliminary screening
 
+Removes obviously unqualified individuals. The benefit is that the applicant may
+be qualified for another position within the firm. 
 
 
 
