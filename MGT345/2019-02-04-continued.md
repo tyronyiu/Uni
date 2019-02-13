@@ -351,8 +351,17 @@ background or characteristics protected under law.
 > The goal is to validate the selection test. Is our test valid and doing what it
 > is supposed to do?
 
+### Employment Test
 
+**Achievement test**
+: A test of current knowledge / skills.
 
+**Cognitive ability test**
+: A test that determines general reasoning ability, memory, vocabulary, verbal
+fluency and numerical abilities.
+
+**Aptitude test**
+: A test of how well a person can learn or acquire skills or abilities.
 
 
 
