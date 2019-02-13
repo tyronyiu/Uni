@@ -202,7 +202,7 @@ employees capabilities, it accounts often for around 80%.
 #### Overtime
 
 Most commonly used method for meeting short-term fluctuations in work volume. It
-avoids recruitment, selection and training costs and emploees benefit from
+avoids recruitment, selection and training costs and employees benefit from
 increased profit, though problems can arise and overtime is not a sustainable
 method for filling vacancies, as employees will probably not normalise to
 overtime level work loads.
@@ -276,11 +276,36 @@ is very costly usually, which is why selection is vital.
 ||  Employment -----+
 ```
 
-## Preliminary screening
+### Preliminary screening
 
 Removes obviously unqualified individuals. The benefit is that the applicant may
 be qualified for another position within the firm. 
 
+### Review of applicants
 
+Essential information is included and standardised, such as CV's resumée's et
+cetera. Application forms must reflect the firm's informational needs and EEO
+(equal employment opportunities) requirements. 
 
+### Review of resumes
+
+*Résumé*
+: Goal directed summary of a person's experience, education and
+training, developed for use in the selection process.
+
+Professional applicants often begin selection process by submitting resume's.
+The concept of relevancy is crucial in selling the applicant to the company.
+
+#### Résumés and keywords
+
+Most large companies now use automated tracking systems for identifying keywords
+in ones résumé. Keywords are job-related words or phrases.
+
+### Selection Tests
+
+Are reliable and accurate means of selecting qualified candidates. The cost is
+relatively small to e.g. assessment centers. They identify attitudes and
+job-related skills that interviews cannot recognise.
+
+------------------------------------------------
 
