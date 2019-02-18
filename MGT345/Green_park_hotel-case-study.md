@@ -1,4 +1,8 @@
-## Green Park Hotel Case Study
+---
+layout: post
+title: "Green Park Hotel Case Study "
+date: 2019-02-18
+---
 
 > Green  Park  Hotel  is  a  well-established,  medium-sized  hotel  on  the
 > outskirts  of  the  city.  Due  to  its location, it traditionally generates
@@ -31,13 +35,13 @@
    college course. Currently, she works a regular Monday to Friday, 9am to 5pm
    week.
 
-2. Matthew is  an  internal candidate  who  has  been  employed  in  the hotel
-   as  a barman  for  the  past three years. He is  used to working shifts,
+2. Matthew is an internal candidate who has been employed in the hotel
+   as a barman for the past three years. He is  used to working shifts,
    including split  shifts and has  done so willingly. Matthew is very popular
    with the guests and locals who use the bar, and regularly receives an
    excellent rating for customer service in his performance review. Matthew is
    interested in transferring to reception as he feels that  there is no scope
-   for personal development or  a career path as  a barman. He is willing to
+   for personal development or a career path as a barman. He is willing to
    undertake any in-house training required but is unsure about college courses,
    as it is a long time since he studied. He has a home computer and has taught
    himself to use a range of packages, but has no formal experience of operating
@@ -48,8 +52,8 @@
    chain. Laura has not worked for the last seven years as she took time out to
    raise a family. Now that her two children are both at school, she is keen to
    get back to the kind of work she loves. Laura has no issue about working
-   shifts and she presented at the interview  glowing  references  from  her
-   previous employer.  Laura  has  experience  of  all  the  key receptionist
+   shifts and she presented at the interview glowing references from her
+   previous employer. Laura has  experience of all the  key receptionist
    functions, although some of her skills need to be updated. The hotel’s
    computer system is much more sophisticated and her keyboard skills are very
    rusty.
@@ -67,4 +71,4 @@
 
 3. Laura doesnt have the skills on the level required, though has experience in
    the business. Training would as well as with the other candidates be
-   required.
+   required. She only worked in the industry for three years, same as Matthew.
