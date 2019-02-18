@@ -27,13 +27,23 @@ CSR can have a *Compensatory character*, meaning minimising the negative externa
 compensation for the total. CSR can also have *charity character*, offering to the
 total that is excessive of the damange, if any, caused by the business activity.
 
-![The pyramid of corporate social responsibility](https://www.researchgate.net/profile/Archie_Carroll/publication/304662992/figure/fig1/AS:390949642489865@1470221066325/Carrolls-pyramid-of-CSR.png)
+![The pyramid of corporate social
+responsibility](https://www.researchgate.net/profile/Archie_Carroll/publication/304662992/figure/fig1/AS:390949642489865@1470221066325/Carrolls-pyramid-of-CSR.png)
 
 > There is a chicken egg problem observed between profitability and CSR.
 
 Factors favouring CSR include the growth of multinational organisations (being
 bigger than the GDP of other countries, meaning having a big responsibility)
 globalisation, civil society and post-material needs.
+
+CSR is relevant because one has to differentiate oneself from competitors. CSR
+helps to develop and enhance relationships with customers, suppliers and
+networks and attract, remain and maintain a happy workforce, becoming a
+*employer of choice*. CSR helps to save money on energy and operating costs and
+manage risk, but also generates innovation, learning and enhancing influence. 
+
+
+
 
 -------------------------------------------------------------
 
