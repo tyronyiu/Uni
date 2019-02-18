@@ -27,7 +27,11 @@ CSR can have a *Compensatory character*, meaning minimising the negative externa
 compensation for the total. CSR can also have *charity character*, offering to the
 total that is excessive of the damange, if any, caused by the business activity.
 
-![The pyramid of corporate social responsibility](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwixz5L68sXgAhUGmxQKHSKHD0sQjRx6BAgBEAU&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FCarrolls-pyramid-of-CSR_fig1_304662992&psig=AOvVaw1kuGWfSDe7UlsyZL48sezS&ust=1550600447767915)
+![The pyramid of corporate social responsibility](https://www.researchgate.net/profile/Archie_Carroll/publication/304662992/figure/fig1/AS:390949642489865@1470221066325/Carrolls-pyramid-of-CSR.png)
+
+
+
+
 
 -------------------------------------------------------------
 
