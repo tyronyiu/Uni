@@ -54,6 +54,17 @@
    computer system is much more sophisticated and her keyboard skills are very
    rusty.
 
+--------------------------------------------------------------------------------
 
+1. Although she is ready to get a college degree, put in the effort required,
+   she does not have the necessary skills at the moment. 
 
+2. Matthew would ultimately return in an within hire, promotion as a recruitment
+   method. He has the advantage of knowing the premises and the processes of the
+   hotel. He also does not have all the necessary skills, but is ready to
+   acquire those missing. He is not sure about being ready to go to college, but
+   that is not necessarily required.
 
+3. Laura doesnt have the skills on the level required, though has experience in
+   the business. Training would as well as with the other candidates be
+   required.
