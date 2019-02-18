@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Corporate social responsibility
+title: "Corporate social responsibility"
 date: 2019-02-18
 authors: Ty Yiu
 ---
