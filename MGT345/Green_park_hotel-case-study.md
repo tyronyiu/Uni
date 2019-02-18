@@ -71,21 +71,46 @@ She only worked in the industry for three years, same as Matthew.
 
 ---------------------------------------------------------------------------------
 
-- Flexibility
+### Specifitcations extracted from the business description, but not clearly mentioned
+
+- Flexibility (in duties and workhours/shifts)
 - Professionalism
 - Focus on customer service
     - Sense of Service
+- Knowledge of checking in and out procedures
 
+### Needs stated in the job description
 
+* 1 year of hotel receptionist experience
+* Excellence customer service skills
+* Experience of using a business switchboard
+* Good keyboard skills
 
+Given the jobs specifications, no one of the candidates really fulfills the
+requirements. The needs of the skills/knowledge required could be adjusted to
+find more viable candidates. The 1 year of hotel receptionist experience could
+be altered to 1 year of hospitality experience for example.
 
+```
 
+A revised job specification
 
+- flexibility
+- professionalism
+- 1 year hospitality experience
+- excellence of customer service
+- experience of using a business switchboard
+- good keyboard skills
 
+```
 
+## Designing the selection process method
 
-
-
+Interviews were conducted with Jane, Matthew and Laura, thus let's stick with
+this method, alternatively tests could be conducted to assess the
+appropriateness of them for the job. The required skills need to be assessed,
+thus the questions should be revolving around gaining insights about the aspects
+the questions refer to.
 
 
 
