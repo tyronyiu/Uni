@@ -61,7 +61,9 @@ she does not have the necessary skills at the moment.
 method. He has the advantage of knowing the premises and the processes of the
 hotel. He also does not have all the necessary skills, but is ready to acquire
 those missing. He is not sure about being ready to go to college, but that is
-not necessarily required.
+not necessarily required. Considering that he would maybe leave if not getting
+the receptionists job, due to him thinking there is no career future for him as
+a bar man.
 
 3. Laura doesnt have the skills on the level required, though has experience in
 the business. Training would as well as with the other candidates be required.
@@ -69,7 +71,10 @@ She only worked in the industry for three years, same as Matthew.
 
 ---------------------------------------------------------------------------------
 
-
+- Flexibility
+- Professionalism
+- Focus on customer service
+    - Sense of Service
 
 
 
