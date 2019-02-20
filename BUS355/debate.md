@@ -1,10 +1,16 @@
-Mattel should not have created tokidoki Tattoo Barbie because the doll sends the
-wrong message about fashion and tattoos to impressionable children.
+## Opening statement
 
-It is important that impressionable children are within an environment that is
-appropriate. The effects of inappropriate environments are as known
-traumatising. The general perception of parents is most important for a company
-that produces children toys, as the toys impact the lives of the children during
-the time of possession and parents therefore wish for these influential toys to
-be appropriate, pedagogic advancing et cetera. A doll with tattoos and the shown
-clothing is not seen as such in the public perception.
+Children can be influenced by their toys because of an underlying emotional
+bonding with them, such as self-identification. The *tokidoki* Tattoo Barbie is
+targeted towards adults as a collector’s piece. Therefore, the doll should not
+have an influence on children in the direct sense as being sold to them and
+creating emotional bonding. Thus, there is no reasons for parents to fear of
+having their children negatively affected by the *tokidoki* doll. The fact that
+they still do, proves the importance of marketing and product placement for a
+company such as *“Mattel”*. The recently in popularity rising company *“juul”*
+has experienced a very similar situation, in which their to adults targeted
+product was sold to teenagers. This has stigmatised the rationality of the
+company just like with *“Mattel”*. Their product should have never been in young
+hands in the first place, just like *tokidoki*. Henceforth, the *“Mattel”*
+company should follow similar procedures to *“Juul”*, where they expanded
+control over sales of their product.
