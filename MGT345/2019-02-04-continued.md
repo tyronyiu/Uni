@@ -379,6 +379,13 @@ assumed to be qualified, as the screening process through the handed in
 application has already been completed. The interview selection method is one of
 the main methods used.
 
+### Interview planning
+
+Developing a job profile based on job description / specification is important
+so the questions prepared relate to the qualities / characteristics needed
+(value generating questions).
+
+
 
 
 ------------------------------------------------
