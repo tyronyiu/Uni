@@ -258,7 +258,19 @@ without earthquake insurance in an area notorious for earthquakes to occur. This
 is a situation in which *the government cannot easily commit itself to refrain
 from helping individuals who made poor decisions*.
 
+**We need a public sector to** 
 
+- Protect our property rights
+- Enforce markets
+- Make-up for market failures
+    - Failure of competition
+    - Public goods
+    - Externalities
+    - Incomplete markets
+    - Information failure
+    - Unemployment, inflation and disequilibrium
+- Redistribute income and wealth
+- Incentivise the consumption of merit goods
 
 
 
