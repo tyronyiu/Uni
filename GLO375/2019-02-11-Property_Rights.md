@@ -227,15 +227,26 @@ should be no unemployment (unutilized resources).
 
 ## Redistribution
 
-> Even when the market is pareto efficient
+> Even when the market is pareto efficient, society's happiness with the
+> resource allocation might not be fulfilled.
 
+The government may be required to intervene for a fairer income distribution.
+This depends on the degree of happiness of the circumstance given by the
+population. Competitive markets give rise to unequal distribution, leaving
+insufficient resources for some.
 
+#### Merit Goods
 
+> Goods that society wants to be consumed, generating additional emergent value
+> for society as a whole.
 
+### paternalism vs Libertarianism
 
+Government intervention reasoned as in the interest of society is called
+paternalism, where as the non-interference is called libertarianism.
 
-
-
+Paternalism defends its view with the argumentation, that individuals do not
+know what is best, considering their view is individuals and not collectivistic.
 
 
 
