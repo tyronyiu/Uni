@@ -240,7 +240,7 @@ insufficient resources for some.
 > Goods that society wants to be consumed, generating additional emergent value
 > for society as a whole.
 
-### paternalism vs Libertarianism
+### Paternalism vs Libertarianism
 
 Government intervention reasoned as in the interest of society is called
 paternalism, where as the non-interference is called libertarianism.
@@ -248,6 +248,13 @@ paternalism, where as the non-interference is called libertarianism.
 Paternalism defends its view with the argumentation, that individuals do not
 know what is best, considering their view is individuals and not collectivistic.
 
-
+There are a few situations that defend paternalistic government intervention.
+Such is a siuation revolving around *children*, questions about the
+responsibility of the children. E.g. girls having to wear skirts for school.
+Another situation is people that do stupid things or parents taking their
+children out of school for vacation, but the school requiring the children to be
+there. E.g. buying a house without earthquake insurance in an area notorious for
+earthquakes to occur. This is a situation in which *the government cannot easily
+commit itself to refrain from helping individuals who made poor decisions*.
 
 
