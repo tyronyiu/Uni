@@ -289,7 +289,7 @@ Essential information is included and standardised, such as CV's resumée's et
 cetera. Application forms must reflect the firm's informational needs and EEO
 (equal employment opportunities) requirements. 
 
-### Review of resumes
+'### Review of resumes
 
 *Résumé*
 : Goal directed summary of a person's experience, education and
@@ -303,7 +303,7 @@ The concept of relevancy is crucial in selling the applicant to the company.
 Most large companies now use automated tracking systems for identifying keywords
 in ones résumé. Keywords are job-related words or phrases.
 
-### Selection Tests
+#### Selection Tests
 
 Are reliable and accurate means of selecting qualified candidates. The cost is
 relatively small to e.g. assessment centers. They identify attitudes and
@@ -351,7 +351,7 @@ background or characteristics protected under law.
 > The goal is to validate the selection test. Is our test valid and doing what it
 > is supposed to do?
 
-### Employment Test
+#### Employment Test
 
 **Achievement test**
 : A test of current knowledge / skills.
@@ -362,6 +362,22 @@ fluency and numerical abilities.
 
 **Aptitude test**
 : A test of how well a person can learn or acquire skills or abilities.
+
+#### Unique forms of testing
+
+Graphonalysis, also known as handwriting analysis has been used in the past but
+has been out of date for quite some time. The context in which graphonalysis is
+mentioned in is along with astrology or psychic readings. Polygraph test (lie
+detector tests) can refute or confirm application information, but also not used
+in the private sector.
+
+## Employment Interview
+
+Goal oriented conservation where interviewer and applicant exchange information
+relevant to the application process. At this point, candidates are already
+assumed to be qualified, as the screening process through the handed in
+application has already been completed. The interview selection method is one of
+the main methods used.
 
 
 
