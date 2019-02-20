@@ -1,4 +1,8 @@
-## Opening statement
+---
+title: "Opening statement"
+date: 2019-02-20
+authors: Ty Yiu
+---
 
 Children can be influenced by their toys because of an underlying emotional
 bonding with them, such as self-identification. The *tokidoki* Tattoo Barbie is
