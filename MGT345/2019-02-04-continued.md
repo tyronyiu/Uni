@@ -385,6 +385,14 @@ Developing a job profile based on job description / specification is important
 so the questions prepared relate to the qualities / characteristics needed
 (value generating questions).
 
+### Content of the interview
+
+The goal is to seek additional job-related information and examples of past
+job-related behaviours. Such can be the past occupational experience, academic
+achievements, interpersonal skills that need to be tested in person or personal
+qualities that are not clear on paper. Information about the comapny, the job
+and the expectations that the job brings along should be communicated to the
+applicant.
 
 
 
