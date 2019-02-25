@@ -16,7 +16,7 @@ authors: Ty Yiu
 > workforce and their families as well as of the local
 > community and society at large.
 
-***CSR* is about taking into consideration all the stakeholders**
+**CSR is about taking into consideration all the stakeholders**
 
 ### Internal Vs. External *CSR* 
 
