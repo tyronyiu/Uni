@@ -5,7 +5,7 @@ date: 2019-02-18
 authors: Ty Yiu
 ---
 
-## What is Corporate social responsibility?
+# What is Corporate social responsibility?
 
 > "*CSR* is a concept whereby companies integrate social and environmental concerns
 > in their business operations and in their interaction with their stakeholders on
