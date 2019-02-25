@@ -371,7 +371,7 @@ mentioned in is along with astrology or psychic readings. Polygraph test (lie
 detector tests) can refute or confirm application information, but also not used
 in the private sector.
 
-## Employment Interview
+### Employment Interview
 
 Goal oriented conservation where interviewer and applicant exchange information
 relevant to the application process. At this point, candidates are already
@@ -379,13 +379,13 @@ assumed to be qualified, as the screening process through the handed in
 application has already been completed. The interview selection method is one of
 the main methods used.
 
-### Interview planning
+#### Interview planning
 
 Developing a job profile based on job description / specification is important
 so the questions prepared relate to the qualities / characteristics needed
 (value generating questions).
 
-### Contents of the interview
+#### Contents of the interview
 
 The goal is to seek additional job-related information and examples of past
 job-related behaviours. Such can be the past occupational experience, academic
