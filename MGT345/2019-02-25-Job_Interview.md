@@ -5,7 +5,6 @@ date: 2019-02-25
 authors: "Ty Yiu"
 ---
 
-
 A Receptionist provides reception services for Guests to contribute to an
 overall exceptional experience from check-in through check-out and complete
 audits, as required.  What will I be doing?
@@ -63,4 +62,21 @@ dedicated to continuing its tradition of providing exceptional guest experiences
 across its global brands . Our vision “to fill the earth with the light and
 warmth of hospitality” unites us as a team to create remarkable hospitality
 experiences around the world every day. And, our amazing Team Members are at the
-heart of it all
+heart of it all.
+
+
+What do you expect this position to entail in terms of responsibilities and
+skills needed?
+
+Where have you gathered experience in the customer service / hospitality
+industry prior to this opportunity?
+
+How would your service and communication skills distinguish themselves
+particularly for this position given your employment history?
+
+
+
+
+
+
+
