@@ -65,14 +65,14 @@ experiences around the world every day. And, our amazing Team Members are at the
 heart of it all.
 
 
-What do you expect this position to entail in terms of responsibilities and
-skills needed?
+> What do you expect this position to entail in terms of responsibilities and
+> skills needed?
 
-Where have you gathered experience in the customer service / hospitality
-industry prior to this opportunity?
+> Where have you gathered experience in the customer service / hospitality
+> industry prior to this opportunity?
 
-How would your service and communication skills distinguish themselves
-particularly for this position given your employment history?
+> How would your service and communication skills distinguish themselves
+> particularly for this position given your employment history?
 
 
 
