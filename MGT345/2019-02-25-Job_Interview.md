@@ -59,7 +59,7 @@ from luxurious full-service hotels and resorts to extended-stay suites and
 mid-priced hotels. For nearly a century, Hilton has offered business and leisure
 travelers the finest in accommodations, service, amenities and value. Hilton is
 dedicated to continuing its tradition of providing exceptional guest experiences
-across its global brands . Our vision “to fill the earth with the light and
+across its global brands. Our vision “to fill the earth with the light and
 warmth of hospitality” unites us as a team to create remarkable hospitality
 experiences around the world every day. And, our amazing Team Members are at the
 heart of it all.
