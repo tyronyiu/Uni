@@ -42,6 +42,9 @@ networks and attract, remain and maintain a happy workforce, becoming a
 *employer of choice*. CSR helps to save money on energy and operating costs and
 manage risk, but also generates innovation, learning and enhancing influence. 
 
+### The business of business is business
+
+
 
 
 
