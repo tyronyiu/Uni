@@ -34,7 +34,8 @@ responsibility](https://www.researchgate.net/profile/Archie_Carroll/publication/
 
 Factors favouring CSR include the growth of multinational organisations (being
 bigger than the GDP of other countries, meaning having a big responsibility)
-globalisation, civil society and post-material needs.
+globalisation, civil society and post-material needs. Civil society means, that
+people care for what is happening with the public agenda. 
 
 CSR is relevant because one has to differentiate oneself from competitors. CSR
 helps to develop and enhance relationships with customers, suppliers and
@@ -42,9 +43,44 @@ networks and attract, remain and maintain a happy workforce, becoming a
 *employer of choice*. CSR helps to save money on energy and operating costs and
 manage risk, but also generates innovation, learning and enhancing influence. 
 
-### The business of business is business
+**Also CSR is relevant because:**
 
+- Save money on energy and operating costs and manage risk
+- Generate innovation and learning and enhance your influence
+- Get access to investment and funding opportunities
+- Improve your business reputation and standing and generate positive publicity
+  and media opportunities due to media interest in ethical business activities
 
+### Criticism
+
+#### Criticism from the right
+
+- Corporation's purpose is to maximize returns to its shareholders, commitment
+  to CSR is a dangerous deviation
+- Only people can have social responsibilities, corporations are only
+  responsible to their shareholders and not to society as a whole
+- Establishing universal standards may be unproductive
+- CSR is the Trojan Horse of the anti-capitalist NGOs
+
+#### Criticism from the left
+
+- Corporations start CSR programs for the commercial benefit they enjoy through
+  raising their reputation with the public or with government
+- CSR helps to greenwash the company's image, to cover up negative impacts by
+  saturating the media with positive images of the company's CSR credentials
+- Companies claim to promote CSR and be committed to sustainable development
+  while engaging in harmful business practices
+
+#### More concerns
+
+- Capture and retreat of the state 
+- Privatization of public interest 
+- Democratic deficit 
+- Focus on CSR will delay or discourage more effective measures to enhance
+  social welfare 
+- As society looks to companies to address these problems, the real solutions
+  may be ignored 
+- Charities often target symptoms, not causes
 
 
 
