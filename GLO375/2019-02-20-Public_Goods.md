@@ -106,30 +106,30 @@ system. There are three main methods of rationing publicly provided goods:
 
 #### User Charges
 
->Users pay a fee for the good/service.
+> Users pay a fee for the good/service.
 
-Advantages
+*Advantages*
 : Those who benefit bear the cost
 
-Disadvantages
+*Disadvantages*
 : Results in undercosumptionAdministering pricing system adds transaction costs
 
 #### Uniform Provision
 
 > Governments supplies the same quantity of the service/good to everyone
 
-Advantages
+*Advantages*
 : Saves on transaction costs
 
-Disadvantages
+*Disadvantages*
 : Leads some to overconsume and others to underconsume
 
 > High demanders may supplement public consumption, increasing total transaction costs
 
 #### Queing
 
-Rather than charging individuals money for access to publicly provided goods and
-services, government requires that they pay a cost in waiting time
+> Rather than charging individuals money for access to publicly provided goods
+> and services, government requires that they pay a cost in waiting time
 
 Advantages 
 : Goods (like healthcare) allocated not necessarily on basis of who
