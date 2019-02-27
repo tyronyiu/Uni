@@ -407,15 +407,29 @@ the interviewer was aware, even if not intended.
 
 #### Structured
 
-
+Is a series of job-related questions asked each applicant. There is an increased
+reliability and accuracy by reducing subjectivity and inconsistencies of
+unstructured interviews. E.g. Comparing free/open discussions is hard, thus a
+set of questions may standardise responses to analyse.
 
 #### Behavioural
 
-
+Behavioural questions prompt applicant of relate actual incidents relevant to
+target job. There are three aspects to look out for, the description of a
+challenging situation, what the candidate did about it and the measurable
+results. An example could be the description of a situation where one was
+responsible for motivating others.
 
 #### Situational
 
+Creates hypothetical situations candidates would be likely to encounter on the
+job and ask how they would handle them. E.g. One of your employees has shown
+significant decline in productivity, how to handle this?
 
+
+Behavioural Vs. Situational compare in the way that behavioural is what has
+happened and how one acted, while Situational is how one would act, given the
+hypothetical situation.
 
 
 ------------------------------------------------
