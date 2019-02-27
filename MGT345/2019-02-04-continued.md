@@ -366,7 +366,7 @@ fluency and numerical abilities.
 #### Unique forms of testing
 
 Graphonalysis, also known as handwriting analysis has been used in the past but
-has been out of date for quite some time. The context in which graphonalysis is
+has been out of date for quite some time. The context in which *graphonanalysis* is
 mentioned in is along with astrology or psychic readings. Polygraph test (lie
 detector tests) can refute or confirm application information, but also not used
 in the private sector.
@@ -390,9 +390,31 @@ so the questions prepared relate to the qualities / characteristics needed
 The goal is to seek additional job-related information and examples of past
 job-related behaviours. Such can be the past occupational experience, academic
 achievements, interpersonal skills that need to be tested in person or personal
-qualities that are not clear on paper. Information about the comapny, the job
+qualities that are not clear on paper. Information about the company, the job
 and the expectations that the job brings along should be communicated to the
 applicant.
+
+### Types of Interviews
+
+#### Unstructured
+
+Asks probing, open-ended questions. The goal is to encourage the applicant to
+do much of the talking. It is often time consuming and can entail potential
+legal issues. Much information that could be interpreted as irrelevant and
+conclusion misleading, but may be brought up by the candidate, thus a racial or
+religious statement could end up entailing potential legal issues, given that
+the interviewer was aware, even if not intended.
+
+#### Structured
+
+
+
+#### Behavioural
+
+
+
+#### Situational
+
 
 
 
