@@ -431,6 +431,34 @@ Behavioural Vs. Situational compare in the way that behavioural is what has
 happened and how one acted, while Situational is how one would act, given the
 hypothetical situation.
 
+### Methods of Interviewing
+
+**One-on-one Interview**
+: Applicant meets with one interviewer
+
+**Group Interview**
+: Several applicant interact in presence of one or more interviewers
+
+**Board Interview**
+: Several firm representatives interview candidate at the same time
+
+**Multiple Interviews**
+: Applicants typically interviewed one-on-one by peers, subordinates and
+supervisors.
+
+### Realistic Job Previews
+
+Provide both positive and negative job information to applicant in unbiased
+manner. They convey information about tasks person would perform and behaviour
+required to fit into organisation's culture.
+
+### Potential Interviewing Problems
+
+Inappropriate questions and permitting non-job related information as relevant
+can cause problems. Just as well as the bias of the interviewer towards the
+candidate or the interviewer domination. There may be a lack of training an
+nonverbal communication problems.
+
 
 ------------------------------------------------
 
