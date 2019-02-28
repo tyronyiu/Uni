@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "Methods of production"
 date: 2019-02-28
 ---
 
@@ -27,6 +27,8 @@ date: 2019-02-28
 : The average time between units of output emerging from the process
 
 --------------------------------------------------
+
+### Nature of Production processes
 
 Process Tasks    | Process Flows | Variety | Volume
 --------------   | ------------- | -----   | -------
@@ -70,6 +72,8 @@ Mass Service
  and staff discretion.)
 ```
 
+### Classifying Products and Processes
+
 Low Volume production processes allow higher diversity and complexity of the
 product being produced as well as higher intermittence. The higher the volume,
 the greater the decrease in complexity, skills needed for the job and the nature
@@ -83,6 +87,8 @@ skilled, labour-intensive complex work and thus also takes longer.
 A professional Service would classify as a low-volume, high-variety. Where as a
 Mass service would be the opposite. In the medium, we see the service shop
 class.
+
+### Product-Process Matrix
 
 **Deviating from the *natural* diagonal on the product-process matrix Has
 consequences for cost and flexibility**
