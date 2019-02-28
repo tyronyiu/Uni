@@ -40,10 +40,14 @@ Repeated/Divided | Continuous    | Low     | high
 Prototype Process
         V
 Jobbing Processes
+(E.g. Rolex watch manufacturing)
         V
 Batch Processes
+(Range of size differentiates Batch
+ from Mass process)
         V
 Mass (line) processes
+(Bricks, BIC pens et cetera)
         V
 Continuous Processes
 (Highly capital-intensive and automated
