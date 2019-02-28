@@ -97,12 +97,12 @@ consequences for cost and flexibility**
 
 ![Classifying Products & Processes with the product-process matrix](https://image.slidesharecdn.com/pgbm03session04processdesign-160116004114/95/pgbm03-mba-operation-management-session-04-process-design-21-638.jpg?cb=1452905031)
 
-![Changing the Products & Processes and seeing their effect in the product-process matrix](https://image.slidesharecdn.com/pgbm03session04processdesign-160116004114/95/pgbm03-mba-operation-management-session-04-process-design-22-638.jpg?cb=1452905031)
+![Changing the Products & Processes and seeing their effect in the product-process matrix](https://image.slidesharecdn.com/pgbm03session04processdesign-160116004114/95/pgbm03-mba-operation-management-session-04-process-design-22-638.jpg)
 
 ### Little's Law
 
 $$
-\text{throughput (TH)} = \text{Work in Progress (WIP)} x \text{Cycle Time (CT)}
+\text{throughput (TH)} = \text{Work in Progress (WIP)} * \text{Cycle Time (CT)}
 $$
 
 
