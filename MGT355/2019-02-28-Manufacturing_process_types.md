@@ -4,6 +4,18 @@ title: ""
 date: 2019-02-28
 ---
 
+-----------------------------------------------
+
+## Glossary
+
+**Product-Process Matrix**
+:The vertical axis of the Product/Process matrix represents the type of
+ production process in the company. In the questionnaire, it was asked what
+ proportion of the products are produced in a unit production process, in small,
+ medium or large batches, and in a continuous flow process.
+
+--------------------------------------------------
+
 Process Tasks    | Process Flows | Variety | Volume
 --------------   | ------------- | -----   | -------
 Diverse/Complex  | intermittent  | high    | low
@@ -59,8 +71,9 @@ class.
 **Deviating from the *natural* diagonal on the product-process matrix Has
 consequences for cost and flexibility**
 
+![Classifying Products & Processes with the product-process matrix](https://image.slidesharecdn.com/pgbm03session04processdesign-160116004114/95/pgbm03-mba-operation-management-session-04-process-design-21-638.jpg?cb=1452905031)
 
-
+![Changing the Products & Processes and seeing their effect in the product-process matrix](https://image.slidesharecdn.com/pgbm03session04processdesign-160116004114/95/pgbm03-mba-operation-management-session-04-process-design-22-638.jpg?cb=1452905031)
 
 
 
