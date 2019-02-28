@@ -39,6 +39,7 @@ I                | I             | I       | I
 Repeated/Divided | Continuous    | Low     | high
 
 ```
+
 Prototype Process
         V
 Jobbing Processes
@@ -70,6 +71,7 @@ Mass Service
 (High levels of volumes of customers, low
  levels of customer contact, customisation
  and staff discretion.)
+
 ```
 
 ### Classifying Products and Processes
@@ -97,6 +99,11 @@ consequences for cost and flexibility**
 
 ![Changing the Products & Processes and seeing their effect in the product-process matrix](https://image.slidesharecdn.com/pgbm03session04processdesign-160116004114/95/pgbm03-mba-operation-management-session-04-process-design-22-638.jpg?cb=1452905031)
 
+### Little's Law
+
+$$
+\text{throughput (TH)} = \text{Work in Progress (WIP)} x \text{Cycle Time (CT)}
+$$
 
 
 
