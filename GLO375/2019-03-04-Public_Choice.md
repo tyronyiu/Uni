@@ -210,7 +210,8 @@ Gm.
 
 ![](https://i.ibb.co/jTgx5jY/two-party-system-median-voter.png)
 
-> If theres a two party system, they tend to the median option.
+> If theres a two party system, they tend to the median option. **IT's abput
+> convergence experienced by two polarised parties.**
 
 
 
