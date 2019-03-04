@@ -67,7 +67,7 @@ manage risk, but also generates innovation, learning and enhancing influence.
   to *CSR* is a dangerous deviation
 - Only people can have social responsibilities, corporations are only
   responsible to their shareholders and not to society as a whole
-- Establishing universal standards may be unproductive
+- Establishing universal behaviour/social standards may be unproductive
 - *CSR* is the Trojan Horse of the anti-capitalist NGOs
 
 #### Criticism from the left
@@ -89,6 +89,25 @@ manage risk, but also generates innovation, learning and enhancing influence.
 - As society looks to companies to address these problems, the real solutions
   may be ignored 
 - Charities often target symptoms, not causes
+
+### Answering the criticism
+
+There is no trade-off between CSR and long-term economice efficiency and
+profitability. CSR practices often promote stricter regulation and are not
+necessarily an impediment to regulation. Every voluntary action with a positive
+impact, even if it's not an optimum choice, contributes to a better world.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
