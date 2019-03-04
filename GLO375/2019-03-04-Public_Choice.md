@@ -37,7 +37,7 @@ Even if individuals were asked directly about their preferences the may hide
 their true preferences: 
 
 - If what they have to pay does not depend on their answer, people tend to
-  demand for more. People demand more of something they don’t have to pay for. 
+mand for more. People demand more of something they don’t have to pay for. 
 - If what they have to pay does depend on their answer, people have an incentive
   to pretend that they enjoy the good much less than they really do. They know
   that their individual answer will have a negligible effect on the total amount
@@ -85,4 +85,19 @@ whenever collective decision making is required. In a dictatorship, the answer
 is easy: the dictator’s preferences dominate. However, things are more
 complicated in democracy. 
 
+## Voting Problems
+
+> Majority voting and paradoxes
+
+### Majority Voting
+
+Simple majority voting is one of the most commonly used rules in democracy.
+Suppose three individuals have to choose between spending on national defense
+and education. They ask a vote and if two of them for education, that's where
+the money is spent.
+
+### The voting paradox (cyclical voting paradox)
+
+However, things become more complex when dealing with multituted of options. For
+example, allocating money to: defense, healthcare and education.
 
