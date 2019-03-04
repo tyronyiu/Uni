@@ -180,6 +180,22 @@ Lucy | Tom | Jim  | John | Jill
 ---- | --- | ---  | ---- | ----
 600  | 800 | 1000 | 1200 | 1400
 
+### The inefficiency of the majority voting equilibrium
+
+Because the median voter determines the level of expenditure on public goods, we
+only need to examine how the median voter cotes.For a wide variety of public
+goods, with proportional or progressive taxation majority voting will result in
+oversupply.
+
+![Figure A](https://i.ibb.co/K20yjy3/95A.png)
+
+If income distribution is symmetric (Fig. 9.5. A), the average income will be
+equal to the income of the median individual.
+
+![Figure B](https://i.ibb.co/zrJqHZd/95B.png)
+
+However income distribution is usually skewed (Fig. 9.5B). As individuals with
+lower income prefer more public goods, oversupply is likely to occur.
 
 
 
