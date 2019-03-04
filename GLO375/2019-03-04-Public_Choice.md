@@ -71,4 +71,3 @@ prefer more public goods.If richer individuals often pay a higher tax price, the
 will have a lower preference for public goods, while those at lower incomes will
 have a higher preference. 
 
-
