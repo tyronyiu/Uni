@@ -101,3 +101,51 @@ the money is spent.
 However, things become more complex when dealing with multituted of options. For
 example, allocating money to: defense, healthcare and education.
 
+### Arrow's impossibility theorem
+
+An ideal political mechanism should have four characteristics:
+
+- Transitivity. If the rule shows that A is preferred to B, and B is preferred
+  to C, then A should be preferred to C. 
+- Nondictatorialchoice. The outcome does not simply reflect the preferences of a
+  single individual.
+- Independence of irrelevant alternative. The outcome should be independent of
+  irrelevant alternatives. E.g. if we have to choose between A and B, the
+  outcome should not be affected by the existence of a third alternative C. 
+- Unrestricted domain. The mechanism must work no matter what the set of
+  preferences and no matter what the range of alternatives over which choices
+  are to be made.
+ 
+Nobel Laureate Kenneth Arrow showed that there was no rule that would satisfy
+all the desired characteristics. This theorem is referred to as Arrow’s
+impossibility theorem.Government should not be expected to act with the same
+degree of consistency and rationality as an individual.
+
+### Single-peaked and double-peaked preferences
+
+Even if it is imperfect, majority voting can give a determinate outcome when
+there is a single peaked preference. However this is not always the case.
+
+![Single Peak #1](https://i.ibb.co/hc13jVk/single-peak-1.png)
+
+For instance, if the level of expenditure on education is below a certain
+minimum level, a rich individual may prefer sending his/her children to private
+schools. Thus his/her utility decreases with government expenditures up to a
+critical level at which he/.se decides to use public education. For increases
+beyond that level, the individual derives some benefit (up to the point that
+taxes offset benefits).
+
+![Single Peak #2](https://i.ibb.co/r41PNGW/single-peak-2.png)
+
+For that individual a high level of expenditure is preferred to no expenditure,
+but no expenditure is preferred to an intermediate level of expenditure.
+
+![Double Peak](https://i.ibb.co/FbJkJJ0/double-peak.png)
+
+
+
+
+
+
+
+
