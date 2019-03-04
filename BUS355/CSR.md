@@ -97,7 +97,10 @@ profitability. CSR practices often promote stricter regulation and are not
 necessarily an impediment to regulation. Every voluntary action with a positive
 impact, even if it's not an optimum choice, contributes to a better world.
 
-
+> “Corporate social responsibility is a hard-edged business
+> decision”. [We do it] “not because it is a nice thing to do or because people
+> are forcing us to do it…” [but] “because it is good for our business”
+> -*Niall Fitzerald, Former CEO, Unilever* 
 
 
 
