@@ -71,3 +71,18 @@ prefer more public goods.If richer individuals often pay a higher tax price, the
 will have a lower preference for public goods, while those at lower incomes will
 have a higher preference. 
 
+### The problem of aggregating preferences
+
+In private markets, firms don’t have to balance the interests of one group
+against those of another. If an individual is willing to pay a price for a
+commodity above the marginal cost, then the firm has incentive to sell it.
+Decisions are made on an individual basis. Contrary, in the public sector
+decisions are made collectively. Apolitician voting to increase expenditure on a
+public good does not spend his/her money. Politician is meant to represent
+his/her constituents, but their opinions are not unanimous. Some might like more
+military spending, other less. The problem of reconciling differences arises
+whenever collective decision making is required. In a dictatorship, the answer
+is easy: the dictator’s preferences dominate. However, things are more
+complicated in democracy. 
+
+
