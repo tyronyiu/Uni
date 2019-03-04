@@ -142,7 +142,43 @@ but no expenditure is preferred to an intermediate level of expenditure.
 
 ![Double Peak](https://i.ibb.co/FbJkJJ0/double-peak.png)
 
+> **No majority voting equilibrium** 
+> For most distribution issues, there wont be a majority voting equilibrium.
 
+#### Alternative Tax schedules
+
+Paid in taxes | A   | B   | C
+------------- |---- |-----|----
+Poor          | 20% | 18% | 27%
+Middle        | 20% | 18% | 21%
+Rich          | 20% | 23% | 22%
+
+```
+Low + middle against rich -> B
+
+low + rich against middle -> C
+
+rich + middle against low -> A
+```
+
+### The median voter
+
+When preferences are single-peaked we can rank individuals by their preferences.
+The individual in the middle of this ranking is known as the **median
+voter**. The outcome of majority voting corresponds to the preference of the
+median voter. This is known as the median voter theorem.
+
+In the table below, Jim is the median voter. If any level of spending below
+$1,000 is voted against $1,000, Jim and those who want more than $1,000 vote for
+Jim’s choice. If any level of spending above $1,000 is voted against $1,000, Jim
+and those who want less than $1,000 vote for Jim’s choice. In both cases, Jim’s
+choice of $1,000 wins 
+
+> **Preferred levels of expenditure on public goods**
+
+Lucy | Tom | Jim  | John | Jill
+---- | --- | ---  | ---- | ----
+600  | 800 | 1000 | 1200 | 1400
 
 
 
