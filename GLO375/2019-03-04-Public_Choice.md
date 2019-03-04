@@ -34,7 +34,7 @@ on whose behalf they are making the decision.
 ### Hidden preferences
 
 Even if individuals were asked directly about their preferences the may hide
-their true preferences:  
+their true preferences: 
 
 - If what they have to pay does not depend on their answer, people tend to
   demand for more. People demand more of something they don’t have to pay for. 
@@ -42,5 +42,33 @@ their true preferences:
   to pretend that they enjoy the good much less than they really do. They know
   that their individual answer will have a negligible effect on the total amount
   supplied, and they would like to be free riders.
+
+### Individual preference for public goods
+
+Different individuals have different views on how much should be spent on public
+goods or publicly provided private goods. Theocharis PapadopoulosThey differ for
+three main reasons: 
+
+1. Differences in tastes 
+2. Income
+3. Taxation 
+
+Just as some people prefer one ice cream flavour over another. Similarly some
+individuals prefer public parks and national defence, whereas others prefer
+private goods such as restaurant dinners and cars. 
+
+### Income and taxation effect on preference for public goods
+
+The other two sources of differences in preference are income and
+taxation. Individuals with higher income would normally like to consume more od
+all goods, public and private. However their preference will be affected by the
+price they are asked to pay. For private goods rich and poor pay the same
+price. Regarding public goods, richer individuals usually face a higher price,
+as they often contribute more to the additional taxes required to finance public
+goods. The *tax price* is the additional amount an individual must pay when
+government expenditure increases. If everyone pays the same richer individuals
+prefer more public goods.If richer individuals often pay a higher tax price, the
+will have a lower preference for public goods, while those at lower incomes will
+have a higher preference. 
 
 
