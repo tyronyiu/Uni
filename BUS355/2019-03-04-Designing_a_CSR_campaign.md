@@ -50,7 +50,7 @@ business (extent of ability of interfering/supporting the business operations)
 Working from highest priority of both, negative and positive impacts and seek
 opportunities to accentuate the postive and mitigate the negative.
 
-
+> Create a CSR campaign for HULT
 
 
 
