@@ -41,7 +41,14 @@ If there were no positive self-interest in implementing CSR measures, companies
 would not do so. A good example of matching would be *what's in it for me?* vs.
 *what's in it for them?*
 
+### Prioritisation
 
+Relevance for the business in question must be met. Identify naturally supported
+interests. Such would be the value of the interest to society as a large, the
+value to the stakeholders and/or the value of the affected stakeholders to your
+business (extent of ability of interfering/supporting the business operations)
+Working from highest priority of both, negative and positive impacts and seek
+opportunities to accentuate the postive and mitigate the negative.
 
 
 
