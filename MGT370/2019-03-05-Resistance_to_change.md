@@ -45,3 +45,26 @@ relations, the time to introduce change is not fit.
 : Individuals may resist a change when the team resists, even if the
 individuals does not strongly oppose the change.
 
+**Self interest**
+: Individuals may resist a change if they feel it will cause them to loose
+something.
+
+**Different assessment**
+: Employees and managemnt see the change and its advantages in different ways.
+Management may the change as increased efficiency, while employees may see only
+the costs of it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
