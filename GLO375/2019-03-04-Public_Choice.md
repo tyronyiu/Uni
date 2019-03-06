@@ -213,4 +213,30 @@ Gm.
 > If theres a two party system, they tend to the median option. **IT's abput
 > convergence experienced by two polarised parties.**
 
+### Limitations of the median voter theorem
 
+There may not be a majority voting equilibrium (non single –peaked
+preferences).Some people are liberal in some issues and conservatives in others,
+thus median voter is not well defined. Being informed and voting is associated
+with  costs (e.g. in time). The voters whose preferences are near the median
+voter have little  incentive to be politically active and vote if they believe
+that the political  process will reflect their preferences anyway.There is
+greater tendency for political  activism at the extremes of the political
+spectrum, which may partially offset the median-directed tendencies. 
+
+## Politics and Economics
+
+> An economic interpretation of political phenomena
+
+### Why do individuals vote?
+
+In many elections participation rates are low and sensitive to chance
+occurrences as changes in the weather. The reason for this is that benefits of
+voting for the individual are low. There is little  chance that one person will
+affect the outcome. Moreover, the alternatives may differ so little  that the
+outcome is inconsequential. However, although in a fully rational calculation,
+no one would vote as the chance of affecting the outcome (who wins –not by how
+much) is essentially zero, individuals do vote. The paradox is resolved by
+assigning utility to voting itself and participating in the political process.
+This also implies that voters may not act in the narrow self interested manner
+we have previously assumed.
