@@ -1,6 +1,6 @@
 ---
 layout: post
-title:"Seagrass beats rainforests as carbon sink"
+title: "Seagrass beats rainforests as carbon sink"
 date: 2019-03-06
 ---
 
