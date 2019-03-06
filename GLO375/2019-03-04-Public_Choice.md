@@ -265,3 +265,22 @@ Special interest groups exercise their power through three main mechanisms:
 Many special interest groups are very explicit and *loud*, when it comes to
 communicating their views and they often push their members for proactive
 action.
+
+### The electoral system
+
+- First Past the Post                       
+- Single Transferable Vote
+- Additional Member System
+- Two-round System
+- Alternative Vote
+- Supplementary Vote
+- Borda Count
+- Party List Proportional Representation 
+
+> For more information, visit [here](https://www.electoral-reform.org.uk/voting-systems/types-of-voting-system/)
+
+--------------------------------------------------------------------------------
+
+## References
+
+[Types of voting systems](https://www.electoral-reform.org.uk/voting-systems/types-of-voting-system/)
