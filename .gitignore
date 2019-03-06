@@ -1,3 +1,7 @@
+# Ignore VIM Swap and temporary files #
+ #####################################
+
 *~
 *.swp
 *.swo
+*.swap
