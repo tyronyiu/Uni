@@ -515,8 +515,10 @@ position and organisation.
 Determine the accuracy of the information submitted. Principalreason is to hire
 better workers and the background investigatoins involve obtaining data from
 various sources, such as former employers. The intensity of background
-investigations depends on the nature of the open position.
-
+investigations depends on the nature of the open position. These investigations
+may be conducted on an ongoing basis. A financial devastation, a marital
+collapse or a medical crisis can send a person with a clean record over the
+edge.
 
 
 ------------------------------------------------
