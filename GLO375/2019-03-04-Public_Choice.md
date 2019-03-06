@@ -214,18 +214,3 @@ Gm.
 > convergence experienced by two polarised parties.**
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
