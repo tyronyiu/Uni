@@ -474,7 +474,15 @@ chitchat may be pleasant and productive towards the interview harmonic
 atmoshphere. In our litigous society, it may be the most dangerous thing
 interviewers can do.
 
+### Interviewer Bias
 
+Interviewers makes assumptions about interviewee's which may be incorrect and
+lets these biases influence the selection decision. 
+
+- *Stereotyping bias:* Occurs when interviewer assumes that applicant has
+  certain traits because they are members of a certain bias.
+- *Positive halo bias:* Occurs when interviewer generalises one positive
+  impression feature of the candidate.
 
 ------------------------------------------------
 
