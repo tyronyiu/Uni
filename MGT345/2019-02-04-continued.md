@@ -504,5 +504,20 @@ nonverbal form of communication in which physical action such as gestures or
 facial expressions convey thoughts and emotions. These non-verbal actions can be
 interpreted negatively by the interviewee or others.
 
+### Concluding the interview
+
+Ensure notification will happen after selection decisions have been made.
+Management must determine whether the candidate is suitable for the open
+position and organisation.
+
+### Pre-employment screening - Background checks
+
+Determine the accuracy of the information submitted. Principalreason is to hire
+better workers and the background investigatoins involve obtaining data from
+various sources, such as former employers. The intensity of background
+investigations depends on the nature of the open position.
+
+
+
 ------------------------------------------------
 
