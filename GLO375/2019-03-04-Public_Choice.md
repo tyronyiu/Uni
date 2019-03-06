@@ -240,3 +240,28 @@ much) is essentially zero, individuals do vote. The paradox is resolved by
 assigning utility to voting itself and participating in the political process.
 This also implies that voters may not act in the narrow self interested manner
 we have previously assumed.
+
+### Special interest groups
+
+We have assumed that all votes have the same value. However some votes seem more
+effective than others due to the political power of special interest groups.
+Three factors contribute to special interest groups power: 
+
+- Individual Benefits
+- Group Size 
+- Selective Incentives.
+
+> They don't care about everything, but only about what their interest lies in.
+> Such an example could be the interest in being able to carry a rifle.
+
+#### How special interest groups exercise their power
+
+Special interest groups exercise their power through three main mechanisms:
+1. Through mobilizing their constituencies through a combination of targeted
+   information campaigns and aggressive “get out the vote”efforts. 
+2. Through providing information to politicians. 
+3. Through direct and indirect bribery. 
+
+Many special interest groups are very explicit and *loud*, when it comes to
+communicating their views and they often push their members for proactive
+action.
