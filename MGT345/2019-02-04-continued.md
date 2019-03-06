@@ -483,6 +483,13 @@ lets these biases influence the selection decision.
   certain traits because they are members of a certain bias.
 - *Positive halo bias:* Occurs when interviewer generalises one positive
   impression feature of the candidate.
+- *Horn error bias:* Occurs when interviewer's first impression of candidate
+  creates a negative first impression that exists througout the interview.
+- *Contrast bias:* Occurs when an interviewer meets with several poorly
+  qualified applicant and then confronts a mediocre candidate.
+- *Premature judgement bias:* Interviewer makes judgement about candidates in
+  first few mintues of the interview.
+- *Interview illusion bias:* The interviewer's belief in their's ability was exaggerated.
 
 ------------------------------------------------
 
