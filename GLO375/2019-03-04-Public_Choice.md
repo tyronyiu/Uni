@@ -279,6 +279,16 @@ action.
 
 > For more information, visit [here](https://www.electoral-reform.org.uk/voting-systems/types-of-voting-system/)
 
+### The altruistic politician
+
+An alternative view holds that many politicians  do not behave in the narrow
+self interested manner we have previously assumed.In many occasion, politicians
+seem to act on “principle”voting in a way that is inconsistent  not only with
+their own narrowly defined self-interest,  but also with  the wishes of their
+voters. They thus risk not getting re-elected (although often voters appreciate
+such behaviour). However, being altruistic does not guarantee that choices made
+will be the right ones.  
+
 --------------------------------------------------------------------------------
 
 ## References
