@@ -533,7 +533,9 @@ is job related.
 Information from individuals who know the applicant. They provide additional
 insight into information furnished by the applicant. They verify the accuracy
 and information, but do have a possible flaw, in which the reference could be
-planned to be favourable.
+planned to be favourable. Many state laws shield employers from liability for
+harm to an ex-employee based on job references. Thus, the employers can say
+whatever they want in the reference.
 
 ------------------------------------------------
 
