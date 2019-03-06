@@ -491,5 +491,18 @@ lets these biases influence the selection decision.
   first few mintues of the interview.
 - *Interview illusion bias:* The interviewer's belief in their's ability was exaggerated.
 
+### Lack of Training
+
+Interiew is much more than carrying on conversation with another person, it has
+to be conducted in distinct ways and there a lots of aspects to be conscious
+about while interviewing to not find oneself in trouble.
+
+### Non-verbal communication
+
+Avoid sending inappropriate or unintended nonverbal signals. Body language is a
+nonverbal form of communication in which physical action such as gestures or
+facial expressions convey thoughts and emotions. These non-verbal actions can be
+interpreted negatively by the interviewee or others.
+
 ------------------------------------------------
 
