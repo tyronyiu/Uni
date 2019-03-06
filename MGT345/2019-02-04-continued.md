@@ -520,6 +520,14 @@ may be conducted on an ongoing basis. A financial devastation, a marital
 collapse or a medical crisis can send a person with a clean record over the
 edge.
 
+### Hiring standards to avoid
+
+Some standards used in background investigations have potential to violate equal
+employment opportunity and affirmative action laws. When HR management practices
+eliminate substantial numbers of minority or women applicants *(prima facie
+evidence)*, then the burden of prof is on the employer to show that the practice
+is job related. 
+
 
 ------------------------------------------------
 
