@@ -459,6 +459,22 @@ can cause problems. Just as well as the bias of the interviewer towards the
 candidate or the interviewer domination. There may be a lack of training an
 nonverbal communication problems.
 
+### Inappropriate Questions
+
+There is a basic rule, such as only asking job-related questions. The
+*interview* was a test, subject to same validity requirements as any other step
+in the selection process. Historically, the interview has been most vulnerable
+to charges due to discriminiation than any other selection method.
+
+### Permitting non-job-related information
+
+If a candidate begins volunteering personal information not related to the Job,
+interviewer should steer the conversation back on course. Engaging in friendly
+chitchat may be pleasant and productive towards the interview harmonic
+atmoshphere. In our litigous society, it may be the most dangerous thing
+interviewers can do.
+
+
 
 ------------------------------------------------
 
