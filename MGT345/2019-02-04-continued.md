@@ -528,6 +528,12 @@ eliminate substantial numbers of minority or women applicants *(prima facie
 evidence)*, then the burden of prof is on the employer to show that the practice
 is job related. 
 
+### Reference checks
+
+Information from individuals who know the applicant. They provide additional
+insight into information furnished by the applicant. They verify the accuracy
+and information, but do have a possible flaw, in which the reference could be
+planned to be favourable.
 
 ------------------------------------------------
 
