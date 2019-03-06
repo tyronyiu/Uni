@@ -1,17 +1,21 @@
+--- 
+layout: post 
+title: "The Universe Has A Speed Limit, And It Isn’t The Speed Of Light " 
+date: 2019-03-06
+---
 
 ![](https://cdn-images-1.medium.com/max/1600/1*qy4TvjYYIy9lZGUVQ2vdnA.jpeg)
-<span class="figcaption_hack">*All massless particles travel at the speed of light, including the photon,
-gluon and gravitational waves, which carry the electromagnetic, strong nuclear
-and gravitational interactions, respectively. Particles with mass must always
-travel at speeds below the speed of light, and there’s an even more restrictive
-cutoff in our Universe.* (NASA/Sonoma State University/Aurore Simonnet)</span>
+<span class="figcaption_hack">*All massless particles travel at the speed of
+light, including the photon, gluon and gravitational waves, which carry the
+electromagnetic, strong nuclear and gravitational interactions, respectively.
+Particles with mass must always travel at speeds below the speed of light, and
+there’s an even more restrictive cutoff in our Universe.* (NASA/Sonoma State
+University/Aurore Simonnet)</span>
 
-# The Universe Has A Speed Limit, And It Isn’t The Speed Of Light
+## Nothing can go faster than the speed of light in a vacuum. But particles in
+our Universe can’t even go that fast.
 
-## Nothing can go faster than the speed of light in a vacuum. But particles in our
-Universe can’t even go that fast.
-
-*****
+---------------------------------------------------------------------------------------------------------
 
 When it comes to speed limits, the ultimate one set by the laws of physics
 themselves is the speed of light. As Albert Einstein first realized, everyone
@@ -27,9 +31,10 @@ But practically, in our Universe, there’s an even more restrictive speed limit
 for matter, and it’s lower than the speed of light. Here’s the scientific story
 of the real cosmic speed limit.
 
-![](https://cdn-images-1.medium.com/max/1600/0*Ko3J8nSwZdUUXHdi.jpg)
-<span class="figcaption_hack">*Light, in a vacuum, always appears to move at the same speed, the speed of
-light, regardless of the observer’s velocity.* (pixabay user Melmak)</span>
+![](https://cdn-images-1.medium.com/max/1600/0*Ko3J8nSwZdUUXHdi.jpg) <span
+class="figcaption_hack">*Light, in a vacuum, always appears to move at the same
+speed, the speed of light, regardless of the observer’s velocity.* (pixabay user
+Melmak)</span>
 
 When scientists talk about the speed of light — 299,792,458 m/s — we implicitly
 mean “the speed of light in a vacuum.” Only in the absence of particles, fields,
@@ -45,36 +50,36 @@ approach, but never reach, the speed of light in a vacuum. No matter how much
 energy you put into them, the speed of light, even in a vacuum, will forever be
 unattainable.
 
-![](https://cdn-images-1.medium.com/max/1600/0*dsqycGBTzDZszqmG.jpg)
-<span class="figcaption_hack">*The hyperdrive from Star Wars appears to depict an ultra-relativistic motion
-through space, extremely close to the speed of light. But under the laws of
-relativity, you can never reach, much less exceed, the speed of light if you’re
-made of matter.* (Jedimentat44 / flickr)</span>
+![](https://cdn-images-1.medium.com/max/1600/0*dsqycGBTzDZszqmG.jpg) <span
+class="figcaption_hack">*The hyperdrive from Star Wars appears to depict an
+ultra-relativistic motion through space, extremely close to the speed of light.
+But under the laws of relativity, you can never reach, much less exceed, the
+speed of light if you’re made of matter.* (Jedimentat44 / flickr)</span>
 
 But there’s no such thing, practically, as a perfect vacuum. Even in the deepest
 abyss of intergalactic space, there are three things you absolutely cannot get
 rid of.
 
-1.  The WHIM: the warm-hot intergalactic medium. This tenuous, sparse plasma are the
-leftovers from the cosmic web. While matter clumps into stars, galaxies, and
-larger groupings, a fraction of that matter remains in the great voids of the
-Universe. Starlight ionizes it, creating a plasma that may make up about 50% of
-the total normal matter in the Universe.
+1.  The WHIM: the warm-hot intergalactic medium. This tenuous, sparse plasma are
+    the leftovers from the cosmic web. While matter clumps into stars, galaxies,
+    and larger groupings, a fraction of that matter remains in the great voids
+    of the Universe. Starlight ionizes it, creating a plasma that may make up
+    about 50% of the total normal matter in the Universe.
 1.  The CMB: the cosmic microwave background. This leftover bath of photons
-originates from the Big Bang, where it was at extremely high energies. Even
-today, at temperatures just 2.7 degrees above absolute zero, there are over 400
-CMB photons per cubic centimeter of space.
-1.  The CNB: the cosmic neutrino background. The Big Bang, in addition to photons,
-creates a bath of neutrinos. Outnumbering protons by perhaps a billion to one,
-many of these now-slow-moving particles fall into galaxies and clusters, but
-many remain in intergalactic space as well.
+    originates from the Big Bang, where it was at extremely high energies. Even
+    today, at temperatures just 2.7 degrees above absolute zero, there are over
+    400 CMB photons per cubic centimeter of space.
+1.  The CNB: the cosmic neutrino background. The Big Bang, in addition to
+    photons, creates a bath of neutrinos. Outnumbering protons by perhaps a
+    billion to one, many of these now-slow-moving particles fall into galaxies
+    and clusters, but many remain in intergalactic space as well.
 
-![](https://cdn-images-1.medium.com/max/1600/0*bjxBPVlrhWKN1nOo.jpg)
-<span class="figcaption_hack">*A multiwavelength view of the galactic center shows stars, gas, radiation and
-black holes, among other sources. But the light coming from all of these
-sources, from gamma rays to visible to radio light, can only indicate what our
-instruments are sensitive enough to detect from 25,000+ light years away.
-*(NASA/ESA/SSC/CXC/STScI)</span>
+![](https://cdn-images-1.medium.com/max/1600/0*bjxBPVlrhWKN1nOo.jpg) <span
+class="figcaption_hack">*A multiwavelength view of the galactic center shows
+stars, gas, radiation and black holes, among other sources. But the light coming
+from all of these sources, from gamma rays to visible to radio light, can only
+indicate what our instruments are sensitive enough to detect from 25,000+ light
+years away.  *(NASA/ESA/SSC/CXC/STScI)</span>
 
 Any particle traveling through the Universe will encounter particles from the
 WHIM, neutrinos from the CNB, and photons from the CMB. Even though they’re the
@@ -89,9 +94,10 @@ under the most extreme conditions the Universe has to offer. That means we think
 we’ll find them where energies are highest and fields are strongest: in the
 vicinity of collapsed objects like neutron stars and black holes.
 
-![](https://cdn-images-1.medium.com/max/1600/0*WB0WfEF2f04Lw0NC.jpg)
-<span class="figcaption_hack">*In this artistic rendering, a blazar is accelerating protons that produce
-pions, which produce neutrinos and gamma rays.* (IceCube/NASA)</span>
+![](https://cdn-images-1.medium.com/max/1600/0*WB0WfEF2f04Lw0NC.jpg) <span
+class="figcaption_hack">*In this artistic rendering, a blazar is accelerating
+protons that produce pions, which produce neutrinos and gamma rays.*
+(IceCube/NASA)</span>
 
 Neutron stars and black hole are where you can not only find the strongest
 gravitational fields in the Universe, but — in theory — the strongest
@@ -105,11 +111,11 @@ This acceleration causes not only the emission of light of a myriad of
 wavelengths, from X-rays down to radio waves, but also the fastest,
 highest-energy particles ever seen: cosmic rays.
 
-<span class="figcaption_hack">*Artist’s impression of the active galactic nucleus. The supermassive black hole
-at the center of the accretion disk sends a narrow high-energy jet of matter
-into space, perpendicular to the disc. A blazar about 4 billion light years away
-is the origin of many of the highest-energy cosmic rays and neutrinos.* (DESY,
-Science Communication Lab)</span>
+<span class="figcaption_hack">*Artist’s impression of the active galactic
+nucleus. The supermassive black hole at the center of the accretion disk sends a
+narrow high-energy jet of matter into space, perpendicular to the disc. A blazar
+about 4 billion light years away is the origin of many of the highest-energy
+cosmic rays and neutrinos.* (DESY, Science Communication Lab)</span>
 
 Whereas the Large Hadron Collider accelerates particles here on Earth up to a
 maximum velocity of 299,792,455 m/s, or 99.999999% the speed of light, cosmic
@@ -122,11 +128,11 @@ still below, the speed of light in a vacuum.
 There’s a very good reason that, by time we receive them, these cosmic rays
 aren’t more energetic than this.
 
-<span class="figcaption_hack">*The leftover glow from the Big Bang, the CMB, permeates the entire Universe. As
-a particle flies through space, it is constantly being bombarded by CMB photons.
-If the energy conditions are right, even the collision of a low-energy photon
-like this has an opportunity to create new particles.* (ESA/Planck
-Collaboration)</span>
+<span class="figcaption_hack">*The leftover glow from the Big Bang, the CMB,
+permeates the entire Universe. As a particle flies through space, it is
+constantly being bombarded by CMB photons.  If the energy conditions are right,
+even the collision of a low-energy photon like this has an opportunity to create
+new particles.* (ESA/Planck Collaboration)</span>
 
 The problem is that space isn’t a vacuum. In particular, the CMB will have its
 photons collide and interact with these particles as they travel through the
@@ -142,10 +148,10 @@ particle interacts with a photon, it has the same possibility that all
 interacting particles have: if it’s energetically allowed, by E=mc², then
 there’s a chance it can create a new particle!
 
-<span class="figcaption_hack">*Whenever two particles collide at high enough energies, they have the
-opportunity to produce additional particle-antiparticle pairs, or new particles
-as the laws of quantum physics allow. Einstein’s E = mc² is indiscriminate this
-way. *(E. Siegel / Beyond The Galaxy)</span>
+<span class="figcaption_hack">*Whenever two particles collide at high enough
+energies, they have the opportunity to produce additional particle-antiparticle
+pairs, or new particles as the laws of quantum physics allow. Einstein’s E = mc²
+is indiscriminate this way. *(E. Siegel / Beyond The Galaxy)</span>
 
 If you ever create a particle with energies in excess of 5 × 10¹⁹ eV, they can
 only travel a few million light years — max — before one of these photons, left
@@ -163,11 +169,12 @@ the interstellar/intergalactic medium. Even lower-energy particles are subject
 to it, and radiate energy away in droves as electron/positron pairs (and other
 particles) are produced.
 
-<span class="figcaption_hack">*Cosmic rays produced by high-energy astrophysics sources can reach Earth’s
-surface. When a cosmic ray collides with a particle in Earth’s atmosphere, it
-produces a shower of particles that we can detect with arrays on the ground. If
-these particles are created beyond the local group, they should obey the GZK
-cutoff.* (ASPERA collaboration / AStroParticle ERAnet)</span>
+<span class="figcaption_hack">*Cosmic rays produced by high-energy astrophysics
+sources can reach Earth’s surface. When a cosmic ray collides with a particle in
+Earth’s atmosphere, it produces a shower of particles that we can detect with
+arrays on the ground. If these particles are created beyond the local group,
+they should obey the GZK cutoff.* (ASPERA collaboration / AStroParticle
+ERAnet)</span>
 
 We believe that every charged particle in the cosmos — every cosmic ray, every
 proton, every atomic nucleus — should limited by this speed. Not just the speed
@@ -175,10 +182,11 @@ of light, but a little bit lower, thanks to the leftover glow from the Big Bang
 and the particles in the intergalactic medium. If we see anything that’s at a
 higher energy, then it either means:
 
-1.  particles at high energies might be playing by different rules than the ones we
-presently think they do,
-1.  they are being produced much closer than we think they are: within our own Local
-Group or Milky Way, rather than these distant, extragalactic black holes,
+1.  particles at high energies might be playing by different rules than the ones
+    we presently think they do,
+1.  they are being produced much closer than we think they are: within our own
+    Local Group or Milky Way, rather than these distant, extragalactic black
+    holes,
 1.  or they’re not protons at all, but composite nuclei.
 
 The few particles we’ve seen that break the GZK barrier are indeed in excess of
@@ -188,10 +196,10 @@ highest-energy cosmic rays have been confirmed to be heavy nuclei, rather than
 individual protons, this reigns as the most likely explanation for the extreme
 ultra-high-energy cosmic rays.
 
-<span class="figcaption_hack">*The spectrum of cosmic rays. As we go to higher and higher energies, we find
-fewer and fewer cosmic rays. We expected a complete cutoff at 5 x 10¹⁹ eV, but
-see particles coming in with up to 10 times that energy.* (Hillas 2006 /
-University of Hamburg)</span>
+<span class="figcaption_hack">*The spectrum of cosmic rays. As we go to higher
+and higher energies, we find fewer and fewer cosmic rays. We expected a complete
+cutoff at 5 x 10¹⁹ eV, but see particles coming in with up to 10 times that
+energy.* (Hillas 2006 / University of Hamburg)</span>
 
 There is a speed limit to the particles that travel through the Universe, and it
 isn’t the speed of light. Instead, it’s a value that’s very slightly lower,
@@ -202,7 +210,7 @@ you travel through the Universe, if you go too fast, even the radiation left
 over from the Big Bang can fry you. So long as you’re made of matter, there’s a
 cosmic speed limit that you simply cannot overcome.
 
-*****
+-------------------
 
 *Starts With A Bang is *[now on
 Forbes](https://www.forbes.com/sites/startswithabang/)*, and republished on
@@ -222,6 +230,7 @@ Science of Star Trek from Tricorders to Warp Drive](http://amzn.to/2nYxkbn)*.*
 The Universe is: Expanding, cooling, and dark. It starts with a bang! #Cosmology
 Science writer, astrophysicist, science communicator & NASA columnist.
 
-### [Starts With A Bang!](https://medium.com/starts-with-a-bang?source=footer_card)
+### [Starts With A
+Bang!](https://medium.com/starts-with-a-bang?source=footer_card)
 
 The Universe is out there, waiting for you to discover it.
