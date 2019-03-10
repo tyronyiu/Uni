@@ -235,7 +235,7 @@ This depends on the degree of happiness of the circumstance given by the
 population. Competitive markets give rise to unequal distribution, leaving
 insufficient resources for some.
 
-#### Merit Goods
+### Merit Goods
 
 > Goods that society wants to be consumed, generating additional emergent value
 > for society as a whole.
