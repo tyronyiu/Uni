@@ -4,8 +4,9 @@ title: "Intro to managing human resources"
 date: 2019-01-21 
 ---
 
+## Intro to managing human resources
 
-*Human resource management(HRM)* 
+*Human resource management(HRM)*
 : utilization of individuals to achieve
 organisation's objectives.
 
@@ -79,7 +80,7 @@ integrated with other managers.
 Directly oversee accomplishments of organisations primary objectives.
 Performing some duties of HR' historic functions, like training.
 
-## Strategic Planning Process
+### Strategic Planning Process
 
 1. Determination of the organisation mission
     - Determining principles that will guide effort
@@ -90,7 +91,7 @@ Performing some duties of HR' historic functions, like training.
 
 ![The strategic planning / implementing process](https://i.ibb.co/XYN0kYt/strategic-planning-implementing-process.png)
 
-### Strategy Setting
+#### Strategy Setting
 
 Frameworks that can be used, are *SWOT analysis, PESTEL analysis, The Boston
 Consulting Group Matrix and Porter's Five Forces.* What are we in management
@@ -107,7 +108,7 @@ developing products that are unique from those of their competitors.
 Differentiation strategy can make many forms include design, technology,
 costumer service or price.
 
-### Strategy Implementation 
+#### Strategy Implementation 
 
 - Leadership 
 - Organizational Structure 
@@ -115,7 +116,7 @@ costumer service or price.
 - Technology 
 - Human Resources 
 
-## Human Resource Planning
+### Human Resource Planning
 
 We need to match the internal and external supply of candidates with job
 openings anticipated in the organisation over a specific time period. The
@@ -135,24 +136,24 @@ labour*, the recruitment mechanism leads to the selection of new labour.
 
 ![The Human Resource Process](https://i.ibb.co/Q95jmsG/Human-Resource-Planning-Process.png)
 
-## Techniques for Forecasting Human Resource Requirements 
+### Techniques for Forecasting Human Resource Requirements 
 
 - Relationship between volume of sales and number of workers required 
 
-### Zero-based Forecast
+#### Zero-based Forecast
 
 Uses current level of staffing as starting point for determining future staffing
 needs. It is essentially the same as zero based budgeting. Key is a thorough
 analysis of human resource need.
 
-### Bottom-up Forecast
+#### Bottom-up Forecast
 
 Each level of organisation, starting with lowest, forecasts its requirements to
 provide aggregate of employment needs. 
 
 ![The Relationship of Sales Volume to Number of Employees](https://ibb.co/NrqSnkw"><img src="https://i.ibb.co/3vbzY8t/Sales-Volume-No-of-employees.png)
 
-### Availability Forecast
+#### Availability Forecast
 
 Whether a firm will be able to secure employees with necessary skills. Sources
 from which to obtain employees. These source can be higher higher education.
@@ -160,7 +161,7 @@ Proactive engagement can be successful when considering *Dyson* and their
 established university, that adopts their trained students into the company for
 hire.
 
-### Shortage of Workers Forecasted
+#### Shortage of Workers Forecasted
 
 When there is a shortage in labour forecasted innovative recruiting,
 compensation incentives, training programs and modified selection standards
@@ -169,7 +170,7 @@ such as *The Hult Price*. Labour could be kept within using compensation
 incentives. Innovative recruiting includes exclusive traditional recruitment. An
 example could be an App like *Linkedin*.
 
-### Surplus of Employees
+#### Surplus of Employees
 
 When a comparison of requirements and availability indicates a worker surplus
 will result, most companies look to alternatives to layoffs, but downsizing may
