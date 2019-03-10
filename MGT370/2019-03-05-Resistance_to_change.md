@@ -4,6 +4,8 @@ title: "Resistance to change"
 date: 2019-03-05
 ---
 
+## Resistance to change
+
 ### Why resistance to change
 
 > It is more likely that managers will resist changes that will decrease their
