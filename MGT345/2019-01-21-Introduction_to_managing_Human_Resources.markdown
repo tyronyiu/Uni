@@ -4,19 +4,11 @@ title: "Intro to managing human resources"
 date: 2019-01-21 
 ---
 
-# Glossary
-
-Staffing
-
-: Hiring people
-
-
--------------------------------------------------------------------------------
-
-Human resource management(HRM) : utilization of individuals to achieve
+*Human resource management(HRM)* 
+: utilization of individuals to achieve
 organisation's objectives.
 
-Human resource management functions - diagram - hexagon
+> Human resource management functions - diagram - hexagon
 
 - staffing
     - process of ensuring there are right and enough people for the job, using
@@ -34,7 +26,6 @@ Human resource management functions - diagram - hexagon
 - performance management
 
 *take-away from class 1*
-
 : Managing Human resources tends to increase the competitive advantage of the
 strengths of the firm. 
 
@@ -61,8 +52,7 @@ Bad staffing could result in Career Development decreasing in effectiveness,
 because the staff's values may not align with the firm's, Career objectives will
 differ and close integration will be hard.
 
-### Your Company is one of the fastest growing companies - How does it affect
-HR?
+### Your Company is one of the fastest growing companies - How does it affect HR?
 
 - Your Company is one of the *Fortune 100* companies
 - Your Company is one of the greatest places to work
@@ -189,11 +179,14 @@ without reducing health benefits, Job-sharing arrangements, Reduce the workweek
 , Offer an unpaid holiday option, Sabbaticals for selected employees, could be
 used.
 
-
-
-
-
-
 --------------------------------------------------------------------------------
 
 # References
+
+--------------------------------------------------------------------------------
+
+### Glossary
+
+Staffing
+
+: Hiring people
