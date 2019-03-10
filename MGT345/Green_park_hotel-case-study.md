@@ -1,4 +1,10 @@
---- layout: post title: "Green Park Hotel Case Study " date: 2019-02-18 ---
+--- 
+layout: post 
+title: "Green Park Hotel Case Study" 
+date: 2019-02-18 
+---
+
+## Case-Study
 
 > Green Park Hotel is a well-established, medium-sized hotel on the outskirts of
 > the city. Due to its location, it traditionally generates more trade from
@@ -71,7 +77,7 @@ She only worked in the industry for three years, same as Matthew.
 
 ---------------------------------------------------------------------------------
 
-### Specifitcations extracted from the business description, but not clearly mentioned
+### Specifications extracted from the business description, but not clearly mentioned
 
 - Flexibility (in duties and workhours/shifts)
 - Professionalism
@@ -104,13 +110,10 @@ A revised job specification
 
 ```
 
-## Designing the selection process method
+### Designing the selection process method
 
 Interviews were conducted with Jane, Matthew and Laura, thus let's stick with
 this method, alternatively tests could be conducted to assess the
 appropriateness of them for the job. The required skills need to be assessed,
 thus the questions should be revolving around gaining insights about the aspects
 the questions refer to.
-
-
-
