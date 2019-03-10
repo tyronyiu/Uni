@@ -1,4 +1,9 @@
-# Case Studies -Recruitment
+---
+layout: post
+title: "Case study - Recruitment"
+date: 2019-02-10
+---
+
 
 ## HRM Incident 1: A Problem Ad? 
 
