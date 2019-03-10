@@ -4,7 +4,6 @@ title: "Case study - Recruitment"
 date: 2019-02-10
 ---
 
-
 ## HRM Incident 1: A Problem Ad? 
 
 Dorothy Bryant was the new recruiting supervisor for International Manufacturing
@@ -30,7 +29,7 @@ When she reviewed the applicants, however, it appeared that few people possessed
 the desired qualifications for the job.
 
 
-### QUESTIONS
+## QUESTIONS
 
 1. Dorothy overlooked some of the proper recruiting practices, which resulted in
    an excessive number of unqualified people applying. What are they?
@@ -41,7 +40,7 @@ the desired qualifications for the job.
    better applicant pool for the two software design engineer positionsfor
    International Manufacturing? Defend your recommendations.
 
---------------------------------------------------------------------------------
+## Answers
 
 1. Dorothy did not specify what skills are needed and what knowledge should be
    possessed by the applicants, thus the job specifications were missing and
@@ -91,13 +90,13 @@ hired are doing a great job too.” The controller responded, “We just look at
 qualifications of all the applicants for each job, and considering everything,
 try to make a reasonable decision.”
 
-### QUESTIONS
+## QUESTIONS
 
 1. Do you believe that Bobby has a legitimate complaint? Explain.
 2. Explain the benefits of a promotion from within policy. Would such a policy
    be appropriate for Crystal?
 
--------------------------------------------------------------------------------
+## Answers
 
 1. Yes, everyone in his position would feel that way after five years of
    excellence in the workplace with no significant promotion.
@@ -108,6 +107,3 @@ try to make a reasonable decision.”
    externally hired person, the firm should promote Bobby instead of employing
    from outside, as it would be cheaper, encourage labour and have the same
    efficiency.
-
-
-
