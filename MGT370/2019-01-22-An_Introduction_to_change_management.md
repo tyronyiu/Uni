@@ -64,7 +64,7 @@ consulters do not know the stakeholders, who they are, what they want *et
 cetera* and thus may not interpret the situation at hand considering all the
 facts. The main problem is the motivation, the emotional detachment. 
  
-### What is Change Management?
+## What is Change Management?
 
 Structured approach to moving individuals , teams, organisations from a *current
 state* to a *desired future state*. It depends on how much time will be needed,
@@ -106,13 +106,13 @@ Lewin's analysis can be used to investigate _**balance of power**, key
 stakeholders, identify opponents and allies and how to _influence_ to target
 groups_
 
-### Factors that drive Change internally
+#### Factors that drive Change internally
 
 The desire to increase profitability, the need for reorganisation that leads to
 an increase in efficiency, the *conflict within the firms* (between
 departments) (This could also be the internal competition of Managers), the need and desire to change *organisational culture*.
 
-### Factors that drive Change externally
+#### Factors that drive Change externally
 
 The customer demand present, the competition, cost of input, legislation &
 taxes, political aspects, Ethical & Social values and Technological change are
