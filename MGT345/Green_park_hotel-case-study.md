@@ -27,6 +27,8 @@ date: 2019-02-18
 > unsuitable and three candidates are still being considered, although none of
 > them fulfil all the criteria for the post:
 
+## Questions
+
 1. Since leaving college two years ago, Janehas worked as a receptionist with a
 small manufacturing company in the city. She has no hotel experience and
 although she operates a switchboard, it would appear to be much less demanding
@@ -58,7 +60,7 @@ Laura has experience of all the key receptionist functions, although some of her
 skills need to be updated. The hotel’s computer system is much more
 sophisticated and her keyboard skills are very rusty.
 
---------------------------------------------------------------------------------
+## Answers
 
 1. Although she is ready to get a college degree, put in the effort required,
 she does not have the necessary skills at the moment. 
@@ -75,7 +77,6 @@ a bar man.
 the business. Training would as well as with the other candidates be required.
 She only worked in the industry for three years, same as Matthew.
 
----------------------------------------------------------------------------------
 
 ### Specifications extracted from the business description, but not clearly mentioned
 
