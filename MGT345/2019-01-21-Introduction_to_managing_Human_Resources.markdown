@@ -4,6 +4,8 @@ title: "Intro to managing human resources"
 date: 2019-01-21 
 ---
 
+## Test
+
 *Human resource management(HRM)* 
 : utilization of individuals to achieve
 organisation's objectives.
@@ -181,7 +183,7 @@ used.
 
 --------------------------------------------------------------------------------
 
-# References
+### References
 
 --------------------------------------------------------------------------------
 
