@@ -1,4 +1,8 @@
-## Job Analysis
+---
+layout: post
+title: "Job Analysis"
+Date: 2019-02-04
+---
 
 ## Job description vs. job specification
 
