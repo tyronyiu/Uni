@@ -4,19 +4,7 @@ title: "An Introduction to Change Management"
 date: 2019-01-22
 ---
 
-## Glossary
-
-**Emergent Change** 
-: Unexpected Change
-
-**Failure to adapt to change** 
-: Parameters of possible failure have to be defined as a part of the change to
-react to. Thus, subjective to the entity in question. 
-
-**Success to change**
-: Whole plan, all dynamics and parameters get aligned.
-
--------------------------------------------------------------------------------
+## An introduction to change management
 
 **Change Management** - Reacting to forces originating in the business
 environment.
@@ -44,7 +32,7 @@ memory of how it was before.
 
 ![Image](http://userscontent2.emaze.com/images/8a4dbe3d-bd24-4e43-82c4-4254d95a408a/Slide4_Pic2_635985345225437570.jpeg){ width=300px }
 
-# Forces for Change
+### Forces for Change
 
 - Knowledge Economy
 - Virtual organisations
@@ -53,15 +41,15 @@ memory of how it was before.
 - Digital convergence
 - privatization
 
-# Two sides of Change
+### Two sides of Change
 
 **Technical** *Vs.* **Human** side of Change
 
-# Goals of Change Management
+### Goals of Change Management
 
 > Improving the organisation by altering how work is done.
 
-## Change impacts the four parts of how the organisation operates.
+### Change impacts the four parts of how the organisation operates.
 
 1. Processes
 2. Systems
@@ -76,7 +64,7 @@ consulters do not know the stakeholders, who they are, what they want *et
 cetera* and thus may not interpret the situation at hand considering all the
 facts. The main problem is the motivation, the emotional detachment. 
  
-## What is Change Management?
+### What is Change Management?
 
 Structured approach to moving individuals , teams, organisations from a *current
 state* to a *desired future state*. It depends on how much time will be needed,
@@ -89,7 +77,7 @@ affects different entities differently, some may perceive it positively, some
 negatively. Organisational change management processes and individual change
 management models.
 
-## Four Features of Change Management
+### Four Features of Change Management
 
 Change is the result of dissatisfaction with present strategies. it is essential
 to develop a vision for better alternatives. Management have to develop
@@ -99,7 +87,7 @@ can be analysed by either of two and thus result in different reactions.
 Considering that one of both perceptive lenses are used when viewing Change, is
 the responsibility of Management.
 
-## Force Field Analysis
+### Force Field Analysis
 
 ![Lewin's Force Field Analysis](https://cdn2.slidemodel.com/wp-content/uploads/6302-01-force-field-analysis-5.jpg){ width=300px }
 
@@ -118,20 +106,20 @@ Lewin's analysis can be used to investigate _**balance of power**, key
 stakeholders, identify opponents and allies and how to _influence_ to target
 groups_
 
-## Factors that drive Change internally
+### Factors that drive Change internally
 
 The desire to increase profitability, the need for reorganisation that leads to
 an increase in efficiency, the *conflict within the firms* (between
 departments) (This could also be the internal competition of Managers), the need and desire to change *organisational culture*.
 
-## Factors that drive Change externally
+### Factors that drive Change externally
 
 The customer demand present, the competition, cost of input, legislation &
 taxes, political aspects, Ethical & Social values and Technological change are
 factors that can lead to change. E.g. The *Ecological appeal* of sustainability
 embodies itself in ethical values.
 
-## Stakeholder mapping
+### Stakeholder mapping
 
 With Stakeholder mapping the objective is to influence Key Stakeholders.
 Opposing forcces can be turned into a driving force, but care has to be taken as
@@ -157,7 +145,7 @@ why they are resistive, it is the Management's duty to identify these.
 
 -------------------------------------------------------------------------------
 
-## References
+### References
 
 David Kolb — University of Leicester. (2019). Www2.le.ac.uk. Retrieved 22
 January 2019, from
@@ -166,3 +154,17 @@ January 2019, from
 Kotter & Schlesinger - Six Methods of Overcoming Resistance to Change | tutor2u
 Business. (2019). tutor2u. Retrieved 24 January 2019, from
 [*here*](https://www.tutor2u.net/business/reference/kotter-schlesinger-six-methods-of-overcoming-resistance-to-change)
+
+-------------------------------------------------------------------------------
+
+### Glossary
+
+**Emergent Change** 
+: Unexpected Change
+
+**Failure to adapt to change** 
+: Parameters of possible failure have to be defined as a part of the change to
+react to. Thus, subjective to the entity in question. 
+
+**Success to change**
+: Whole plan, all dynamics and parameters get aligned.
