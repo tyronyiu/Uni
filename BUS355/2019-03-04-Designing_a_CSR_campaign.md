@@ -2,6 +2,7 @@
 layout: post
 title: "Designing a CSR campaign"
 date: 2019-03-04
+categories: Uni BU355
 ---
 
 ### Business-based social purpose
@@ -51,16 +52,6 @@ Working from highest priority of both, negative and positive impacts and seek
 opportunities to accentuate the postive and mitigate the negative.
 
 > Create a CSR campaign for HULT
-
-
-
-
-
-
-
-
-
-
 
 --------------------------------------------------------------------------------
 
