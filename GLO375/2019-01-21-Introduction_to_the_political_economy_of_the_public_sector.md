@@ -2,40 +2,8 @@
 layout: post
 title: "Intro to the Political Economy of the Public Sector"
 date: 2019-01-21
+categories: Uni GLO375
 ---
-
-# Glossary
-
-*polis* 
-: City or state
-
-*oikonomos* 
-: One who manages household or estate
-
-*CAP*
-: The CAP is a common policy for all the countries of the European Union. It is
-managed and funded at European level from the resources of the EU’s budget.
-
-*Government Credit* 
-: A special form of subsidy when below market interest rates, this is used as a
-safety-net.
-
------------------------------------------------------------------------------
-
-
-Income Tax refresh
-Public Economics
-
-#### Stiglitz & Atkinson
-
-- Invisble hand unreal
-- Inequality != natural
-
-### Individual Report
-
-Historic development of public sector, size, taxation, welfare provisions and
-role of state in the economy (degree of intervention). 2,500 word report with
-harvard referencing.
 
 ## Public Economics
 
@@ -47,6 +15,17 @@ The **Economic Problem** Describes the unlimited wants and needs that do not
 match scarce resources. This problem questions: *what to produce, how to
 produce and for whom to produce*. Economics deals with these questions, Public
 Economics cares about the role of the government in the economy. 
+
+### Stiglitz & Atkinson
+
+- Invisble hand unreal
+- Inequality != natural
+
+### Individual Report
+
+Historic development of public sector, size, taxation, welfare provisions and
+role of state in the economy (degree of intervention). 2,500 word report with
+harvard referencing.
 
 ### What to produce?
 
@@ -74,7 +53,7 @@ When wondering how these decisions are made, issues of Public Choice arise. In
 the public sector choices are made collectively.  Collective Decisions are far
 more complicated, considering more factors and affected entities.
 
-## Normative *vs* Positive Public Economics
+### Normative *vs* Positive Public Economics
 
 **Normative Public Economics**
 : Analysis of how things should be. (Should government intervention in the
@@ -171,16 +150,15 @@ equality.
 
 4. These outcomes can 
 
-## Direct & Indirect government intervention
+### Direct & Indirect government intervention
 
 *Direct government intervention* refers to the actual participation in the
 economy, where as *indirect government intervention* refers to the regulatory
 function of the government.
 
-
 -------------------------------------------------------------------------------
 
-# References
+## References
 
 The common agricultural policy at a glance. (2019). European Commission -
 European Commission. Retrieved 28 January 2019, from
@@ -188,3 +166,21 @@ European Commission. Retrieved 28 January 2019, from
 
 Carillion: Six charts that explain what happened. (2019). BBC News. Retrieved 28
 January 2019, from [*here*](https://www.bbc.co.uk/news/uk-42731762)
+
+-----------------------------------------------------------------------------
+
+## Glossary
+
+*polis* 
+: City or state
+
+*oikonomos* 
+: One who manages household or estate
+
+*CAP*
+: The CAP is a common policy for all the countries of the European Union. It is
+managed and funded at European level from the resources of the EU’s budget.
+
+*Government Credit* 
+: A special form of subsidy when below market interest rates, this is used as a
+safety-net.
