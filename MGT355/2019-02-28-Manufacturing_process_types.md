@@ -4,29 +4,7 @@ title: "Methods of production"
 date: 2019-02-28
 ---
 
------------------------------------------------
-
-## Glossary
-
-**Product-Process Matrix**
-: The vertical axis of the Product/Process matrix represents the type of
- production process in the company. In the questionnaire, it was asked what
- proportion of the products are produced in a unit production process, in small,
- medium or large batches, and in a continuous flow process.
-
-**Work Content**
-: The total amount of work required to produce a unit of output
-
-**Work-in-process (WIP)**
-: Amount of customers/products in the process
-
-**Throughput time (TH)**
-: The time for WIP to move through the process
-
-**Cycle time (CT)**
-: The average time between units of output emerging from the process
-
---------------------------------------------------
+## Methods of production
 
 ### Nature of Production processes
 
@@ -105,13 +83,24 @@ $$
 \text{throughput (TH)} = \text{Work in Progress (WIP)} * \text{Cycle Time (CT)}
 $$
 
+--------------------------------------------------
 
+### Glossary
 
+**Product-Process Matrix**
+: The vertical axis of the Product/Process matrix represents the type of
+ production process in the company. In the questionnaire, it was asked what
+ proportion of the products are produced in a unit production process, in small,
+ medium or large batches, and in a continuous flow process.
 
+**Work Content**
+: The total amount of work required to produce a unit of output
 
+**Work-in-process (WIP)**
+: Amount of customers/products in the process
 
+**Throughput time (TH)**
+: The time for WIP to move through the process
 
-
-
-
-
+**Cycle time (CT)**
+: The average time between units of output emerging from the process
