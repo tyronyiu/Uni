@@ -3,9 +3,10 @@ layout: post
 title: "Public Goods and publicly provided private goods"
 date: 2019-02-25
 authors: "Ty Yiu"
+categories: Uni GLO375
 ---
 
-### Rival Consumption & Exclusion
+## Rival Consumption & Exclusion
 
 To distinguish between private and public goods, it depends on whether the good
 has the property of rival consumption and whether it is possible to exclude any
@@ -19,7 +20,7 @@ someone be excluded from the consumption of a good? If exlusion is impossible
 (or too expensive), then the use of price system is impossible because consumers
 have no incentive to pay the price.
 
-### Underconsumption, oversupply and user fees
+## Underconsumption, oversupply and user fees
 
 If consumption is non-rival but exclusion is possible, market might lead to
 *underconsumption* as the marginal benefit is higher than the marginal cost
@@ -33,7 +34,7 @@ fairer way of raising revenues, as those who use the public facility the most
 (presumably benefit the most) pay the most. However, consumption when non-rival,
 will lead to user fees introducing inefficiency.
 
-### Free rider problem
+## Free rider problem
 
 When exclusion is not possible individuals are reluctant to contribute
 voluntarily to the support of public goods. This is known as the free rider
@@ -44,7 +45,7 @@ pays for him/her to provide it.Theocharis PapadopoulosAlthough the
 studies in experimental economics have suggested that economists might have
 overemphasized it. 
 
-### Spectrum of Goods
+## Spectrum of Goods
 
 Generally, private goods have the properties of rival consumption and
 excludability. Goods characterized by non-rival consumption and for which
@@ -58,7 +59,7 @@ as common goods.
 
 ![Spectrum of Goods](https://i.ibb.co/L5ShBR1/spectrum-of-goods.png)
 
-### Global & Local Public Goods
+## Global & Local Public Goods
 
 The benefits of some public goods are enjoyed only locally -by those living in a
 particular community. These are called local public goods. Theocharis
@@ -66,7 +67,7 @@ PapadopoulosHowever more and more public goods are global public goods, the
 benefits of which accrue to anyone in the world. Global environment, global
 health, global knowledge, and global security are some of them.
 
-### Collective Action
+## Collective Action
 
 Whenever there is a public good, there is need for collective action. Within a
 country, the national government provides for national public goods (e.g.
@@ -126,7 +127,7 @@ system. There are three main methods of rationing publicly provided goods:
 
 > High *demanders* may supplement public consumption, increasing total transaction costs
 
-#### *Queing*
+#### Queing
 
 > Rather than charging individuals money for access to publicly provided goods
 > and services, government requires that they pay a cost in waiting time
