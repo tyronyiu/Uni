@@ -2,8 +2,11 @@
 layout: post
 title: "Hilton Kensingtion Receptionist Job ad"
 date: 2019-02-25
+categories: Uni MGT345
 authors: "Ty Yiu"
 ---
+
+## Case Study
 
 A Receptionist provides reception services for Guests to contribute to an
 overall exceptional experience from check-in through check-out and complete
@@ -36,7 +39,7 @@ standards:
 - Follow company brand standards
 - Assist other departments, as necessary
 
-*What are we looking for?*
+### What are we looking for?
 
 Receptionists serving Hilton brands are always working on behalf of our Guests
 and working with other Team Members. To successfully fill this role, you should
