@@ -83,14 +83,17 @@ Apple has been one of the most dominant smartphone manufacturers since 2008 and
 has gained a significant market share as well as customer base/loyalty. Their
 decline in sales though, is not to be hindered as well. 
 
-In recent times, the chinese market has been an area which is especially hard for apple to be adequately present in. Let it be because of *trade-wars* or any other reason, fact is that sales are declining and not only in china.
+In recent times, the chinese market has been an area which is especially hard
+for apple to be adequately present in. Let it be because of *trade-wars* or any
+other reason, fact is that sales are declining and not only in china.
 
 Computers and electronics have been shrunken down since their invention and so
-have smartphones. The *"new on the horizon"* technology, such as wearable
-tech will replace today's smartphones, and apple may or may not be
-getting on that *new big thing*. Nevertheless if they will, a bigger question arises considering apple is mainly a smartphone manufacturer.
+have smartphones. The *"new on the horizon"* technology, such as wearable tech
+will replace today's smartphones, and apple may or may not be getting on that
+*new big thing*. Nevertheless if they will, a bigger question arises considering
+apple is mainly a smartphone manufacturer.
 
 The question that arises is what apple is going to do about above mentioned
-decline in smartphone sales and the answer is that they've already done well enough
-of product diversification, that they can possibly sustain without any
+decline in smartphone sales and the answer is, that they've already done well
+enough of product diversification, that they can possibly sustain without any
 smartphone sales.
