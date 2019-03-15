@@ -91,5 +91,6 @@ tech will replace today's smartphones, and apple may or may not be
 getting on that *new big thing*. Nevertheless if they will, a bigger question arises considering apple is mainly a smartphone manufacturer.
 
 The question that arises is what apple is going to do about above mentioned
-decline in smartphone sales and the answer is that they've already done well enough of product diversification, that they can possibly sustain without any
+decline in smartphone sales and the answer is that they've already done well enough
+of product diversification, that they can possibly sustain without any
 smartphone sales.
