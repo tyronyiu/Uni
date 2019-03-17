@@ -97,3 +97,5 @@ The question that arises is what apple is going to do about above mentioned
 decline in smartphone sales and the answer is, that they've already done well
 enough of product diversification, that they can possibly sustain without any
 smartphone sales.
+
+
