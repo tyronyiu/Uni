@@ -71,11 +71,11 @@ The smartphone market has seen incredible growth in its beginnings, everybody
 had to get one, but as the marginal benefit from *upgrading* a phone declined,
 due to a lack of innovation and technological limitations, so did the sales. The
 accessibility of technology allowed many new entries into the market and the
-oligopolic smartphone market has become one of monopolistic competition and 
-finally more homogenous in terms of the product.
+oligopolistic smartphone market has become one of monopolistic competition and 
+finally more homogeneous in terms of the product.
 
 Apple, as a smartphone selling company, has experienced mentioned changes in the
-smartphone market environemnt first hand, was influenced by them and based
+smartphone market environment first hand, was influenced by them and based
 changes to be made that concern the internal company, on such *macro* trends.
 
 On the other hand, the many smartphone manufacturers that have been enjoying
@@ -87,7 +87,7 @@ Apple has been one of the most dominant smartphone manufacturers since 2008 and
 has gained a significant market share as well as customer base/loyalty. Their
 decline in sales though, is not to be hindered as well. 
 
-In recent times, the chinese market has been an area which is especially hard
+In recent times, the Chinese market has been an area which is especially hard
 for apple to be adequately present in. Let it be because of *trade-wars* or any
 other reason, fact is that sales are declining and not only in china.
 
