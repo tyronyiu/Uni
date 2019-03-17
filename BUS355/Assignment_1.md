@@ -25,4 +25,11 @@
    aspects sometimes need to be hyperbolically expressed to be distinct enough
    for everyone in the audience to pick up.
 
-3. 
+3. The board would say he is responsible for his actions and thus the removal of
+   steve was logically supported. From Steve's point of view, he was forced out
+   of the thing he created and envisioned, which doesn't seem fair. The matter
+   of the fact is, that it depends whom you ask and whether they see steve as a
+   victim in his role or not. Ultimately, he came back to the company, as a
+   different man one could say and thus it could be said that even though he may
+   have been forced out logically backed and sensible at the time, apple needed
+   jobs.
