@@ -65,14 +65,18 @@ Please ensure that every part you have read from a book or an official website,
 and intend to use in your essay, is paraphrased and in text references provided
 accurately using Harvard Referencing System.
 
-
 ## Apple and their migration from being a producer to service provider
 
-The smartphone market has seen incredible growth at first, but as the marginal
-benefit from *upgrading* their phone declined, so did the sales of smartphone
-producers. The accessibility of technology allowed many new entries into the
-market and the oligopolic smartphone market has become one, moving towards a
-wider range of products, giving customers more choice, which is good. 
+The smartphone market has seen incredible growth in its beginnings, everybody
+had to get one, but as the marginal benefit from *upgrading* a phone declined,
+due to a lack of innovation and technological limitations, so did the sales. The
+accessibility of technology allowed many new entries into the market and the
+oligopolic smartphone market has become one of monopolistic competition and 
+finally more homogenous in terms of the product.
+
+Apple, as a smartphone selling company, has experienced mentioned changes in the
+smartphone market environemnt first hand, was influenced by them and based
+changes to be made that concern the internal company, on such *macro* trends.
 
 On the other hand, the many smartphone manufacturers that have been enjoying
 near monopolistic competition for many years, are seeing themselves in troubling
