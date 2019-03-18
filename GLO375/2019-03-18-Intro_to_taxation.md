@@ -40,15 +40,15 @@ inevitability and regularity.
 
 ## More principles of Taxation
 
-**Adequacy** : taxes should be just-enough to generate revenue required for
+**Adequacy**: taxes should be just-enough to generate revenue required for
 provision of public services. 
 
-**Broad Basing** : taxes should be spread over as wide as possible section of
+**Broad Basing**: taxes should be spread over as wide as possible section of
 the population, or sectors of economy, to minimize the individual tax burden. 
 
-**Neutrality** : taxes should not favour one group or sector over another, and
+**Neutrality**: taxes should not favour one group or sector over another, and
 should not be designed to interfere-with or influence individual
 decisions-making. 
 
-**Simplicity** : tax assessment and determination should be easy to understand
+**Simplicity**: tax assessment and determination should be easy to understand
 by an average taxpayer
