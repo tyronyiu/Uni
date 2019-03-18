@@ -3,8 +3,8 @@
 ## Task:
 
 ‘Find a multinational organisation of your choice and describe and evaluate
-specific changes that they went through.  Why was the change triggered, how was
-it managed and was it successful or not.  Whilst you are performing this
+specific changes that they went through. Why was the change triggered, how was
+it managed and was it successful or not. Whilst you are performing this
 analysis, please use appropriate theories, models and relevant examples.’
 
 ## Requirements
@@ -65,6 +65,26 @@ Please ensure that every part you have read from a book or an official website,
 and intend to use in your essay, is paraphrased and in text references provided
 accurately using Harvard Referencing System.
 
+## Executive Summary
+
+This Report is intended to function as an analysis of Apple's choice to expand
+their business in the service sector. The report achieves to lay out why it is
+sense-full to pivot their *(Apple's)* aims towards a service providing future,
+diverging from the path of mass-market products. Knowing that there is value in
+focusing their efforts on the service sector, it is clear why the change was
+triggered. The fact that these changes have happened, enables the analysis of
+success and performance, thus how it was handled, which is vital for reporting.
+
+## Introduction
+
+A business finds itself inside certain environments, we consider the internal
+environment, only including everything within the company, as a collection of
+entities and as such the external environment only excluding what's within the
+company, now we also consider such as the industry, the geographical
+position and how certain attributes of the business are overlapping in
+environments. Within these environments, changes happen constantly, varying in
+scope and nature, thus being exerting more or less *force*.
+
 ## Apple and their migration from being a producer to service provider
 
 The smartphone market has seen incredible growth in its beginnings, everybody
@@ -76,7 +96,11 @@ finally more homogeneous in terms of the product.
 
 Apple, as a smartphone selling company, has experienced mentioned changes in the
 smartphone market environment first hand, was influenced by them and based
-changes to be made that concern the internal company, on such *macro* trends.
+changes, to be made that concern the internal company, on such *macro* trends.
+
+
+
+
 
 On the other hand, the many smartphone manufacturers that have been enjoying
 near monopolistic competition for many years, are seeing themselves in troubling

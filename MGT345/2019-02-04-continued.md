@@ -1,5 +1,4 @@
----
-layout: post
+--- layout: post
 title: "Job Analysis, Recruitment & Selection"
 Date: 2019-02-04
 categories: Uni MGT345
@@ -535,6 +534,7 @@ employment opportunity and affirmative action laws. When HR management practices
 eliminate substantial numbers of minority or women applicants *(prima facie
 evidence)*, then the burden of prof is on the employer to show that the practice
 is job related. 
+
 
 ### Reference checks
 

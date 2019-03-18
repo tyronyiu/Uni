@@ -7,7 +7,7 @@ pertinent details being added/updated as they unfold.
 
 # Introduction
 
-The introduction shall identify the project customer and rpovide a brief
+The introduction shall identify the project customer and provide a brief
 overview of the functionality to be provided.
 
 ## Customer
@@ -29,7 +29,7 @@ these criteria will be utilised to determine when the project is *done* so these
 must be attainable and testable.
 
 Note that the customer is the one who will perform final verification and
-validation - after the release criteria have ben met. Add/modify criteria as
+validation - after the release criteria have been met. Add/modify criteria as
 appropriate for the current project.
 
 ## Project Risks

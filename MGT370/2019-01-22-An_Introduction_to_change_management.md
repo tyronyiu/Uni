@@ -11,10 +11,10 @@ environment.
 
 Change Management aims to oppose resistive forces. Mostly, human resources are
 those that generate problematic situations. Thus, the resistive factor to
-change, people are the entitity of focus. Change can occur from different
+change, people are the entity of focus. Change can occur from different
 sources, e.g. a merger/acquisition or a political change such as Brexit
 negotiations are examples of change considered. Kolb (David Kolb, 2019) has
-determined a learning stratety aiming to diminish fear of finding fear. Fear is
+determined a learning strategy aiming to diminish fear of finding fear. Fear is
 a resistive factor to change.
 
 > “If the rate of change on the outside exceeds the rate of change on the
@@ -26,7 +26,7 @@ necessary tool to be used in Change Management.
 
 *"Brexit was caused by old people."* This statement is wrong, its correlation,
 not causation. Old people may have the differences in their experiences from
-when britain was not yet part of the EU and from when it was. Thus, the reason
+when Britain was not yet part of the EU and from when it was. Thus, the reason
 for old people being more against staying in the EU is that they have a better
 memory of how it was before.
 
