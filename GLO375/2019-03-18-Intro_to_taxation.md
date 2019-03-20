@@ -6,16 +6,15 @@ categories: UNI GLO375
 ---
 
 
-Taxes are an involuntary fee levied on individuals or corporations that is
+Taxes are an **involuntary** fee levied on individuals or corporations that is
 enforced by a government entity, whether local, regional or national in order to
-finance government activities.Unlike most transfers of money, which are entered
+finance government activities. Unlike most transfers of money, which are entered
 into voluntarily, taxation is compulsory. In previous classes we showed that
 government must intervene in order to provide adequate amount of public goods.
 We also showed that contributions to support public services need to compulsory
 to avoid the free rider problem.  
 
 ## Is Taxation theft?
-
 Such forced transfers have been likened to theft. However there is a major
 difference: transfers through the government wear the mantle of legality and
 respectability conferred upon them by the political process. When the political
@@ -24,7 +23,6 @@ transfer resources to the groups in power, the distinction between taxation and
 theft becomes blurred at best. 
 
 ## Principles of Taxation
-
 ### Adam Smith's four principles for taxation 
 1. Equality: taxes should equally burden all individuals or entities in similar
    economic circumstances.  
@@ -40,7 +38,6 @@ compliance to the maximum extent possible.
 inevitability and regularity. 
 
 ### More principles of Taxation
-
 **Adequacy**: taxes should be just-enough to generate revenue required for
 provision of public services. 
 
@@ -55,14 +52,12 @@ decisions-making.
 by an average taxpayer
 
 ## Effects of Taxation
-
 - Behavioral Effects 
 - Financial Effects 
 - Organizational Effects 
 - General Equilibrium Effects
 
 ## Announcement effects
-
 Economy does not adjust automatically to a tax. Often the long term distortions
 are bigger than the short term distortions, as the economy is able to respond
 more fully to the new circumstances. However, in some cases the effects of a tax
@@ -72,7 +67,6 @@ increase in property tax, will impact the construction industry even before tax
 is imposed.  
 
 ## Distortionary and Non-distortionary Taxation
-
 A tax is *nondistortionary* if, and only if, there is nothing an individual or firm
 can do to alter the tax liability. Economists call taxes that are
 *nondistortionary* lump-sum taxes.An example would be a head-tax, a tax one has to
@@ -83,7 +77,6 @@ product, an individual can reduce his/her liability by simply purchasing less
 units. 
 
 ## Types of Taxation
-
 In 1696 in England, was introduced the Window tax. Houses with more than ten
 windows had to pay a steep ten shillings. Many houses bricked up their windows
 to reduce the number which caused health problems. After 156 years, it was
@@ -98,7 +91,6 @@ New York, a bagel by itself is exempt from tax. But if you slice a bagel or
 smear anything on it, then it's a "prepared food" 
 
 ### Direct and Indirect Taxes
-
 There are two broad categories of taxes: direct taxes on individuals and
 corporations and indirect taxes on goods and services.
 **Direct taxes include:**
@@ -109,3 +101,51 @@ corporations and indirect taxes on goods and services.
 - Taxes on Consumption/sales: VAT, sales tax, excise taxes (tobacco, alcohol
   etc.) 
 - Taxes on Imports/Exports: tariffs/duties
+
+### Per unit or *Ad Valorem* Taxes
+A per unit taxis a set amount of tax per unit sold, such as a 10p tax on packets
+of cigarettes. In contrast, an *ad valorem* tax is a percentage tax based on the
+value added by the producer, such as a 20% VAT.
+
+### Tax revenues in the world
+![Taxes around the World](https://i.ibb.co/wKKjyr8/taxes-around-the-world.png)
+
+### Taxation Terms
+![Terms around Taxation](https://i.ibb.co/xgDn9hQ/tax-terms.png)
+
+### Tax evasion and avoidance
+Both aim to reduce tax liability. Tax Evasion is illegal. Breaking the letter
+and the spirit of the law. Tax Avoidance is Legal. Breaking the spirit, not the
+letter of the law. 
+
+### Income Tax
+An income taxis a tax imposed on individuals or entities (taxpayers) that varies
+with their respective income or profits (taxable income).Income can be taxed at
+source (payment of income is done after the deduction of tax) or can be taxed
+after receipt of income. E.g. Pay as you Earn (PAYE) vs Self Assessment. 
+
+![Income Tax Rates around the
+world](https://i.ibb.co/pbyFG6j/world-tax-rate-comparison.png)
+
+### Sales Tax
+A value-added tax (VAT), also known in some countries as goods and services tax
+(GST), is a type of general consumption tax that is collected incrementally,
+based on the increase in value of a product or service at each stage of
+production or distribution. 
+
+### Sales Tax Vs. VAT
+VAT (Value-Added Tax) is collected by all sellers in each stage of the supply
+chain. Suppliers, manufacturers, distributors and retailers all collect the
+value added tax on taxable sales. All pay the VAT on their purchases. Businesses
+must track and document the VAT they pay on purchases that will be resold in
+order to receive a credit for the VAT paid on their tax return. Tax
+jurisdictions receive the tax revenue throughout the entire supply chain as
+opposed to at the sale to the final consumer chain.In United States there is no
+VAT (the only OECD country without one). Instead a sales tax is collected by the
+retailer when the final sale in the supply chain is reached via a sale to the
+end consumer. End consumers pay the sales tax on their purchases. Unlike VAT,
+sales tax is levied on the total value of goods and services purchased. 
+
+![Calculating VAT](https://i.ibb.co/jvdtV3Y/VAT.png)
+
+
