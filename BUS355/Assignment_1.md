@@ -1,3 +1,9 @@
+---
+authors: Ty Yiu
+title: "Assignment 1 - Steve Jobs"
+date: 2019-03-17
+---
+
 ## Questions
 
 1. How would you describe the leadership style of Steve Jobs as depicted in the
@@ -8,32 +14,7 @@
 3. Steve Jobs was forced out of the company he co-founded. Was he a victim or
    did he have responsibility for that?
 
-## Notes
-
-1. He's autocratic, commanding, non-sensible for in-house recommendations et
-   cetera.
-
-2. My opinion is, that Steve was probably worse in the movie, especially with
-   dramatic effects added to the scenery to make the experience of the movie
-   have bigger of an influence on the audience watching. It is absolutely no
-   problem and is completely acceptable as artistic freedom. The limits of
-   artistic freedom start where they interfere with the freedom of societal
-   entities. The movie didn't need a look-alike like *Ashton Kutcher* in the
-   2013 version of the movie, but an authentic and really good actor to bring
-   across the dramatically evolving story. Even the depiction, let it be worse
-   than he actually was in real life, is acceptable as artistic freedom, as
-   aspects sometimes need to be hyperbolically expressed to be distinct enough
-   for everyone in the audience to pick up.
-
-3. The board would say he is responsible for his actions and thus the removal of
-   Steve was logically supported. From Steve's point of view, he was forced out
-   of the thing he created and envisioned, which doesn't seem fair. The matter
-   of the fact is, that it depends whom you ask and whether they see Steve as a
-   victim in his role or not. Ultimately, he came back to the company, as a
-   different man one could say and thus it could be said that even though he may
-   have been forced out logically backed and sensible at the time, apple needed
-   jobs.
-
+-------------------------------------------------------------------------------
 
 ## Executive Summary
 
@@ -55,19 +36,38 @@ treated his employees in a verbally rough manner and didn't restrain his
 impulsiveness nearby. Jobs pushed his people to do better and work harder,
 which he is also often being praised for. The fact that his leadership style
 dramatically changed after the point of his returning, wasn't particularly
-*outstanding* to the watcher. Before leaving Apple, his leadership style was
-commanding with an autocratic undertone. He was impulsive and didn't hesitate to
-publicly express his anger nearby or directed towards employees. Employees were
-intimidated by him and feared the consequence of failure. Jobs himself saw his
-leadership style as more motivational in nature than suppressive or abusive. He
-famously said that *the people working for him are skilled enough and wanted
-enough to go to any big corporation, but rather stay at apple to get amazing
-things done*, which emphasises the point of him being motivational instead of
-being suppressive. The leadership style in the movie was clearly depicted as
-rather suppressive, but considering that the majority of the movie was in fact
-within the time period in which Steve was young, immature and impulsive, it
-makes sense that there is a major presence of these (young age negatively
-attributed) traits in his character and thus his leadership style.
+*outstanding* to the watcher in the movie. Before leaving Apple, his leadership
+style was commanding with an autocratic undertone. He was impulsive and didn't
+hesitate to publicly express his anger nearby or directed towards employees.
+Employees were intimidated by him and feared the consequence of failure. Jobs
+himself saw his leadership style as more motivational in nature than suppressive
+or abusive. He famously said that *the people working for him are skilled enough
+and wanted enough to go to any big corporation, but rather stay at apple to get
+amazing things done*, which emphasises the point of him being motivational
+instead of being suppressive. The leadership style in the movie was clearly
+depicted as rather suppressive, but considering that the majority of the movie
+was in fact within the time period in which Steve was young, immature and
+impulsive, it makes sense that there is a major presence of these (young age
+negatively attributed) traits in his character and thus his leadership style.
+His leadership style is though not only defined by his employee's or how he
+treats them, but requires many more perceptions to grasp a full image. An
+example of such would be the public perception of Steve and the projected image
+of his leadership style, based on the public's image of Steve. In the movie
+there was an obvious change in public opinion of Steve Jobs, given that the time
+period in which the movie takes place spans from before the creation of Apple to
+the return of Jobs to Apple with the acquisition of his company *NeXT*. The
+public image of Steve at the end of the movie was very clearly as how most of
+today's people have him in mind, being very positive indeed about his work at
+Apple. Hence, the leadership style one could conclude from having the *average*
+public image of Jobs is as well positive. The flaws of his character are not to
+be anticipated until further knowledge about him is acquired. On the other hand,
+in the beginning of the movie the public image of Steve was not as heroic, but
+rather ridiculous. Very much so, due to the fact of being head of a small
+startup et cetera and being called a *dreamer* frequently for his *visions* and
+ambitions of the personal technological industry for the consumer. Thus, it can
+be concluded that during the beginnings of his career, Steve didn't only project
+a proportional negative perception within the firm, but also within the public.
+Where as at the end of the movie, as above stated, that changed to the opposite.
 
 ## The depiction of Jobs in the movie in contrast to reality
 
@@ -128,13 +128,18 @@ following quote from Mossberg:
 > cigars. That person doesn't appear in the Sorkin film.
 > (Mossberg, 2015)
 
-Mossberg's opinions about this movie coincide with mine, in that the movie had a
-focus on the early part of his life, filled with his impulsiveness, rather than
-being a balanced, actual representation of Steve. But that is what happens when
-one limits the scope of coverage of a movie, parts are being left out, which may
-be important for the overall picture, but are not what the movie produces by
-intending to show his struggles rather than his experienced and wise character
-at the more mature state of his life.
+Steve most of the movie was very emotionally cold, absent and distanced,
+especially to people that should be close to him. Though, at the very end of the
+movie that all changed and the warm, understanding, caring and sensible side of
+Steve, of which Mossberg would have liked to see more of, surfaced and presented
+itself to the audience in an adequate manner.
+Henceforth, Mossberg's opinions about this movie coincide with mine, in that the
+movie had a focus on the early part of his life, filled with his impulsiveness,
+rather than being a balanced, actual representation of Steve. But that is what
+happens when one limits the scope of coverage of a movie, parts are being left
+out, which may be important for the overall picture, but are not what the movie
+produces by intending to show his struggles rather than his experienced and wise
+character at the more mature state of his life.
 
 Steve Wozniak, the second most known Apple co-founder, also gave a statement on
 the movie after its release, but had seen in pre-production already, thus had a
@@ -177,30 +182,55 @@ first place.
 ## Jobs's removal and reinstating Jobs 
 
 Given what has been said above, it is clear that his removal was definitively
-character forming and ultimately for the better for him. Him being reinstated
-happened twelve years after him leaving, thus the Steve who came back to Apple
-was not the one who left in terms of character. The acquisition of *NeXT* was
-also quite important in terms of technology for Apple, due to the superior
-operating system. Thus, him having been reinstated has more reasons than Sully
-wanting Steve back. 
-Whether or not he was a victim or it was fair to remove him, depends on what one
-see's in his role. Steve is a very similar CEO to Elon Musk, thus their
-*specialities* when it comes to running their firm. They aren't CEO's in the
-traditional sense, but inspiring leaders that have a vision they want to see
-reality and want everyone else to see. Were he CEO instead of Sully, he wouldn't
-have been removed, but maybe would have been in similar troubles on the
-forefront of innovation of operating systems, which was the particular reason
-for the end of Sully's CEO position.
-Steve was rightfully removed, in that he, in his position was wrong and did
-actually step outside of his borders within the team/company. Sully was
-responsible for the well-running of the company, including harnessing the
-incredible energy of Jobs, which he as known occasionally exerts negatively.
-Henceforth, Sully had the responsibility of ultimately removing Steve from the
-team. Did He only know to let Steve have his on space to let him do things on
-his own without anyone interfering until finished. 
+character forming and ultimately for the better for his character. Him being
+reinstated happened twelve years after him leaving, thus the Steve who came back
+to Apple was not the one who left, in terms of character. The acquisition of
+*NeXT* was also quite important in terms of technology for Apple, due to the
+superior operating system, which the *Lisa II* was lacking. Thus, him having
+been reinstated has more reasons than Sully wanting/needing Steve back. Whether
+or not he was a victim or it was fair to remove him, depends on what one see's
+in his role. Steve is a very similar CEO to Elon Musk, thus their *specialities*
+when it comes to running their firm. They aren't CEO's in the traditional sense,
+but inspiring leaders that have a vision they want to see be reality and want
+everyone else to see.  Were he CEO instead of Sully, he wouldn't have been
+removed, but maybe would have been in similar troubles on the forefront of
+innovation of operating systems for example, which was the particular reason for
+the end of Sully's CEO position, combined with many failures like the Newton (In
+which Jobs did actually see potential, but without the stylus, ultimately having
+become/resemblance the iPad). Steve was rightfully removed, in that he, in his
+position was wrong and did actually step outside of his borders within the
+team/company. Sully was responsible for the well-running of the company,
+including harnessing the *energy* of Jobs, which he as known occasionally exerts
+*in exteriorem* negatively. Henceforth, Sully had the responsibility of
+ultimately removing Steve from the team. Was Jobs a victim? - Definitely not,
+because he has given up the position to have the power to prevent his removal in
+the first place and additionally, as above mentioned, stepped outside his
+borders attached to his position, not being CEO. In the movie, Jobs saw his
+removal being due to the impulsive and overall negative Image he presented to
+the board and the problems with the Mac. 
 
+## Conclusion
+
+Steve changed over time and the movie focuses on the early part of his life,
+thus the predominant negatively impulsive image of him. The Steve that many
+would liked to have seen in the movie, the more mature Steve, had his presence
+confined to the last scenes, thus the public *"outrage"* regarding Steve's
+depiction in the movie. Aaron Sorkin though defended his creative freedom with
+the artistic, realistic and sublime performance of the actors. The 2013 version
+starred *Ashton Kutscher*, the 2015 version *Michael Fassbender* who has no
+resemblance with Jobs at any part of his life, where as *Kutscher* does resemble
+Jobs at a young age. This is important for Sorkin's argument of artistic freedom
+and his look in the movie, which is intended to balance the artistic depiction
+of his character. His removal was his responsibility, considering that Sully had
+responsibilities as well, which unfortunately converged with Jobs, due to Steve
+creating reason and scenario for Sully to enact his responsibilities in the
+first place.
+
+--------------------------------------------------------------------------------
 
 ## References
+
+Steve Jobs. (2015). [film] Directed by D. Boyle. Hollywood: Universal Studios.
 
 When Steve Jobs Got Fired By Apple. (2019). ABC News. Retrieved 15 March 2019,
 from

@@ -71,7 +71,7 @@ state* to a *desired future state*. It depends on how much time will be needed,
 resources available et cetera. How one defines where to be in future, is
 subjective, thus *structure* is the framework in which objectives have to be
 defined. A strong plan of action will ensure the journey of a thousand steps a
-step at a time. Implicated interest in change will easen or harden the process
+step at a time. Implicated interest in change will ease or harden the process
 of implementing change or accepting the going forward in the first place. Change
 affects different entities differently, some may perceive it positively, some
 negatively. Organisational change management processes and individual change
@@ -79,7 +79,7 @@ management models.
 
 ### Four Features of Change Management
 
-Change is the result of dissatisfaction with present strategies. it is essential
+Change is the result of dissatisfaction with present strategies. It is essential
 to develop a vision for better alternatives. Management have to develop
 strategies to implement change. There will be resistance to change. There is an
 essential difference between emotion and logic when perceiving Change. Change
