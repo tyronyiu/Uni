@@ -97,3 +97,15 @@ The question that arises is what apple is going to do about above mentioned
 decline in smartphone sales and the answer is, that they've already done well
 enough of product diversification, that they can possibly sustain without any
 smartphone sales.
+
+
+
+
+## Privacy
+
+Apple is *very* serious about privacy and has that as a primary principle
+integrated into all their services. In fact, even *"Samsung Smart TVs* are
+*unable to track usage inside of iTunes." (Apple is putting iTunes on Samsung
+TVs, 2019)*, which normally do track the user's usage, about which has been
+heavily disputed online.  Henceforth, it is clear what Apple's vision for after
+the change implementation is. 

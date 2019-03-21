@@ -5,7 +5,6 @@ author: Ty Yiu
 ---
 
 ## Executive Summary
-
 This Report is intended to function as an analysis of Apple's choice to expand
 their business in the service sector. The report achieves to lay out why it is
 sense-full to pivot their *(Apple's)* aims towards a service providing future,
@@ -15,7 +14,6 @@ triggered. The fact that these changes have happened, enables the analysis of
 success and performance, thus how it was handled, which is vital for reporting. 
 
 ## Introduction
-
 A business finds itself inside certain environments, we consider the internal
 environment, only including everything within the company, as a collection of
 entities and as such the external environment only excluding what's within the
@@ -73,22 +71,20 @@ towards a service heavy organisation. Then the actual steps and considerations
 taken towards implementing the change are laid out, followed by a projection of
 the process towards a possible future state the company desires to be in. 
 
-## Apple and their migration from being a producer to service provider
-
-The smartphone market has seen growth unlike most, as seen in figure 1, but is
-by now pretty much saturated. It turned into a red ocean market leaving
-developed firms competing for developing countries' markets for growth. As
-domestic alternatives enter the competition it becomes obvious that the
-situation is not sustainable.
-Everybody had to get one, but as the marginal benefit from *upgrading* a phone
-declined, due to a lack of innovation and technological limitations, so did the
-sales. The accessibility of technology allowed many new entries into the market
-and the oligopolistic smartphone market has become one of monopolistic
-competition and finally more homogeneous in terms of the product.
+## Apple - Migrating from being a product to a service provider
+The smartphone market has seen growth unlike most, but is by now pretty much
+saturated. It turned into a red ocean market leaving developed firms competing
+for developing countries' markets for growth. As domestic alternatives enter the
+competition it becomes obvious that the situation is not sustainable.  Everybody
+had to get one, but as the marginal benefit from *upgrading* a phone declined,
+due to a lack of innovation and technological limitations, so did the sales. The
+accessibility of technology allowed many new entries into the market and the
+oligopolistic smartphone market has become one of monopolistic competition and
+finally more homogeneous in terms of the product.
 
 Apple, as a smartphone selling company, has experienced mentioned changes in the
 smartphone market environment first hand, was influenced by them and based
-changes, to be made that concern the internal company, on such *macro* trends.
+changes, to be made, that concern the internal company, on such *macro* trends.
 Their struggles with the Chinese market indicate the urgency for an alternative
 strategy for revenue streams, as share prices dipped and public concerns were
 raised after *bad* sales/revenue reports were made public. Furthermore, Apple
@@ -107,22 +103,22 @@ devices pack as much technology as they can, come in at a higher price (and
 should thus have a longer product life-span). Now, that sales are dropping and
 prices are rising, Apple needs an alternative strategy, especially when
 considering that the iPhone is their main product. Apple could simply
-*innovate* or push another product in their long list or introduce new products
-to other markets. And they did in fact do so, having entered the loud-speaker
-market or the headphone market. (in which they have been very successful so far,
-considering their *Airpods* wireless earphones) It has also long be rumored for
-apple to be working on an electric car, smart-glasses and other products for
-blue ocean markets. But those actions taken are not the change Apple has been
-driving so carefully and deliberately over the years.
+*innovate* or push another product in their long list of products or introduce
+new products to other markets. And they did in fact do so, having entered the
+loud-speaker market or the headphone market. (in which they have been very
+successful so far, considering their *Airpods* wireless earphones) It has also
+long be rumored for apple to be working on an electric car, smart-glasses and
+other products for blue ocean markets. But those actions taken are not the
+change Apple has been driving so carefully and deliberately over the years.
 
 Introducing the change Apple is driving to further grow their business,
 *becoming a service provider*. They have a very competitive and coherent
 ecosystem, all their products and services work and integrate seamlessly and
-effortlessly.  Thus, leveraging their most valuable and widespread, market
+effortlessly. Thus, leveraging their most valuable and widespread, market
 overlapping, asset, the ecosystem in their customer base. Apple has been
-building their software service portfolio since a long time.  Let it be *iTunes*
+building their software service portfolio since a long time. Let it be *iTunes*
 which has been one of the earliest, most influential and one of the longest
-successfully running music and TV content providing service.  With the release
+successfully running music and TV content providing service. With the release
 of the second iPhone around 2009, *the App store* debuted, which can even be
 classified as a monopoly. Then came *iCloud*, a personal data storage and
 content delivery network architecture built by apple with extreme security and
@@ -147,49 +143,40 @@ themselves in a very good position in terms of interconnecting their services to
 benefit each other. 
 
 ### Implementing Change
-
 To examine how apple implemented the stated change to diversify their service
 portfolio, *Kotter's plan for implementing change* is useful. 
 
-#### Establish a sense of urgency by creating a compelling reason for why change is needed.  
-
+#### The sense of urgency creating reasons for change
 As above mentioned, apple identified the urgency for change given the saturated
 market. The sense of urgency created itself by reflecting the sales in their
 reports. 
 
-#### Form a coalition with enough power to lead the change.
-
+#### Accumulation and correspondence of change-drivers
 Apple is such a big company, that departments within can be seen as entities
 forming coalitions. These coalitions are constituent of the services they
 already had up to the point of realising the need for change to occur, the
 stagnation. 
 
-#### Create a new vision to direct the change and strategies for achieving the vision
+### Formulation of strategies for achieving new defined vision
+*CES* (consumer electronics show) 2019 included some unheard of and very much
+surprising turn of events, in which many companies like Samsung, Sony, LG, and
+others announced to support Apple's Airplay and bring iTunes to their TVs (Apple
+is putting iTunes on Samsung TVs, 2019). Apple now not only has their own
+ecosystem to leverage for their already existing and upcoming services, but also
+the ecosystems of their competitors. Additionally, Apple doesn't sell TVs due to
+the low margins on them and the product life cycle and production cost, which
+leaves customers integrated into the apple ecosystem without any option to bring
+Apple's content to the *big screen*. Apple has been building their services
+such as iTunes over a long time and thus have a significant advantage to anyone
+wanting to compete with them. The plan though is not only to leverage the
+ecosystems of their competition but also become a viable alternative for the
+services offered by the competition, e.g. the creation of original content. The
+reason for them having a chance at becoming an alternative is not only due to
+the product itself, which can seem homogeneous, but the underlying principles
+that these services follow, like privacy, which is a primary principle for
+Apple. 
 
-CES 2019 included some unheard of and very much surprising turn of events, in
-which many companies like Samsung, Sony, LG, and others announced to support
-Apple's Airplay and bring iTunes to their TVs (Apple is putting iTunes on
-Samsung TVs, 2019). Apple now not only has their own ecosystem to leverage for
-their already existing and upcoming services, but also the ecosystems of their
-competitors. Additionally, Apple doesn't sell TVs due to the low margins on them
-and the product life cycle and production cost, which leaves customers
-integrated into the apple ecosystem without any option to bring Apple's content
-to the *big screen*.  Apple has been building their services such as iTunes over
-a long time and thus have a significant advantage to anyone wanting to compete
-with them. The plan though is not only to leverage the ecosystems of their
-competition but also become a viable alternative for the services offered by the
-competition, which ecosystems Apple is leveraging. The reason for them having a
-chance at becoming an alternative is not only due to the product itself, which
-can seem homogeneous, but the underlying principles that these services follow,
-like privacy. Apple is *very* serious about privacy and has that as a primary
-principle integrated into all their services. In fact, even *"Samsung Smart TVs*
-are *unable to track usage inside of iTunes." (Apple is putting iTunes on
-Samsung TVs, 2019)*, which normally do track the user's usage, about which has
-been heavily disputed online. Henceforth, it is clear what Apple's vision for
-after the change implementation is. 
-
-#### Communicate the vision throughout the organization.
-
+#### Communicating the new vision 
 The communication throughout the organisation has happened behind doors, but
 what we know from interviews directly. *"Eddie Cue is Apple's senior vice
 president of Internet Software and Services"* (Apple Leadership - Eddy Cue,
@@ -203,9 +190,11 @@ president of Internet Software and Services"* (Apple Leadership - Eddy Cue,
 Thus, it can be concluded that communication has been
 successful, given that horizontal as well as vertically aligned departments are
 on the same page about the future of Apple's service sector.
+Important to notice at this point is the fact, that all these competitors and
+stakeholders automatically impose a risk associated with plans to change, as any
+of the stakeholder may possess a resistive force to the change proposed.
 
-#### Empower others to act on the vision by removing barriers to change and encouraging risk taking and creative problem solving.
-
+#### Removing barriers to change and empowering change driven
 This has been done by opening up the software, as the change is software service
 dependent. The *Software development kits* Apple made available for developers,
 makes the integration of their services and the integration of other services
@@ -215,16 +204,15 @@ Developers are playing a *huge* role in Apple's success in the service sector.
 An example would be the *Siri* integration possibility, which make third-party 
 services work as if they were one of Apple's.
 
-#### Plan for, create, and reward short-term “wins” that move the organization toward the new vision.
+#### Reviewing implementations and acting upon the implementation process All
+approaches of services have been successful so far for apple and especially the
+long-term wins can be seen in the leadership of Apple having changed lately,
+such an example could be the installation of *Eddie Cue* at leadership level
+(Apple Leadership - Eddy Cue, 2019), which not only clearly indicates their
+seriousness about services, but also shows the successes of their plans to
+implement the change labour.
 
- All approaches of services have been successful so far for apple and the wins
- can be seen in the leadership of Apple having changed lately, such an example
- could be the installation of *Eddie Cue* at leadership level, which not only
- clearly indicates their seriousness about services, but also shows the
- successes of his labour, concrete wins.
-
-#### Consolidate improvements, reassess changes, and make necessary adjustments in the new programs.
-
+#### Further adjustments to the original implementation process
 > *"Cook said that third-party video subscriptions available on the App Store
 > provide another opportunity for Apple that could "accelerate in the future" as
 > customers are likely to buy multiple services, and finally, Cook pointed
@@ -236,22 +224,20 @@ The above shows how apple thinks about doing necessary adjustments and new
 additions to grow. The interrelatedness of their services becomes obvious and
 their intentions of becoming somewhat resemblant with a media company.
 
-#### Reinforce the changes by demonstrating the relationship between new behaviors and organizational success.
-
-Apple has seen success and developed more of what seems to be working, thus
-reinforcing, strengthening their change. The most recent citations also supports
-this argument.
-
 ## Conclusion & Recommendations
-
-
-
-
-
-
-
-
-
+Apple's desire to change, urged by the change in market which comes in form of
+low-sales due to the saturation of the market, has been successful in process
+for the last years. The fact, that they have been expanding in the service
+sector even before the urge to change has become evident, lays out the advantage
+that Apple has in the service sector already and may be partial reason for their
+success so far. The change has been envisioned, planned and integrated over a
+comparative long period of time, even before the change that urged Apple to
+perform changes within the company occurred. Big companies don't always
+successfully integrate change, considering examples like Nokia. Henceforth,
+Apple's progression so far thanks to the wide spread implementation combined
+with the many change drivers associated, has been extraordinary and will
+seemingly not reduce momentum, expanding and optimising their offered range of
+services.
 
 ------------------------------------------------------------------------------
 

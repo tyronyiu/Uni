@@ -148,4 +148,22 @@ sales tax is levied on the total value of goods and services purchased.
 
 ![Calculating VAT](https://i.ibb.co/jvdtV3Y/VAT.png)
 
+### Excise Tax
 
+Excise taxes or duties are taxes paid when purchases are made on a specific good
+or service. Often in attempt to reduce its consumption. Excise taxes are
+sometimes referred to as sin taxes.Although referred to as taxes, most times
+they are duties as they are levied at the moment of manufacture, rather than at
+sale. An excise is typically a per unit tax that applies to a narrow range of
+products and is typically heavier, accounting for a higher fraction of the
+retail price of the targeted products. As a deterrent, excise is typically
+directed towards three broad categories of harm:
+
+- health risks 
+- environmental damage
+- socially damaging / morally objectionable activity
+
+An earmarked tax is a tax whose revenues are by law reserved solely for a
+specific usage. Monies raised through excise may be *earmarked* for redress of
+specific social costs commonly associated with the product or service on which
+it is levied.
