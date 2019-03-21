@@ -58,11 +58,10 @@ The shift from being B2B dominated industry to selling a computer to
 individuals. Apple changed the model, targeting consumers mainly.
 
 ## Supply Chain relationships
-![]()
 
 ## Factors for rating alternative suppliers
 Short term ability to supply        | Long term ability to supply
------------------------------       | ----------------------------
+----------------------------------- | ----------------------------
 Range of products services provided | Potential for innovation
 Quality of products/services        | Ease of doing business
 Responsiveness                      | Willingness to share risk
