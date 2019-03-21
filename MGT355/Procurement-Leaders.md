@@ -11,7 +11,7 @@ categories: Uni MGT355 Speaker
 - Alex Franklin (People advisor)
 
 ### Procurement
-Building a supply chain by considering acquisition of resources.
+> Building a supply chain by considering acquisition of resources.
 
 Since much of procurement can be done via automation, utilising AI to compare
 and analyse costs and finding an effective/efficient supply chain, procurement
