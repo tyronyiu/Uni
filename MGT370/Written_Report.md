@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Change Management - Written Report"
 date: 2019-03-12
 author: Ty Yiu

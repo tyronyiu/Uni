@@ -1,4 +1,5 @@
 ---
+layout: post
 authors: Ty Yiu
 title: "Assignment 1 - Steve Jobs"
 date: 2019-03-17
