@@ -1,5 +1,6 @@
 
---- layout: post
+---
+layout: post
 title: "Training and Development"
 Date: 2019-02-04
 categories: Uni MGT345
