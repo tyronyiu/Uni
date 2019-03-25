@@ -71,6 +71,24 @@ selection.
    the best candidates for her data entry position? Design a complete selection
    process.
 
+**Answer** 
+: Betsy did not use any screening method. Bob did not hand in a
+resume. She didn't use any selection testing methods nor reviewed the applicant
+or the interview they conducted, but rather made a selection decision straight
+away without consultation or reflection upon the applicant. A selection process
+that she could have employed is to start with doing a preliminary screening on
+the applicants. The problem is, that she only left three days for applicants to
+apply. Thus, leaving more time before deciding on a candidate is what she should
+have done. After having done preliminary screening, the smaller pool of
+potential candidate's resumes and CV's are considered, before starting the
+selection testing process. This step is to see whom of the applicants are more
+adequate to do the job, the left over applicants are then often interviewed,
+which should this time be done in a structured manner. After all these
+considerations, the pool of applicants has become significantly slimmer and it
+should hence ease the selection process.After all these considerations, the pool
+of applicants has become significantly slimmer and it should hence ease the
+selection process.
+
 ## Part 2. Learning the Ropes?
 As supervisor of six data entry clerks on the night shift at the Data production
 Center, Betsy was eager to find good quality employees. She thought she had
@@ -100,7 +118,25 @@ there was some leeway in the schedule due to varying weekly and monthly loads,
 her flexibility was limited.
 
 4. Does Betsy have a problem here?
+
+**Answer**
+: Definitely, the fact that Bob has not worked with a key-punch machine before
+should have been found out about during the selection process. Due to the lack
+of proper selection, this problem has only surfaced now. Betsy's worries are
+reasonable, given that she caused them and would be held reliable in case of the
+job placement going south. 
+
 5. Evaluate her coaching and orientation of Bob
+
+**Answer**
+: Betsy is apparently sympathetic towards Bob. His struggle and her knowing that
+she probably made an over-hasty decision, cause her wanting Bob to succeed, to
+support her decision about employing him. Her sympathy towards Bob and
+*intuitive* nature caused these problems in the first case. Betsy is even
+considering doing training with Bob, which is completely inappropriate,
+considering that Bob should already be able to do the Job. She should not be
+using paid time to do training with an employee, it is not her job, nor should
+this circumstance have been created in the first place.
 
 ## Part 3. An Explosive Problem
 Betsy decided to cross-train Bob for some of the clerical and administrative
@@ -138,5 +174,12 @@ I'll fire him." Betsy left Sharon's office, shaken and unsure what to do.
 - With Bob?
 - With the other co-workers in the unit?
 - With her boss Sharon Leigh?
+
+**Answer**
+:
+
 7. Is there any legal problem if Bob is terminated because he had ruptured
 another bag?
+
+**Answer**
+:

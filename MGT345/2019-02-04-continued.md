@@ -519,8 +519,8 @@ position and organisation.
 
 ### Pre-employment screening - Background checks
 
-Determine the accuracy of the information submitted. Principalreason is to hire
-better workers and the background investigatoins involve obtaining data from
+Determine the accuracy of the information submitted. Principal reason is to hire
+better workers and the background investigations involve obtaining data from
 various sources, such as former employers. The intensity of background
 investigations depends on the nature of the open position. These investigations
 may be conducted on an ongoing basis. A financial devastation, a marital
@@ -532,7 +532,7 @@ edge.
 Some standards used in background investigations have potential to violate equal
 employment opportunity and affirmative action laws. When HR management practices
 eliminate substantial numbers of minority or women applicants *(prima facie
-evidence)*, then the burden of prof is on the employer to show that the practice
+evidence)*, then the burden of proof is on the employer to show that the practice
 is job related. 
 
 
