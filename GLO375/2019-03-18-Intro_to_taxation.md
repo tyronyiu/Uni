@@ -167,3 +167,39 @@ An earmarked tax is a tax whose revenues are by law reserved solely for a
 specific usage. Monies raised through excise may be *earmarked* for redress of
 specific social costs commonly associated with the product or service on which
 it is levied.
+
+### Wealth Tax
+A wealth tax (also called a capital tax or equity tax) is a levy on the total
+value of personal assets, including: bank deposits, real estate, assets in
+insurance and pension plans, ownership of unincorporated businesses, financial
+securities, and personal trusts. Unlike income, wealth is an accumulation.
+Income is a recurring incoming flow of money. A wealth tax is often frowned
+upon, due to the fact that income is already being taxed, and the wealth tax
+thus ultimately adds an already *existing* tax.
+
+## Tax Systems
+
+### Tax rate 
+is the ratio (usually expressed as a percentage) at which a business or person
+is taxed.
+
+### Tax liability (T)
+Is the total amount of tax due.
+
+### Tax base (B) 
+Is the measure upon which the assessment or determination of tax liability is
+based. E.g. income is the tax base for income tax, value is the tax base for
+property tax 
+
+### Average tax rate (t)
+Is the ratio of the total amount of taxes paid to the total tax base, often
+expressed as a percentage 
+
+$$ t = T/B $$
+
+### Marginal tax rate
+(MTR or t’)is the tax rate an individual would pay on one
+additional dollar of income. It is the ratio of change in tax liability to the
+change in tax base 
+
+$$ MTR = \delta T/ \delta B $$
