@@ -176,10 +176,28 @@ I'll fire him." Betsy left Sharon's office, shaken and unsure what to do.
 - With her boss Sharon Leigh?
 
 **Answer**
-:
+: Bob needs to be informed about the situation he finds himself in and the
+potential risk of loosing his position. The accident was caused by something
+hindering him in performing his job. Again, this should have been spotted prior
+to employment and could have been a legitimate reason for rejecting the
+applicant, as his capability of doing the job is hindered. The other co-workers
+are unfortunately affected by the accident and there is little to do with them,
+other to talk through the events. *Sharon Leigh* is upset for a reason and is
+reasonably blaming Betsy. The whole thing could have been prevented, thus
+*Sharon's* outrage. Betsy needs to ensure *Sharon*, that she in fact made a
+mistake, and will cover up potential agitation as part of her responsibility.
+Bob will have little influence over his position, him promising to learn quick
+doesn't change the entailed potential problems that arise. These issues, like
+the accident, do not only hinder Bob from pursuing his job, but also other
+employees, which needs to be minimised.
 
 7. Is there any legal problem if Bob is terminated because he had ruptured
 another bag?
 
 **Answer**
-:
+: The intention of the circumstance matters highly, properly obeying work
+instructions is vital to minimise the risk of being insinuated of violating a
+policy or having omitted an egregious error in judgement. Because Bob is
+implying much greater effects upon the rupture of the bag than just hindering
+himself of working, the termination of Bob's position can be successfully
+justified.
