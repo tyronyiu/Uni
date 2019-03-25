@@ -60,7 +60,12 @@ doing the job.
 
 2. Evaluate how well Betsy interviewed Bob and completed the selection process.
 
-**Answer*
+**Answer**
+: She didn't interview Bob well, she used an unstructured interview form, which
+as above described can often entail problematic situations. The selection
+process was merely existing, her only interviewing one candidate doesn't really
+count as a selection process, as her approach doesn't leave any room for
+selection. 
 
 3. What kind of selection procedure should Betsy have used in order to identify
    the best candidates for her data entry position? Design a complete selection
