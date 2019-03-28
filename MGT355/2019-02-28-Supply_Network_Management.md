@@ -71,5 +71,3 @@ Total cost of being supplied        | Technical capability
                                     | Financial capability
                                     | Managerial capability
 
-
-

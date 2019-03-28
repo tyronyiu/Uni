@@ -5,7 +5,6 @@ date: 2019-03-18
 categories: UNI GLO375
 ---
 
-
 Taxes are an **involuntary** fee levied on individuals or corporations that is
 enforced by a government entity, whether local, regional or national in order to
 finance government activities. Unlike most transfers of money, which are entered
@@ -178,28 +177,82 @@ upon, due to the fact that income is already being taxed, and the wealth tax
 thus ultimately adds an already *existing* tax.
 
 ## Tax Systems
-
-### Tax rate 
+### Tax rate, average tax rate and marginal tax rate
+#### Tax rate 
 is the ratio (usually expressed as a percentage) at which a business or person
 is taxed.
 
-### Tax liability (T)
+#### Tax liability (T)
 Is the total amount of tax due.
 
-### Tax base (B) 
+#### Tax base (B) 
 Is the measure upon which the assessment or determination of tax liability is
 based. E.g. income is the tax base for income tax, value is the tax base for
 property tax 
 
-### Average tax rate (t)
+#### Average tax rate (t)
 Is the ratio of the total amount of taxes paid to the total tax base, often
 expressed as a percentage 
 
 $$ t = T/B $$
 
-### Marginal tax rate
+#### Marginal tax rate
 (MTR or t’)is the tax rate an individual would pay on one
 additional dollar of income. It is the ratio of change in tax liability to the
 change in tax base 
 
 $$ MTR = \delta T/ \delta B $$
+
+### Progressive, Proportional and Regressive Taxation
+A **progressive tax** is a tax imposed so that the tax rate increases as the
+taxable amount increases. For a progressive tax $MTR > t$
+- Personal Income Tax is usually a Progressive tax.
+
+A **proportional tax** is a tax imposed so that the tax rate is
+fixed, with no change as the taxable base amount increases or decreases. For a
+proportional tax $MTR = t$
+- VAT and Corporate Tax are often proportional taxes
+
+A **regressive tax** is a tax imposed  so that the tax rate decreases as the
+amount subject to taxation increases. For a regressive tax $MTR < t$
+- National Insurance Contributions in UK have a regressive character as there is
+  a cap above which you pay a lower rate
+
+### Arguments against progressive taxation
+> Progressive taxation generates a more complicated a less applicable tax system
+> - In a democratic society progressive taxation might lead to politically
+> irresponsible solutions (tyranny of the majority / tyranny of the masses)
+
+### Arguments for progressive taxation
+- Progressive taxation is an *automatic stabilizer* for the economy.
+  Progressiveness makes smoother the fluctuations of the economic cycle. During
+  the recovery/growth phase progressive tax (T) increases faster than income
+  (Y), so the disposable income (income after tax) increases slower. Of course
+  the opposite happens during the recession. 
+- People with higher income have more opportunities to gain income. For example,
+  some investments are only available to people with a minimum amount to invest.
+- The needs covered with further income increases have a lower value from a
+  societal perspective. 
+- Progressive taxation counterbalances other taxes which are essentially
+  regressive, like VAT and many consumption taxes.  
+
+$$\text{Disposable income (y_d)} = y - T + B$$
+
+## Tax incidence
+### Tax burden and tax incidence, tax shifting
+The **tax burden** is the true economic weight of a tax. Economists distinguish
+between those who bear the burden of a tax and those on whom the tax is imposed
+or levied. The burden is not just the quantity of tax paid (directly or
+indirectly), but the magnitude of the lost consumer or producer surplus. The
+concepts are related but different.A £1,000/pint of beer tax will raise no
+revenues (sales will stop), but will reduce both consumer and producer surplus.
+
+**Tax incidence** is a term used for the analysis of the effect of a particular
+tax on the distribution of economic welfare. (What is the incidence of the tax?
+= Who actually pays the tax?)
+**A tax shifts forward** when the burden falls on the consumers than the
+suppliers.
+**A tax shifts backwards** when the burden falls on a production factor. There
+might be full shift, partial shift, or no shift.
+
+
