@@ -86,6 +86,15 @@ responsibility                            | Market fluctuations (e.g. stock mark
 
 ![The three tiers](https://simg.wooribank.com/img/section/en/rp/rp_402_dg1.gif)
 
+It is a system mixture. The Three pillars do build upon another.
+- Social Guaranteed (basic life)
+    - National Pension
+- Corporate Guaranteed (standard life)
+    - Retirement Pension
+- Self Guaranteed (leisurely life)
+    - Personal Annuity
+
+
 ## The need for public insurance
 
 
