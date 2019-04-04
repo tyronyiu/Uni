@@ -15,34 +15,34 @@ author:
 > data-driven and analytics-led? (*EY*, 2019)
 
 Technologies worth considering:
-- Artificial Intelligence & Machine Learning
+* Artificial Intelligence & Machine Learning
     - Deep Learning
     - Computer Vision
-        - Analyse risks of a construction site, *on-site*, by having a machine
+    - (Analyse risks of a construction site, *on-site*, by having a machine
           learning computer vision model identify *dangerous*
           situations/circumstances, to classify risk. E.g. Camera detects a
           not-well secured construction site with overhanging, loose steel
-          beams. The potential risk is different than in e.g. a coal-mine.
+          beams. The potential risk is different than in e.g. a coal-mine.)
     - Natural Language Processing
     - Human Sentiment Analysis
-    - *Strategies/Methods affected:*
+    - *Strategies/Methods affected*
         - Business Intelligence
         - Predictive Analysis
         - Operations optimisation (minimising deficiencies, maximising
           efficiency)
         - Prior Profiling Integration/Consideration
-            - There are more records in existence than directly available to
+        - (There are more records in existence than directly available to
               insurance firms (to use for a basis of risk classification), thus
               using AI to go through these staggering amounts of profiles, that
               exist on the web, and combining them into one, massive, detailed
-              profile.
+              profile.)
         - Behaviour Analysis 
-            - Online, offline[using computer vision via cameras, like Amazon is
-              detecing behaviour patterns in their *GO-Supermarkets*]
+        - Online, offline (using computer vision via cameras, like Amazon is
+              detecing behaviour patterns in their *GO Supermarkets*)
         - Risk Analysis      
             - Based upon *Behaviour Analysis, Sentiment Analysis & prior
               profiling integration)
-- Blockchain
+* Blockchain
     - Cyber-Security
     - Distribution of responsibility/power
     - Decentralisation
