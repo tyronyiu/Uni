@@ -71,3 +71,58 @@ Total cost of being supplied        | Technical capability
                                     | Financial capability
                                     | Managerial capability
 
+## The Bullwhip Effect
+A small change in the one side of the supply chain has big impacts /
+fluctuations on the other side of the supply chain (e.g. the end).
+
+![The Bullwhip Effect
+illustrated](https://i.ibb.co/S7kDjmM/The-bullwhip-effect.png)
+
+- The number above in *stock*, is the initial stock, where as the number below
+  is the stock at the end of the time period considered. The lower number (final
+  stock) in the prior time period is the same as the above number (initial
+  stock) in the next time period.
+- The *final stock* is equal to the demanded quantity / production (number to
+  the right) 
+- The production of one time period is equal to the final stock of the prior
+  period minus the quantity demanded for the current time period.  
+
+> We keep one period's stock as much as demanded
+> The demand of the *1st level supplier* is the *original equipment MFG.'s*
+> production. Et cetera, the *1st level supplier's* production equals the *2nd
+> level supplier's* demand.
+
+![The Bullwhip Effect Process](https://i.ibb.co/YLCwcbD/The-bullwhip-effect2.png)
+
+The time lag between the moment that the retailer makes a sale and the moment
+that the initial supplier produces, is the underlying reason for the effects of
+*the Bullwhip*. E.g. Christmas orders are often very last minute and thus leave
+little time for agile reactions from suppliers, according to retailer's sales,
+thus much production is often being sold at a discount after Christmas, because
+the production finished late.
+
+
+## Methods for coping with the bullwhip effect
+
+- Reducing uncertainty. This can be accomplished by centralizing demand
+  information.
+    - E.g. as above mentioned scenario with Christmas. Business intelligence can
+      be applied here.
+- Reducing variability. This can be accomplished by using a technique made
+  popular by WalMart and then Home Depot called everyday low pricing (EDLP).
+  EDLP eliminates price promotions as well as the shifts in demand that
+  accompany them.
+- Reducing lead time. Order times can be reduced by using EDI (electronic data
+  interchange).
+- Strategic partnerships. The use of strategic partnerships can change how
+  information is shared and how inventory is managed within the supply chain.
+  These will be discussed later.
+
+## The effects of supply chain compression
+![Effects of supply Chain
+compression](https://i.ibb.co/cc6C1wB/effects-of-supply-chain-compression.png)
+
+The time lag as the reason for the Bullwhip effect, as described above, is prone
+to being tried to minimised. A way to decrease the time lag is to decrease the
+intermediaries in the supply chain and thus decrease the *distance* between
+communications.
