@@ -29,7 +29,8 @@ author:
 - (if there is deviation) changing resources in order to affect the operation’s
   activities
 
-![The significance of planning and control](https://i.ibb.co/LCD4KBP/Significance-of-planning-and-control.png)
+![The significance of planning and
+control](https://i.ibb.co/LCD4KBP/Significance-of-planning-and-control.png)
 
 - The degree of uncertainty in demand affects the balance between planning and
   control. The greater the uncertainty, the more difficult it is to plan, and
