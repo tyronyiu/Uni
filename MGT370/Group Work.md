@@ -5,6 +5,8 @@ author:
 - Ty Yiu
 ---
 
+\pagebreak
+
 ## Overview
 
 > Although insurers recognize the power of analytics to grow, optimize and
@@ -15,7 +17,8 @@ author:
 > data-driven and analytics-led? (*EY*, 2019)
 
 Technologies worth considering:
-* Artificial Intelligence & Machine Learning
+
+- Artificial Intelligence & Machine Learning
     - Deep Learning
     - Computer Vision
     - (Analyse risks of a construction site, *on-site*, by having a machine
@@ -25,24 +28,24 @@ Technologies worth considering:
           beams. The potential risk is different than in e.g. a coal-mine.)
     - Natural Language Processing
     - Human Sentiment Analysis
-    - *Strategies/Methods affected*
+    - Strategies/Methods affected
         - Business Intelligence
         - Predictive Analysis
         - Operations optimisation (minimising deficiencies, maximising
           efficiency)
         - Prior Profiling Integration/Consideration
         - (There are more records in existence than directly available to
-              insurance firms (to use for a basis of risk classification), thus
-              using AI to go through these staggering amounts of profiles, that
-              exist on the web, and combining them into one, massive, detailed
-              profile.)
+          insurance firms (to use for a basis of risk classification), thus
+          using AI to go through these staggering amounts of profiles, that
+          exist on the web, and combining them into one, massive, detailed
+          profile.)
         - Behaviour Analysis 
         - Online, offline (using computer vision via cameras, like Amazon is
-              detecing behaviour patterns in their *GO Supermarkets*)
+          detecing behaviour patterns in their "GO Supermarkets")
         - Risk Analysis      
-            - Based upon *Behaviour Analysis, Sentiment Analysis & prior
+            - Based upon Behaviour Analysis, Sentiment Analysis & prior
               profiling integration)
-* Blockchain
+- Blockchain
     - Cyber-Security
     - Distribution of responsibility/power
     - Decentralisation
@@ -79,7 +82,7 @@ construction worker that refurbishes the inside of an existing office building.
 ![Data from Accenture’s FS Customer Survey
 2017 (*Accenture*, 2019)](https://i.ibb.co/R2XWnFM/Data-from-Accenture-s-FS-Customer-Survey-2017.png)
 
-
+\pagebreak
 
 ### Block-Chain
 Modern technologies pose a thread to insurance firms, as very sensible data is
@@ -100,13 +103,11 @@ implementation as part of a *digitisation process*.
 
 > Cyber insurance growth is constrained by lack of reinsurance options due to
 > challenges in risk measuring, modeling and pricing.
->
 > Ask yourself: How can scenario-modeling capabilities be enhanced with new data
 > and analytical tools?
 >
 > Some leading players are looking to leverage blockchain technology to mitigate
 > risks and manage cyber liability exposure.  
->
 > Ask yourself: Which emerging technologies have the greatest potential for
 > cybersecurity applications? (*EY*, 2019)
 
@@ -115,12 +116,13 @@ implementation as part of a *digitisation process*.
 > Two of the most important factors defining the efficiency of an insurance
 > business is how fast it manages to settle claims, and how successfully it does
 > it. Introduction of AI dramatically boosts both of these factors.
->
 > A good example of a difference in speed is Lemonade’s AI Jim that made the
-> industry news in January 2017 after settling a claim in less than three seconds.
-> This is many orders of magnitude faster than the best human specialist can ever
-> hope to achieve, as it rarely takes the less than a few weeks. (*TechGenix*,
-> 2018)
+> industry news in January 2017 after settling a claim in less than three
+> seconds.  This is many orders of magnitude faster than the best human
+> specialist can ever hope to achieve, as it rarely takes the less than a few
+> weeks. (*TechGenix*, 2018)
+
+\pagebreak
 
 ### Fraud Detection
 
@@ -133,7 +135,6 @@ implementation as part of a *digitisation process*.
 > AI learns to improve their results over time, getting the ability to notice
 > the telltale signs of fraud more efficiently as they encounter its new and new
 > instances.
->
 > Needless to say, this is a major opportunity for saving money — insurance
 > companies report more than $80 billion in fraudulent activities a year, and
 > any technology that allows for their better and less effort-intensive
@@ -161,6 +162,8 @@ cost-lowering factor, which is often focused upon when realising change. Thus,
 there are many/enough arguments for urgency/the need for these change
 implementations, specifically affecting the IT sector/department of the
 *RockCity* insurance company.
+
+\pagebreak
 
 ## Implementation actions
 
