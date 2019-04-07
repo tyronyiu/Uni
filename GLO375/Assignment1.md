@@ -110,7 +110,31 @@ There’s a ¼ more spending compared to the OECD average.
 [Belgium - OECD Data](https://data.oecd.org/belgium.htm)
 
 
-## The role of the public sector in Belgium
+## The role of the public sector in Belgium 
+As above mentioned, the role of the public sector is executed by the federal
+regional / language-based communities, the king has its role being subtle and
+discreet relative to the execute powers of the communities/regions. 
+
+> "Belgium is a federal state, composed of communities and regions 
+> 
+> The power to make decisions is no longer the exclusive preserve of the
+> federal government and the federal parliament. The leadership of the country
+> is now in the hands of various partners, who independently exercise their
+> authority within their domains." (Belgium, a federal state, 2013) [^3]
+
+> Presenting the survey in Brussels at a news conference alongside Belgian Prime
+> Minister Charles Michel, OECD Secretary-General Angel Gurría said: “In a
+> difficult global context, it is encouraging to see that Belgium’s economy is
+> gathering speed, albeit at a modest pace compared to pre-crisis levels. There
+> is much to be positive about, and Belgium possesses the necessary
+> determination to address the significant challenges it continues to face. A
+> focus on public investment and tax and education reforms are important actions
+> in order to boost growth and make it more inclusive, so everyone benefits.”
+> [^4]
+
+
+The federal government is made up of 15 ministers having general executive and
+legislative power.
 
 - Public spending:
     - Public Employment:
@@ -136,3 +160,7 @@ There’s a ¼ more spending compared to the OECD average.
 [^2]: OECD Better Life Index. (2019). Oecdbetterlifeindex.org. Retrieved 7
 April 2019, from http://www.oecdbetterlifeindex.org/countries/belgium/
 
+[^3]: Belgium, a federal state. (2013). Belgium.be. Retrieved 7 April 2019, from
+  https://www.belgium.be/en/about_belgium/government/federale_staat
+
+[^4]: Public investment, tax and education reforms will help bolster inclusive growth in Belgium - OECD. (2019). Oecd.org. Retrieved 7 April 2019, from http://www.oecd.org/belgium/public-investment-tax-and-education-reforms-will-help-bolster-inclusive-growth-in-belgium.htm
