@@ -31,6 +31,31 @@ state in the economy.
 
 ## Introduction
 
+The monarchic constitutional federation of Brussels, divides power between the
+king as head of state and the prime minister as head of a multi-party
+government. The government is threefold and equally
+powered in decision making processes. The three language and region based
+communities have different responsibilities to pursue. [^1]
+(Belgium is a official seat for European institutions.)
+With a declining population of 11.2 millions and same trend following GDP of
+49,512 US$ per capita, Belgium is a well-developed free market economy typical
+for its size and location within the Euro-zone. There's 7.1% unemployment in the
+labour force, though Belgium has the second highest social spending among the
+OECD countries and a total of 52.2% of GDP general government spending. 
+
+> Belgium performs well in many measures of well-being relative to most other
+> countries in the Better Life Index. Belgium ranks above the average in
+> work-life balance, income and wealth, civic engagement, education and skills,
+> subjective well-being, health status, social connections, and personal
+> security but below average in environmental quality. These rankings are based
+> on available selected data.
+> Money, while it cannot buy happiness, is an important means to achieving
+> higher living standards. In Belgium, the average household net-adjusted
+> disposable income per capita is USD 29 968 a year, less than the OECD average
+> of USD 30 563 a year. There is a considerable gap between the richest and
+> poorest – the top 20% of the population earn about four times as much as the
+> bottom 20%. [^2]
+
 [OECD Country Fact Sheet Belgium 2015](https://www.oecd.org/gov/Belgium.pdf)
 
 - 11.2M = Population 
@@ -103,3 +128,11 @@ There’s a ¼ more spending compared to the OECD average.
 ## Conclusion
 
 ## References
+
+[^1]: Belgium | European Union. (2016). European Union. Retrieved 7 April 2019,
+  from
+  https://europa.eu/european-union/about-eu/countries/member-countries/belgium_en
+
+[^2]: OECD Better Life Index. (2019). Oecdbetterlifeindex.org. Retrieved 7
+April 2019, from http://www.oecdbetterlifeindex.org/countries/belgium/
+
