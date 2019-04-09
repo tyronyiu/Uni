@@ -16,58 +16,23 @@ may include but are not limited to: the historic development of the public
 sector, the size of the public sector, taxation, welfare provisions, the role of
 state in the economy.
 
-**Any special aspects?**
-
-- I believe there is a wealth tax and/or higher than usual income tax
-    - [Belgium, New Tax on Resident and Nonresident, KPMG Global](https://home.kpmg/xx/en/home/insights/2018/02/flash-alert-2018-024.html)
-- There’s unusually high public spending in Belgium relative to other
-  European countries. This is due to the decision to increase public
-  spending made in 2008 following the financial crisis, aiming to increase
-  economic activity and provide stability. (Which it did) since then though,
-  public spending hasn’t been radically changed.
-- A quick search about the public sector in reference to Belgium revealed
-  recent Labour strikes, heavily criticizing the public spending of the
-  government. (What is this about, considering the last bullet-point?) 
-
 ## Executive Summary
 
 
-## Introduction 
-
-*The Political Economy*: studies the relationships between individuals making up
+### Glossary
+*The Political Economy*
+: studies the relationships between individuals making up
 the society of a state, the markets that are attributed and the state.
 
-*The Public Sector*: entails the general government and the central government,
+*The Public Sector*
+: entails the general government and the central government,
 as well as both function and responsibilities. Such functions include the
 allocation, distribution and stabilisation of resources. These functions are
 executed using support functions such as monetary / fiscal policies, public
 spending such as welfare provisions / benefits or pensions. 
 
-
-
-    > Belgium performs well in many measures of well-being relative to most
-    > other countries in the Better Life Index. Belgium ranks above the
-    > average in work-life balance, income and wealth, civic engagement,
-    > education and skills, subjective well-being, health status, social
-    > connections, and personal security but below average in environmental
-    > quality. These rankings are based on available selected data.  Money,
-    > while it cannot buy happiness, is an important means to achieving
-    > higher living standards. In Belgium, the average household
-    > net-adjusted disposable income per capita is USD 29 968 a year, less
-    > than the OECD average of USD 30 563 a year. There is a considerable
-    > gap between the richest and poorest – the top 20% of the population
-    > earn about four times as much as the bottom 20%. [^0]
-    [OECD Country Fact Sheet Belgium 2015](https://www.oecd.org/gov/Belgium.pdf)
-
-
-- **TODO**
-    - Measure of the size of the public sector (GDP?)
-    - Definitions / Introduction
-    - Conclusion
-
-## The role of the public sector in Belgium 
-### A general overview of Belgium 
-The monarchic constitutional federation of Brussels, divides power between the
+## Introduction 
+The monarchic constitutional federation of Belgium, divides power between the
 king as head of state and the prime minister as head of a multi-party
 government. The government is threefold and equally powered in decision making
 processes. The three language and region based communities have different
@@ -81,19 +46,24 @@ primary function they utilise to stimulate economic activity and provide
 stability, as they did following the financial crisis in 2008. [@2] The
 employment issues that may be seen in a relatively high unemployment rate in a
 country the size of Belgium arise from not only economic factors and have much
-to do with the cultural history and governmental role of Belgium.
+to do with the cultural history and governmental role of Belgium. The role of
+the public sector in Belgium is thus being analysed via the behaviour of the
+state and their decisions upon public involvement, including taxation and public
+spending.
 
+## The role of the public sector in Belgium 
+### A general overview of Belgium 
 As mentioned, the role of the public sector is executed by the federal
 government and supplemented by regional and culture (language)-based communities,
 the king has its role being subtle and discreet relative to the execute powers
 of the communities/regions. 
 
-> "Belgium is a federal state, composed of *communities* and *regions* 
+> Belgium is a federal state, composed of *communities* and *regions* 
 > 
 > The power to make decisions is no longer the exclusive preserve of the federal
 > government and the federal parliament. The leadership of the country is now in
 > the hands of various partners, who independently exercise their authority
-> within their domains." [@3]
+> within their domains. [@3]
 
 > The Federal government retains control over the judicial system, the army, the
 > Federal police, labour law, social security (unemployment, pensions, health
@@ -152,9 +122,9 @@ potentially problematic situation is an essential conflict of interest the
 government has to balance using tools effecting the tax structure policies and
 public spending behaviours. 
 
-> "In a free market where MNCs now hold greater negotiating power than many
+> In a free market where MNCs now hold greater negotiating power than many
 > governments, the space for influencing international tax cooperation has been
-> dominated by those with interests at odds with the general welfare."
+> dominated by those with interests at odds with the general welfare.
 > [@IMFCorporateTax]
 
 With very similar personal income taxation to Germany, being closer to the OECD
@@ -162,16 +132,25 @@ average, Belgium is making up for its focus on collecting taxes from business
 with lowered social contributions. The reduction in corporate taxes will need to
 be adequately compensated for. One way Belgium is already doing so, is by
 implementing a higher than usual property tax, which is far above Germany's and
-too, above the OECD's average. The public opinion of the tax structure impact
-the perception of the government and as such the involvement of the state in the
-public sector. The relief of burden on individuals and the reduction in taxes on
-corporations aids the public image and aligns with the goals of the labor
-unions. [@OECDEconomicSurveyBelgium2017] The sources of revenue for the
-government and thus public sector/spending are identified and the interests of
-the government have become clearer from mentioned taxation structure. The use of
-these funds identify the public spending. The general welfare provision and
-involvement of the state within the economy and the society are key to
-understanding the public sector and how it is perceived. 
+too, above the OECD's average. The income (re-)distribution and wealth
+(re-)distribution are two functions heavily affected by this property tax
+decision, but are even more supported via the 0.15% *wealth tax* which Belgium
+passed legislation for early 2018. [@KMPGWealthTax] A wealth tax is usually
+perceived a distinct way by the public and specific communities and is a topic
+of heavy debate as more EU countries consider and discuss such policies
+regarding fairness and equality. The mentioned high public spending and the
+destinations public spending funds arrive at support the public sector in
+Belgium and strengthen its position within society, indicating Belgium's clear
+interest and care for their political economy. The public opinion of the tax
+structure impact the perception of the government and as such the involvement of
+the state in the public sector. The relief of burden on individuals and the
+reduction in taxes on corporations aids the public image and aligns with the
+goals of the labor unions. [@OECDEconomicSurveyBelgium2017] The sources of
+revenue for the government and thus public sector/spending are identified and
+the interests of the government have become clearer from mentioned taxation
+structure. The use of these funds identify the public spending. The general
+welfare provision and involvement of the state within the economy and the
+society are key to understanding the public sector and how it is perceived. 
 
 ### Public Involvement
 Belgium's Public spending in areas such as education is more than 2% above the
@@ -181,11 +160,11 @@ cultures represented within the country. Hence, the three autonomous educational
 system in Belgium, *Flemish, French & German*, thus having issues managing a
 fragmented decentralised education system, in terms of consistency of quality
 and opportunities. Considering that the educational system experiences issues
-with the threefold, decentralised communal system, it becomes clear that
-similar issues may arise in the management of other departments of the public
-sector's social welfare provision. Managing these issues correctly is apparently
-an ongoing issue for Belgium, as public spending is described as "inefficient"
-in the *Economic Survey of Belgium 2017 [@Economic_survey_of_Belgium_2017]*.
+with the threefold, decentralised communal system, it becomes clear that similar
+issues may arise in the management of other departments of the public sector's
+social welfare provision. Managing these issues correctly is apparently an
+ongoing issue for Belgium, as public spending is described as "inefficient" in
+the *Economic Survey of Belgium 2017 [@Economic_survey_of_Belgium_2017]*.
 
 Belgium has the second highest social spending among the OECD countries [@9],
 which aligns with the plans to stimulate economic activity and invest in social
@@ -197,7 +176,7 @@ labour market in form of subsidies, training or direct job creation in the
 public sector [@11]. Unemployment has been decreasing, while employment rate of
 the total labour force has been steady [@IMF]. 
 
-> "The Michel government collapsed last December, after four years in power"
+> The Michel government collapsed last December, after four years in power
 > [@IMF2019ArticleIV]
 
 Not only did he quit because of a UN mitigation pact, but also because of severe
@@ -209,9 +188,9 @@ interference from labour unions [@NYTimesBelgiumStrikes] resulted in a tighter
 labour market and increased wages, seeing implementation in the new labour
 market reforms and overhauled wage moderation.
 
-> "The government implemented a number of reforms designed to reduce
-> unemployment traps, increase labor market participation, and introduce more
-> flexibility in the labor market."[@IMF2019ArticleIV] 
+> The government implemented a number of reforms designed to reduce unemployment
+> traps, increase labor market participation, and introduce more flexibility in
+> the labor market.[@IMF2019ArticleIV] 
 
 *"The Tax Shift"* [@IMF2019ArticleIV] is another implementation Belgium made in
 order to relieve the working individual.
@@ -237,5 +216,20 @@ has been recommended by the OECD to shift taxes away from the working individual
 via corporate social security contributions. 
 
 ## Conclusion
+
+    > Belgium performs well in many measures of well-being relative to most
+    > other countries in the Better Life Index. Belgium ranks above the
+    > average in work-life balance, income and wealth, civic engagement,
+    > education and skills, subjective well-being, health status, social
+    > connections, and personal security but below average in environmental
+    > quality. These rankings are based on available selected data.  Money,
+    > while it cannot buy happiness, is an important means to achieving
+    > higher living standards. In Belgium, the average household
+    > net-adjusted disposable income per capita is USD 29 968 a year, less
+    > than the OECD average of USD 30 563 a year. There is a considerable
+    > gap between the richest and poorest – the top 20% of the population
+    > earn about four times as much as the bottom 20%. [^0]
+    [OECD Country Fact Sheet Belgium 2015](https://www.oecd.org/gov/Belgium.pdf)
+
 
 ## References
