@@ -10,14 +10,17 @@ csl: apa4.csl
 bibliography: Assignment1.bib
 ---
 
-In a 2,500 words (+/- 10%) report describe and analyse the role of the public
-sector in a chosen country. Conduct proper research and  The areas of interest
-may include but are not limited to: the historic development of the public
-sector, the size of the public sector, taxation, welfare provisions, the role of
-state in the economy.
-
 ## Executive Summary
-
+This report analyses Belgium's public sector. The analysis requires knowledge
+about how the public sector functions and how decisions made by the government
+affect the public sector. Identifying the systems at work, such as the taxation
+structure or public spending behaviours, in the functions empowering the public
+sector is key for analysing the effectiveness of use of said systems. *The
+circular flow of income* is the concept used for determining where funds
+originate from and for what they are being used for. Understanding why the
+circular flow of income is how it is in Belgium, lifts the curtain of
+uncertainty regarding prioritisations of communities & activities that the state
+exercises.
 
 ### Glossary
 *The Political Economy*
@@ -88,7 +91,7 @@ assistance for individuals requiring assistance (social welfare).[@5]
 > determination to address the significant challenges it continues to face. A
 > focus on public investment and tax and education reforms are important actions
 > in order to boost growth and make it more inclusive, so everyone benefits.”
-> (OECD, 2017) [@6]
+>  [@6]
 
 ### Taxation Structure
 *Tax-to-GDP* revenue in Belgium is 10% higher than the *OECD* average. In fact,
@@ -174,7 +177,15 @@ it is more than double the average OECD member country's [@10]. Not only does
 Belgium spend a lot on unemployment benefits/compensations, but also on the
 labour market in form of subsidies, training or direct job creation in the
 public sector [@11]. Unemployment has been decreasing, while employment rate of
-the total labour force has been steady [@IMF]. 
+the total labour force has been steady [@IMF]. These measures clearly provide an
+insight into the public sector spending of Belgium and how the funds generated
+from e.g. taxes are distributed within the economy. General Welfare provision
+and public spending in the labour market, as well as the high unemployment
+spending underline the fact, that Belgium is a very *caring* state with their
+involvement in the public sector being well executed. The mentioned trend, where
+economic activity is inflated by leveraging globalisation effects, such as the
+attraction of FDI, is Belgium's method for enabling such public spending and
+generous social & welfare system.
 
 > The Michel government collapsed last December, after four years in power
 > [@IMF2019ArticleIV]
@@ -216,20 +227,6 @@ has been recommended by the OECD to shift taxes away from the working individual
 via corporate social security contributions. 
 
 ## Conclusion
-
-    > Belgium performs well in many measures of well-being relative to most
-    > other countries in the Better Life Index. Belgium ranks above the
-    > average in work-life balance, income and wealth, civic engagement,
-    > education and skills, subjective well-being, health status, social
-    > connections, and personal security but below average in environmental
-    > quality. These rankings are based on available selected data.  Money,
-    > while it cannot buy happiness, is an important means to achieving
-    > higher living standards. In Belgium, the average household
-    > net-adjusted disposable income per capita is USD 29 968 a year, less
-    > than the OECD average of USD 30 563 a year. There is a considerable
-    > gap between the richest and poorest – the top 20% of the population
-    > earn about four times as much as the bottom 20%. [^0]
-    [OECD Country Fact Sheet Belgium 2015](https://www.oecd.org/gov/Belgium.pdf)
 
 
 ## References
