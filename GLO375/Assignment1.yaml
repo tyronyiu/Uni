@@ -1,0 +1,265 @@
+---
+references:
+- type: webpage
+  id: 1
+  issued:
+    date-parts:
+    - - 2019
+  accessed: 
+    date-parts:
+    - - 2019
+      - 4
+      - 05
+  title: 'Belgium | European Union'
+  URL: https://europa.eu/european-union/about-eu/countries/member-countries/belgium_en
+  language: en-GB
+
+- type: webpage
+  id: 2
+  issued:
+    date-parts:
+    - - 2019
+  accessed: 
+    date-parts:
+    - - 2019
+      - 4
+      - 05
+  title: 'Belgium - OECD Data'
+  URL: https://data.oecd.org/belgium.htm
+  language: en-GB
+
+- type: webpage
+  id: 3
+  issued:
+    date-parts:
+    - - 2019
+  accessed: 
+    date-parts:
+    - - 2019
+      - 4
+      - 05
+  title: 'Belgium, a federal state'
+  URL: http://www.oecdbetterlifeindex.org/countries/belgium/
+  language: en-GB
+
+- type: webpage
+  id: 4
+  issued:
+    date-parts:
+    - - 2010
+  accessed: 
+    date-parts:
+    - - 2019
+      - 4
+      - 05
+  title: 'The powers of the Regions'
+  URL: https://www.belgium.be/en/about_belgium/government/regions/competence
+  language: en-GB
+
+- type: webpage
+  id: 5
+  issued:
+    date-parts:
+    - - 2010
+  accessed: 
+    date-parts:
+    - - 2019
+      - 4
+      - 05
+  title: 'The powers of the Communities'
+  URL: https://www.belgium.be/en/about_belgium/government/communities/competence
+  language: en-GB
+
+- type: webpage
+  id: 6
+  issued:
+    date-parts:
+    - - 2017
+  accessed: 
+    date-parts:
+    - - 2019
+      - 4
+      - 05
+  title: 'Public investment, tax and education reforms will help bolster inclusive growth in Belgium - OECD'
+  URL: http://www.oecd.org/belgium/public-investment-tax-and-education-reforms-will-help-bolster-inclusive-growth-in-belgium.htm
+  language: en-GB
+
+- type: webpage
+  id: 7
+  issued:
+    date-parts:
+    - - 2018
+  accessed: 
+    date-parts:
+    - - 2019
+      - 4
+      - 05
+  title: 'Belgium - Economic forecast summary'
+  URL: http://www.oecd.org/belgium/belgium-economic-forecast-summary.htm
+  language: en-GB
+
+- type: webpage
+  id: 8
+  issued:
+    date-parts:
+    - - 2017
+      - 09  
+  accessed: 
+    date-parts:
+    - - 2019
+      - 4
+      - 05
+  title: 'Education Policy Outlook Country Profile Belgium'
+  URL: http://www.oecd.org/education/Education-Policy-Outlook-Country-Profile-Belgium.pdf
+  language: en-GB
+
+- type: webpage
+  id: 9
+  doi: 10.1787/7497563b-en
+  issued:
+    date-parts:
+    - - 2018
+  accessed: 
+    date-parts:
+    - - 2019
+      - 4
+      - 05
+  title: 'OECD - Social spending (indicator)'
+  URL: https://data.oecd.org/socialexp/social-spending.htm
+  language: en-GB
+
+- type: webpage
+  id: 10
+  doi: 10.1787/7497563b-en
+  issued:
+    date-parts:
+    - - 2018
+  accessed: 
+    date-parts:
+    - - 2019
+      - 4
+      - 05
+  title: 'OECD - Public Unemployment Spending (indicator)'
+  URL: https://data.oecd.org/socialexp/social-spending.htm
+  language: en-GB
+
+- type: webpage
+  id: 11
+  doi: 10.1787/911b8753-en
+  issued:
+    date-parts:
+    - - 2016
+  accessed: 
+    date-parts:
+    - - 2019
+      - 4
+      - 05
+  title: 'Public spending on labour markets (indicator)'
+  URL: https://data.oecd.org/socialexp/public-spending-on-labour-markets.htm
+  language: en-GB
+
+- type: webpage
+  id: Economic_survey_of_Belgium_2017
+  issued:
+    date-parts:
+    - - 2017
+      - 6  
+  accessed: 
+    date-parts:
+    - - 2019
+      - 4
+      - 05
+  title: 'OECD Economic Surveys: Belgium'
+  URL: http://www.oecd.org/economy/surveys/Belgium-2017-OECD-economic-survey-overview.pdf
+  language: en-GB
+
+- type: webpage
+  id: IMF
+  issued:
+    date-parts:
+    - - 2018
+      - 3  
+      - 08
+  accessed: 
+    date-parts:
+    - - 2019
+      - 4
+      - 05
+  title: 'IMF Executive Board Concludes 2018 Article IV Consultation with Belgium'
+  URL: http://www.oecd.org/economy/surveys/Belgium-2017-OECD-economic-survey-overview.pdf
+ 
+- type: webpage
+  id: IMF2019ArticleIV
+  author: "International Monetary Fund"
+  issued:
+    date-parts:
+    - - 2018
+      - 3  
+      - 11
+  accessed: 
+    date-parts:
+    - - 2019
+      - 4
+      - 05
+  title: 'Belgium : 2019 Article IV Consultation-Press Release; Staff Report; and Statement by the Executive Director for Belgium'
+  short-title: 'Belgium: 2019 Article IV Consultation-Press Release'
+  URL: https://www.imf.org/~/media/Files/Publications/CR/2019/1BELEA2019001.ashx
+
+- type: webpage
+  id: OECD_Taxation_Belgium
+  issued:
+    date-parts:
+    - - 2018
+  accessed: 
+    date-parts:
+    - - 2019
+      - 4
+      - 05
+  title: 'Revenue Statistics 2018 - Belgium'
+  URL: https://www.oecd.org/tax/tax-policy/revenue-statistics-belgium.pdf
+
+- type: webpage
+  id: OECD_Pension_policy_notes_Belgium
+  issued:
+    date-parts:
+    - - 2015
+  accessed: 
+    date-parts:
+    - - 2019
+      - 4
+      - 05
+  title: 'OECD Pension Policy Notes Belgium'
+  URL: https://www.oecd.org/els/public-pensions/OECD-Pension-Policy-Notes-Belgium.pdf
+
+- type: article
+  id: NYTimesBelgiumStrikes
+  author: "Milan Schreuer"
+  issued:
+    date-parts:
+    - - 2019
+      - 02
+      - 13
+  accessed: 
+    date-parts:
+    - - 2019
+      - 4
+      - 05
+  title: 'National Strike Grips Belgium, Canceling Flights and Shutting Breweries'
+  URL: https://www.nytimes.com/2019/02/13/world/europe/strike-in-belgium.html
+
+- type: article
+  id: TheGuardianBelgiumGovernmentCollapse
+  author: "Jennifer Rankin"
+  issued:
+    date-parts:
+    - - 2018
+      - 12
+      - 21
+  accessed: 
+    date-parts:
+    - - 2019
+      - 4
+      - 05
+  title: 'Charles Michel lost confidence vote after coalition partner quit over UN migration pact'
+  URL: https://www.theguardian.com/world/2018/dec/21/belgian-king-accepts-prime-minister-charles-michel-resignation-say-reports
+---

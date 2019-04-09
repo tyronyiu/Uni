@@ -97,4 +97,3 @@ It is a system mixture. The Three pillars do build upon another.
 
 ## The need for public insurance
 
-
