@@ -106,7 +106,7 @@ for Belgium's total general government revenues is 50.7%. The composition of
 that number and thus the sources of revenue streams for the Belgian Government
 can be identified in *figure 1* below. 
 
-![Belgium's Taxation structure](Belgium_Tax_composition.png)
+![Belgium's Taxation structure](Revenue\ Composition.png)
 
 Illustrated in *figure 1*, are the constituent contributors towards the taxation
 revenue, knowing these is important when starting to think about public spending
