@@ -156,6 +156,13 @@ welfare provision and involvement of the state within the economy and the
 society are key to understanding the public sector and how it is perceived. 
 
 ### Public Involvement
+The proportions and allocation of public funds to certain activities is called
+public spending. The public spending composition for Belgium can be seen in
+*figure 2*, a visual representation of what the revenue, that has been
+identified in *figure 1*, is actually being used for.
+
+![Belgium's Public Spending Composition (Expenditure)](Public\ Spending.png)
+
 Belgium's Public spending in areas such as education is more than 2% above the
 average OECD country's GDP[@8]. *The communities* have executive power regarding
 education related decisions and have to consider the three languages and
@@ -169,23 +176,25 @@ social welfare provision. Managing these issues correctly is apparently an
 ongoing issue for Belgium, as public spending is described as "inefficient" in
 the *Economic Survey of Belgium 2017 [@Economic_survey_of_Belgium_2017]*.
 
-Belgium has the second highest social spending among the OECD countries [@9],
+Belgium has the second highest *social spending* among the OECD countries [@9],
 which aligns with the plans to stimulate economic activity and invest in social
 public spending. Belgium, enabled through having such high social spending, has
 the highest ranking *public unemployment spending* of any OECD country, in fact,
 it is more than double the average OECD member country's [@10]. Not only does
 Belgium spend a lot on unemployment benefits/compensations, but also on the
-labour market in form of subsidies, training or direct job creation in the
-public sector [@11]. Unemployment has been decreasing, while employment rate of
+labour market in form of *subsidies, training or direct job creation* in the
+public sector [@11]. Their social contributions expenditure is at a constant 25%
+of GDP, also giving further indication regarding social spending.
+[@IMF2019ArticleIV] Unemployment has been decreasing, while employment rate of
 the total labour force has been steady [@IMF]. These measures clearly provide an
 insight into the public sector spending of Belgium and how the funds generated
-from e.g. taxes are distributed within the economy. General Welfare provision
+from e.g. taxes are distributed within the economy. *General Welfare* provision
 and public spending in the labour market, as well as the high unemployment
 spending underline the fact, that Belgium is a very *caring* state with their
 involvement in the public sector being well executed. The mentioned trend, where
 economic activity is inflated by leveraging globalisation effects, such as the
 attraction of FDI, is Belgium's method for enabling such public spending and
-generous social & welfare system.
+generous social & welfare system. 
 
 > The Michel government collapsed last December, after four years in power
 > [@IMF2019ArticleIV]
@@ -228,5 +237,35 @@ via corporate social security contributions.
 
 ## Conclusion
 
+To conclude, Belgium is a central European country that follows major global
+trends regarding policy making and management of the domestic economy. The
+extent of involvement of the state within the public sector is to be classified
+as mixed, the state neither takes a dominant paternalistic nor libertarian
+approach to regulation. Relatively talking, the Belgian government has a very
+typical composition of revenue streams. Public spending is above average and
+with focus on provision of social services such as expanding welfare
+benefits. On the other hand, the focus on business investments and attached
+policy making endorse business activity. Tax policies can be seen to have been
+specifically adjusted to accommodate mentioned focuses of public spending.
+Belgium's cultural background, involvement in the European Union and the
+threefold fragmented society are factors that harden the management of any
+aspect of the public sector. The difficulties attributed have been mentioned
+above, but the extend, of how significant the effect of these societal
+difficulties are, is unclear. More research on the cultural aspects of Belgium's
+society could reveal further information necessary to conclude a threshold for
+the effects of the threefold fragmented society.
+Belgium's economic outlook is bright and promises stability and growth, though
+only marginal. The effects of the global economic recession have caused
+artificial economic stimulation, which methods have been employed and not
+abandoned since. 
+The societal progression in terms of employment, education, productivity,
+healthcare et cetera, is continuous for Belgium, having had no drastic setbacks
+recently. Their keenness on the general positive outlook of the society, living
+standards and work-force development aligns with their public spending patterns
+and are overall well accepted by public opinion.
+Belgium seems like a state that prioritises its citizen's well-being, while not
+dampening economic progression or employing drastic protectionists measures,
+thus it can be said that their general approach to policy making succeeds at
+overlapping the most significant stakeholder's interests.
 
 ## References
