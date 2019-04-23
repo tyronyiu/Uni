@@ -1,0 +1,159 @@
+= Negotiation and Influencing skills =
+
+== Mon Sep 10 14:06:03 BST 2018 ==
+
+[[ask yourself]]
+
+=== reading: ===
+Kolb, D., & Williams, J. (2006). Everyday negotiation: Navigating the hidden agendas in bargaining. John Wiley & Sons.
+Malhotra, D. (2016). Negotiating the Impossible. Berrett-Koehler.
+
+[[The seven elements of negotiation]]
+
+*In class activity:*
+http://joemaller.com/556/whose-fish-logic-puzzle/
+
+== Wed Sep 12 12:57:28 BST 2018 ==
+
+https://www.youtube.com/watch?v=cFdCzN7RYbw&feature=youtu.be
+
+*Reciprocity* - I scratch your back, your scratch mine. Responding to a positive action by another.
+*Scarcity* - Lack of availability of something. The less there is of something, the more people want more of it.
+*Cognitive dissonance* - Doing something against the majority's will through e.g. a moral.
+
+*Bargaining* or _haggling_ is a type of negotiation in which the buyer and seller of a good dispute the price which will be paid and the exact nature of the transaction that will take place and come to an agreement. Bargaining is an alternative pricing strategy to fixed prices.
+
+*A few thoughts for Effective Negotiations* - _Fisher, Ury, Patton (2015)_
+
+  * risk of shabby agreements
+  * Determinate [[BATNA]]
+  * Separate the people from the problem
+    - Human beings don't communicate clearly and they mix their egos with their positions. Attack the problem instead of people. 
+  * Focus on interests, not positions
+  * Generate a variety of possibilities before deciding what to do
+   
+*Objective standards*   
+
+Some people can get what they want by simply being stubborn.
+Counter these by insisting that:
+  * A single voice is not enough
+  * Demand the agreement reflects a fair _objective criteria_ independent from each side's mere desires.
+  * Base the terms on unbiased standards such as market value, expert opinion, custom or law.
+   
+  * *P*eople
+  * *I*nterests
+  * *O*ptions
+  * *S*tandards
+
+*Strategic Moves*
+
+  * Control
+  * Incentives
+  * Support
+  * Pressure
+  * Authority
+   
+Support example for _strategic moves_:
+
+*SME* - Subject matter expert
+
+Market qualifiers are aspect that qualify a party to become part of a given market. They are things, that without which, one is not qualified for the market.   
+
+
+== Mon Sep 17 12:57:06 BST 2018 ==
+
+Sebenius, J. K. The Hidden Challenge of Cross-Border Negotiations – Harvard Business Review (March 2002)
+
+William Ury - The walk from "no" to "yes" https://www.ted.com/talks/william_ury#t-1103863
+
+Concept of sunk costs - Money, resources, effort that has already been spent.
+
+The endowment phenomenon - https://en.wikipedia.org/wiki/Endowment_effect
+
+  * [[BATNA]] - Best alternative to an negotiated agreement
+  * [[WATNA]] - Worse alternative to an negotiated agreement
+
+*Negotiating across cultures*
+
+Cultural differences and influence on negotiating examples:
+  * Greetings
+  * Deportment
+  * Touching
+  * Eye Contact
+  * Body language
+  * Punctuality
+
+Based on some of the ideas and concepts presented by _James K. Sebenius_. 
+
+*Negotiation Jujitsu*
+
+The forceful assertion of their position.
+
+== Wed Sep 19 13:02:38 BST 2018 ==
+
+*The Frame* - The way you package and present your proposal - matters as much as its substance. Framing is powerful because it allows you to make proposals that are basically the same "more or less attractive simply by how you present them."
+
+Framing can mitigate two problems that frequently drag down negotiations.
+
+*Framing in Decision Making*
+
+  * Social Proof
+  * Default Option
+  * The Reference Point
+   
+*The power of process*
+
+  * Power of "process"
+  * Threats to "process"
+  * The power of "empathy"
+
+
+== Mon Sep 24 13:07:40 BST 2018 ==
+
+*Turning the other party's move against us - Debbie kolb & Judith Williams*
+
+- Interrupt the move
+- Name the move
+- Correct the move
+- Divert the move
+ 
+*Six rules of Negotiation*
+ 
+- Be prepared
+  - Needing to know as much as the other parties. Facts, figure, insights into theother party's wants etc.
+- know your goals
+  - What principles are worth fighting over, compromise or give up.
+- Prepare
+  - Unprepared questions/scenarios help prepare for the real thing. 
+- Everyone's a winner
+  - Seek _win-win_ situations
+- Be smart
+  - specific roles within group negotiations.
+- Clarity works
+
+*Some impediments to agreement*
+
+- Die-hard bargainers
+- Informational vacuums and the negotiator's dilemma
+- Structural impediments
+- Spoilers
+- Cultural and gender differences
+- Commmunication problems
+- The power of dialogue
+- Lack of trust
+
+*The Trust equation*
+
+
+$\frac{Credibility + Reliability + Intimacy}{Self-Orientation}$
+
+
+== Wed Sep 26 13:03:54 BST 2018 ==
+
+
+
+
+
+
+
+

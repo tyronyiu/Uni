@@ -1,0 +1,253 @@
+---  
+title: Plain Text Workflow  
+author: Dennis Tenen, Grant Wythoff  
+date: January 20, 2014  
+---  
+
+= Principles of Entrepreneurship =
+
+[[Entrepreneurship]]
+
+== Wed Sep 12 16:13:29 BST 2018 ==
+
+http://www.streetofwalls.com/finance-training-courses/private-equity-training/basics-of-an-lbo-model/
+
+Need to fit the entrepreneur's skills to the venture's requirements. Also adress deficiencies with team members.
+
+Venture needs <---> Team members <---> Entrepreneur's skills 
+
+*Why is Entrepreneurship so popular?*
+
+Enrollment is booming - why?
+
+  * Media attention has captured imaginations
+  * Job security has changed
+  * Employment mobility has improved
+  * Personal needs more important nowadays
+  * Image of entrepreneur has changed
+
+Entrepreneurship is a viable career alternative.
+
+Opportunities emerge in the rise of new technology, exploiting market trends 
+Rush in urbanisation led to higher rent - The megatrend of urbanisation
+The ability to control human resource is triumph
+
+=== The general understanding of Entrepreneurship ===
+   
+  * Early middle ages - Managers of large state projects (building cathedrals)
+  * 17th century - A person managing fixed price contracts with government.
+
+=== Market analysis ===
+Establishment of a minimum viable product. Customers are already sympathising with the product.
+
+*Market driven strategy*
+
+All businesss strategy decisions should start with a clear understanding of markets, customers and copmetitors. 
+The market and the customers that form the market should be the starting point in shaping business strategy.
+
+*Push and pull strategy*
+
+Manufacturer -> Retailer -> Customer
+
+You can push the product from the manufacturer through to the customer. If the manufacturer addresses the customer directly. The customer will demand that product from the retailer. The customer is pulling the product into market, while the manufacturer is pushing the product to the customer.
+
+*Characteristics of a market-driven strategy*
+
+  * Becoming Market-Orientation
+  * Determining Distinctive Capabilities
+  * Customer Value/ Capability Match
+  * Achieving Superior Performance
+   
+=== Opportunity analysis ===
+*Look at value system to discover new business opportunities*
+
+*Liberate trapped value*
+
+Create more efficient markets (Ebay)
+Enable ease of access
+Create more efficient systems (FedEx)
+Disrupt current pricing power (Priceline)
+(By liberating more value more revenue streams can be used.)
+
+*Introduce new-to-the-world value.*
+
+Customise offerings
+Extend reach and access 
+Build community
+Enable collaboration
+Introduce new functionality/expertise
+
+_Either liberate trapped value or introduce new-to-the-world value._
+
+Customer, Technology, Company, Competition
+
+Traditional Competition - Samsung, Apple, Nokia 
+
+Untraditional Competition - if of 1000 bucks you spent 300 bucks more than expected, reduced the purchasing power.
+rent 500 bucks, 300 bucks into new gf. 200 bucks remaining.
+thus the non-traditional competitor pressures your purchasing power and maybe shifting the interest.
+_About pressure and purchasing power_
+
+== Mon Sep 17 16:03:29 BST 2018 ==
+
+https://www.similarweb.com/
+
+*Opportunity Evaluation*
+
+The two phases:
+  * Qualitative:
+    * Matches the attractiveness of an opportunity with the potential for uncovering a market niche depends on:
+      * Competitive activity
+      * Buyer requirements
+      * Market demand
+      * Supplier sources
+      * Environmental factors
+      * Organisational capabilities
+  * QUantitative:
+    * Market sales potential estimates
+    * Sales forecasts
+    * Budgets
+
+*Marketplace and Customer needs*
+
+_Market offerings_ are some combinations of products, services, information or experiences offered to a makret to satisfy a need or want.
+
+_Maket myopia_ is focusing only on existing wants and losing sight of underlying consumer needs.
+
+_Backcasting_ - the opposite of a forecast. 
+
+*Marketplace and Customer Needs*
+
+| Needs                                      | Wants                                            | Demands                            |
+| States of deprivation                      | Form that human needs take as they               | Human wants backed by buying power |
+| Physical - food, clothings, warmth, safety | are shaped by culture and Individual personality |                                    |
+| Social - belonging and affection           |                                                  |                                    |
+| Individual - knowledge and self-expression |                                                  |                                    |
+
+
+*Customer Value and satisfaction*
+
+* Customer perceived value
+  * The difference between total customer value and total customer cost
+ 
+* Customer satisfaction
+  * The extent to which a product's perceived performance matches a buyer's expectations. 
+   
+You could integrate *Customer surplus & shortage* into the concept of customer perceived value and customer satisfaction.  
+
+*Understanding the marketplace and customer needs*
+
+Customer value and satisfacrion expectations:
+  * Marketers set the right level of expectations which are nor too high or to low
+  * Customers feel Value and satisfaction 
+
+*Cost of acquiring a customer* - Basically, the CAC can be calculated by simply dividing all the costs spent on acquiring more customers (marketing expenses) by the number of customers acquired in the period the money was spent.
+For example, if a company spent 100 on marketing in a year and acquired 100 customers in the same year, their CAC is 1.00.
+
+*lifetime value* - In marketing, customer lifetime value (CLV or often CLTV), lifetime customer value (LCV), or life-time value (LTV) is a prediction of the net profit attributed to the entire future relationship with a customer.  
+The lifetime value of e.g. whatsapp with half a billion customers is around 60 per customer.
+
+Thus, a great LTV monetisation should be coupled with a low cost of acquiring a customer.
+
+*Value proposition*
+
+Focus comes from cleary understanding the value of your idea. 
+
+A _one-to-two sentence statement_ describes that:
+  * What your product/service is
+  * Who your customers are
+  * Why its valuable to these customers
+   
+"Winners is a department store that offers fashion conscious customers the latest brand names for up to 60% off."   
+
+{{https://www.peterjthomson.com/wp-content/uploads/2013/11/Value-proposition-canvas-600x4501.jpg}}
+
+The value proposition template above would benefit from an additional section on where the benefit and value lies. (Why the product has a value)
+
+
+== Wed Sep 19 15:56:37 BST 2018 ==
+
+ERP - Enterprise-Resource Planning - https://www.google.co.uk/search?q=erp+software&spell=1&sa=X&ved=0ahUKEwjtvpi8rcfdAhXnDcAKHWvABeYQBQgkKAA&biw=720&bih=803
+
+An ERP system is an integrated platform that collects data across all operational departments within an organisation, these include:
+  * Inventory (stock)
+  * Human Resources
+  * Pricing
+  * Sales
+  * Logistics
+   
+SAP COURSE online   
+   
+   These ERP systems are mainly provided by the following company like SAP.
+   
+Most ERP systems are large and for big companies. Microsoft came up with a solution for small and medium sized firms.   
+
+Crossing the chasm is a model developed by Moore that provides a synopsis of early interventions, this could mainly be around technology, strategy, new product development or roots to market - This not withstanding issues around financial models establishing mergent splits and other aspects that include brand equity could be considered. 
+
+
+*The Lean start-up methodology and the lean canvas*
+
+[[The Lean start-up methodology and the lean canvas]]
+What is the lean start-up methodology and the lean canvas? How can it be used and by whom?
+   
+Unfair advantage -- competitive advantage
+
+The sprint methodology -- google
+
+*Strategy - There are three main types of strategy:*
+   
+* Growth strategies
+* Stability strategies
+* Retrenchment (downsizing)
+
+There are several types of growth strategies, these include:
+  
+* Organic strategies 
+ * A slow expansion. Opening one store at a time...
+* Inorganic strategies 
+ * Mergers
+ * acquisitions
+ * licensing
+
+Backward / Forward integration
+  
+  Work together either at the beginning or the end of a supply chain.
+
+*Stability strategies*
+
+  Are strategies that are used when the business can no longer grow. (e.g. profit, marketshare, revenue, market growth)
+
+These are categorised as contingency strategies.
+There can be many many contingency strategies.
+
+*Retrenchment strategies*
+  
+  These strategies include:
+    * Disinvestment
+    * Downsizing
+    * Overall, exit strategies
+     
+Disinvesting in areas that are not profitable or cutting down on areas that are making losses 
+
+[[Hand-In_one]]
+
+
+== Mon Sep 24 16:06:41 BST 2018 ==
+
+*Generic strategies & combined strategies*
+
+[[Generic strategies & combined strategies]]
+
+CAC and CLV can be integrated by considering that dropping the price due to comparative advantage, the cost of acquiring a customer decreases and the customer lifetime value increases due to happier customers as of the lower price.
+
+Differentiation is a high risk strategy.
+You cannot differentiate if you do not have market presence.
+
+The above strategies provide the foundation upon which organisations can establish both, a comparative advantage, as well as defend against aggresive competition.
+Competitive advantage that is easily recreated, offers limited benefits to the company. 
+
+
+
+
+
+

@@ -1,0 +1,72 @@
+\beamer@sectionintoc {1}{Argumentation}{2}{0}{1}
+\beamer@sectionintoc {2}{The Structure of an Argument}{2}{0}{2}
+\beamer@subsectionintoc {2}{1}{Premise 1.}{2}{0}{2}
+\beamer@subsectionintoc {2}{2}{Premise 2.}{2}{0}{2}
+\beamer@subsectionintoc {2}{3}{Premise 3.}{3}{0}{2}
+\beamer@subsectionintoc {2}{4}{Conclusion.}{3}{0}{2}
+\beamer@sectionintoc {3}{Argument Structure vs. Argument Strength}{3}{0}{3}
+\beamer@subsectionintoc {3}{1}{Analyze the following argument:}{3}{0}{3}
+\beamer@subsubsectionintoc {3}{1}{1}{Premise:}{3}{0}{3}
+\beamer@subsubsectionintoc {3}{1}{2}{Conclusion:}{3}{0}{3}
+\beamer@sectionintoc {4}{Constructing an Argument in Ordinary Language (Prose)}{3}{0}{4}
+\beamer@subsectionintoc {4}{1}{Converting an Argument from Prose into \IeC {\textquotedblleft }Standard Form\IeC {\textquotedblright }}{4}{0}{4}
+\beamer@subsubsectionintoc {4}{1}{1}{Premise 1.}{4}{0}{4}
+\beamer@subsubsectionintoc {4}{1}{2}{Premise 2.}{4}{0}{4}
+\beamer@subsubsectionintoc {4}{1}{3}{Premise 3.}{4}{0}{4}
+\beamer@subsubsectionintoc {4}{1}{4}{Conclusion.}{4}{0}{4}
+\beamer@sectionintoc {5}{Argument Strength: Valid vs. Invalid Arguments}{4}{0}{5}
+\beamer@subsectionintoc {5}{1}{Valid and Invalid Arguments The Counterexample Strategy}{5}{0}{5}
+\beamer@subsectionintoc {5}{2}{The NMD Argument Revised}{5}{0}{5}
+\beamer@subsubsectionintoc {5}{2}{1}{Premise 1.}{5}{0}{5}
+\beamer@subsubsectionintoc {5}{2}{2}{Premise 2.}{5}{0}{5}
+\beamer@subsubsectionintoc {5}{2}{3}{Premise 3.}{5}{0}{5}
+\beamer@subsubsectionintoc {5}{2}{4}{Premise 4.}{5}{0}{5}
+\beamer@subsubsectionintoc {5}{2}{5}{Conclusion.}{5}{0}{5}
+\beamer@sectionintoc {6}{The Form of a Valid Argument}{6}{0}{6}
+\beamer@subsectionintoc {6}{1}{An example of a valid logical form is:}{6}{0}{6}
+\beamer@subsubsectionintoc {6}{1}{1}{PREMISE 1.}{6}{0}{6}
+\beamer@subsubsectionintoc {6}{1}{2}{PREMISE 2.}{6}{0}{6}
+\beamer@subsubsectionintoc {6}{1}{3}{CONCLUSION.}{6}{0}{6}
+\beamer@sectionintoc {7}{Valid and Invalid Arguments Arguments}{6}{0}{7}
+\beamer@sectionintoc {8}{Sound and Unsound Arguments}{7}{0}{8}
+\beamer@subsectionintoc {8}{1}{Arguments that are Valid and Unsound}{7}{0}{8}
+\beamer@subsubsectionintoc {8}{1}{1}{PREMISE 1.}{7}{0}{8}
+\beamer@subsubsectionintoc {8}{1}{2}{PREMISE 2.}{7}{0}{8}
+\beamer@subsubsectionintoc {8}{1}{3}{PREMISE 3.}{7}{0}{8}
+\beamer@subsubsectionintoc {8}{1}{4}{CONCLUSION.}{7}{0}{8}
+\beamer@subsectionintoc {8}{2}{Sound Arguments}{7}{0}{8}
+\beamer@subsubsectionintoc {8}{2}{1}{PREMISE 1.}{7}{0}{8}
+\beamer@subsubsectionintoc {8}{2}{2}{PREMISE 2.}{7}{0}{8}
+\beamer@subsubsectionintoc {8}{2}{3}{CONCLUSION.}{7}{0}{8}
+\beamer@sectionintoc {9}{Invalid Arguments: Inductive vs. Fallacious Reasoning}{8}{0}{9}
+\beamer@subsectionintoc {9}{1}{The following argument is invalid because a counter example is possible:}{8}{0}{9}
+\beamer@subsubsectionintoc {9}{1}{1}{PREMISE 1.}{8}{0}{9}
+\beamer@subsubsectionintoc {9}{1}{2}{PREMISE 2.}{8}{0}{9}
+\beamer@subsubsectionintoc {9}{1}{3}{CONCLUSION.}{8}{0}{9}
+\beamer@sectionintoc {10}{Inductive Arguments}{8}{0}{10}
+\beamer@subsectionintoc {10}{1}{An argument is inductive when:}{8}{0}{10}
+\beamer@subsectionintoc {10}{2}{The following is an example of an inductive argument:}{9}{0}{10}
+\beamer@subsubsectionintoc {10}{2}{1}{PREMISE 1.}{9}{0}{10}
+\beamer@subsubsectionintoc {10}{2}{2}{PREMISE 2.}{9}{0}{10}
+\beamer@subsubsectionintoc {10}{2}{3}{CONCLUSION.}{9}{0}{10}
+\beamer@sectionintoc {11}{Fallacious Arguments}{9}{0}{11}
+\beamer@subsectionintoc {11}{1}{The following is an example of a fallacious argument:}{9}{0}{11}
+\beamer@subsubsectionintoc {11}{1}{1}{PREMISE 1.}{9}{0}{11}
+\beamer@subsubsectionintoc {11}{1}{2}{PREMISE 2.}{9}{0}{11}
+\beamer@subsubsectionintoc {11}{1}{3}{CONCLUSION.}{9}{0}{11}
+\beamer@sectionintoc {12}{Seven-Step Strategy for Evaluating}{10}{0}{12}
+\beamer@sectionintoc {13}{Arguments I: Steps 1-4}{10}{0}{13}
+\beamer@subsubsectionintoc {13}{0}{1}{Step 1.}{10}{0}{13}
+\beamer@subsubsectionintoc {13}{0}{2}{Step 2.}{10}{0}{13}
+\beamer@subsubsectionintoc {13}{0}{3}{Step 3.}{10}{0}{13}
+\beamer@subsubsectionintoc {13}{0}{4}{Step 4.}{10}{0}{13}
+\beamer@subsubsectionintoc {13}{0}{5}{4a.}{11}{0}{13}
+\beamer@subsubsectionintoc {13}{0}{6}{4b.}{11}{0}{13}
+\beamer@subsubsectionintoc {13}{0}{7}{Step 5.}{11}{0}{13}
+\beamer@subsubsectionintoc {13}{0}{8}{5a.}{11}{0}{13}
+\beamer@subsubsectionintoc {13}{0}{9}{5b.}{11}{0}{13}
+\beamer@subsubsectionintoc {13}{0}{10}{Step 6.}{11}{0}{13}
+\beamer@subsubsectionintoc {13}{0}{11}{Step 7.}{12}{0}{13}
+\beamer@sectionintoc {14}{Scenario}{12}{0}{14}
+\beamer@sectionintoc {15}{Scenario 2}{13}{0}{15}
+\beamer@sectionintoc {16}{Scenario 3}{14}{0}{16}

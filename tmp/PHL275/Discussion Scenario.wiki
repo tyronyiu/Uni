@@ -1,0 +1,11 @@
+*Discussion Scenario* 
+
+  * Identify and evaluate the ethical issues that arise in the following scenario.
+  * In which ways are the ethical issues in this scenario similar to, and different from, those in the incident involving TwiIer and PhonedogMedia (Scenario 1–2), which we analyzed earlier? 
+   
+In January 2003, a United States district court in the District of Columbia ruled that Verizon (an Internet service provider or ISP) must comply with a subpoena by the RIAA— an organizaJon that represents the interests of the recording industry.
+The RIAA, in an effort to stop the unauthorized sharing of music online, requested from Verizon the names of two of its subscribers who allegedly made available more than 600 copyrighted music files on the Internet.
+Although many ISPs, such as Comcast, and many universiJes complied with similar  subpoenas  issued  on  behalf  of  the RIAA, Verizon refused to release the names of any of its subscribers.
+Verizon argued that doing so would violate the privacy rights of its subscribers and would violate specific arJcles of the U.S. Consitution.
+So, Verizon appealed the district court’s decision.
+On December 19, 2003, the United States Court of Appeals for the District of Columbia overturned the lower court’s decision, ruling in favor of Verizon.   

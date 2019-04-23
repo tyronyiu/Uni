@@ -1,0 +1,27 @@
+= BATNA - Best alternative to a negotiated agreement =
+
+Measure any proposed agreement against this standard.
+It will protect you from accepting a very bad agreement and keep you from rejecting an agreement that is in your interest.
+
+List all alternatives and select the preferred one. 
+
+Example alternatives of a BATNA analysis:
+  * Sell for price I want
+  * not sell
+  * rent out
+  * demolish & build new
+  * accept new price
+   
+*What can go wrong without a BATNA?*   
+
+Alternatives should not be seen as an aggregate.
+Negotiating without BATNA is like having your eyes closed.
+
+*Developing your BATNA*
+
+  1. Invent a list of actions you might take if no agreement is reached,
+  2. Improve the ideas with the most potential and convert them into practical alternatives.
+  3. Tentatively select the best alternative.
+
+_Developing your BATNA thus not only enables you to determinate what is a minimally acceptable agreement. It will probably raise that minimum._ - Getting to Yes, R. Fisher & W. Ury
+

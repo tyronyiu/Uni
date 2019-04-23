@@ -1,0 +1,281 @@
+= Managerial Accounting =
+ == Mon Sep 10 09:02:28 BST 2018 == 
+
+=== Managerial Accounting ===
+Managerial accounting, also known as cost accounting, is the process of identifying, measuring, analyzing, interpreting, and communicating information to managers for the pursuit of an organization's goals.
+
+=== Definition of Managerial Accounting? ===
+Managerial Accounting is the collection and analysis of financial and non-financial information and communicating it to managers for better decision making processes and increasing share holder wealth.
+
+=== The importance of Managerial Accounting? ===
+The importance is implied by the value managerial accounting adds for managers in regards to cost or process. 
+Especially, when having only been regarding accounting reports and having to been staying within the standards of accounting.
+
+=== Managerial Accounting VS. Financial Accounting? ===
+Managerial Accounting is more concerned with operational reports, which are only distributed within a company.
+
+Financial accounting must comply with various accounting standards, whereas managerial accounting does not have to comply with any standards when information is compiled for internal consumption. Systems.
+
+Management accounting differs from financial accounting. While financial accounting provides information to people inside and, more importantly, people outside the organization, management accounting is mostly aimed at aiding managers inside the organization with decision making.
+
+=== Decisions requiring managerial accounting information ===
+
+_Figure 1.10 > Page 26 > Chapter 1_
+
+  * Developing long term plans and strategies 
+  * Performance evaluation and control
+  * Cost and benefit determination
+  * Resource allocation
+
+[[Strategic Management]]
+
+
+= Wed Sep 12 09:00:47 BST 2018 =
+*Major tasks of the board:*
+  * Setting the overall direction and strategy for the business
+  * Monitoring and controlling the activities of the business 
+  * Communicating with shareholders and others connected with the business
+   
+*A department structure organised according to business functions*
+*figure 1.1 > page 2 > week 1 Lecture slides*
+
+*A divisional organisational structure*
+
+*figure 1.2 > page 3 > week 1 Lecture slides*
+Dissecting the business into divisions brings many advantages such as having account of who does what better or having the ability to diversify the same product within different divisions (e.g. European and Asian division adapting products for their market)
+
+*The changing business environment*
+  * Increasing sophistication of customers
+  * Development of global economy
+   - Creates loss of options for the customers 
+   - Increases options for the developer
+  * Rapid changes in technology
+   - Better management of resources due to enhanced technology application
+  * [[Deregulation]] of domestic markets
+   - Deregulating increases market competition by privatisation 
+  * Increasing pressure from owners
+   - Realistic goals and realistic resources are needed, thus the modern market being very frequent in change of labour needs to embrace patience.
+  * Increasing volatility of financial market
+   - A small drop in exchange rates can really cost a big company a lot of money. 
+    
+_Swot analysis - a small review_
+
+*The strategic management framework*
+   
+   | Establish mission, vision and objectives     |
+   | Undertake a position analysis                |
+   | Identify and asses the strategic options     |
+   | Select strategic options and formulate plans |
+   | Perform, review and control                  |
+    
+*The changing business landscape*
+  * Growth of the [[Service Sector]]
+  * Emergences of new industries
+  * Growth of e-commerce
+  * Automated manufacturing
+  * [[Lean manufacturing]]
+  * Greater product innovation
+  * Faster response times
+
+*Relationship between risk and return*
+
+The higher the wanted return the higher the needed risk. Their relationship is proportional.
+
+*Main users of accounting information relating to a business*
+
+*figure 1.7 > page 6 > week 1 Lecture slides*
+As shown in the figure, the parties should be considered by the business. Often businesses concentrate too much on e.g. shareholders, causing problems.
+
+*The qualities that influence the usefulness of accounting information*
+
+Qualities of different people should be applied to the correct jobs. The figure shows how that could possibly look like.
+
+*Relationship between costs and the value of providing additional management accounting information*
+
+If you start to collect the necessary information, it costs more and more until a law of diminishing returns is applied. 
+E.g. paying an expensive firm to write reports on market research maybe doesn't make sense in circumstances. Tools like AI or similar don't add as much marginal benefit as expected or the staff to operate/optimise the tools isn't correctly trained or not present.
+
+*The management accounting information system*
+
+Identifying data, recorded, then analysed until they can be used to write insightful reports
+
+*The four phases in the development accounting*
+
+Not only is thought of what and how to produce, but also about what shareholders hold value in or cost controlling or waste reduction are used.
+
+*Management and financial accounting*
+  * Nature of the reports produced
+   - Managerial is more specific and financial accounting has standards. 
+  * Level of detail
+  * Existence of regulations
+  * Reporting interval
+    - Managerial accounting doesn't have reporting intervals, the reports are done when needed.
+  * Time orientation
+    - Management accounting is more about what to do in the future than what happened in the past. 
+  * Range and quality of information
+    - Customer satisfaction or similar is also relevant information for management accounting
+     
+[[Review Exercises Chapter 1]]
+
+== Mon Sep 17 09:16:52 BST 2018 ==
+[[Week 2 additional Exercises]]
+
+*Audit 2023 Audits technology fit for the future*
+
+https://www.youtube.com/watch?v=AAyjbAJEwfM
+
+
+*Relevant and Irrelevant costs*
+
+What data should influence your decision making process? - Divide between relevant and irrelevant information. Also beware of historical data to not influence present issues. 
+
+In a business, only relevant cost should be considered for decision making purposes and irrelevant costs should be ignored.
+
+Relevant costs should have three attributes:
+  * It should relate to the future
+  * Cost should vary with the decision
+  * Maximise wealth and relate to the objective of the business  
+   
+If the cost is exactly the same in two scenarios of outcomes of decisions, the cost is irrelevant.
+
+*Definition of Cost*
+
+The amount of resources, usually measured in monetary terms, sacrificed to achieve a particular objective.
+
+*Two Types of cost:*
+  * Historic cost (A cost already incurred)
+  * opportunity cost (The value of an opportunity forgone)
+   
+*Relevant Costs:*
+  * Opportunity cost 
+  * Future outlay costs (Those that vary with the decision)
+   
+*Irrelevant Costs:*
+  * Historic costs
+  * Future outlay costs 
+
+There is no additional cost for a business if e.g. employees are allocated to another task, as they are already being paid anyways.
+E.G. A company asks for your technicians for a side project, they should be accounted for at least what they are being paid in order to not incur extra cost.
+
+*Irregular and Regular use of raw materials*
+
+Jay Ltd is bidding for a contract that will require 800 units of Alpha.
+This material is currently held and information is as follows:
+What is the minimum price for Alpha for inclusion in the contract bid?
+
+*Irregular use of Alpha*
+
+800 ×£12 = £9,600
+
+*Regular use of Alpha*
+
+800 ×£14 = £11,200
+
+If existing raw materials are regularly used in business, we use replacement cost (market buying price) 
+
+If any item is not normally/regularly used, we use sale price (resale value).
+
+committed cost is irrelevant as it has already been accounted for.
+
+
+If the labour has spare capacity, there is no additional cost as the labour is already being paid for by the business employing that labour.
+
+
+== Wed Sep 19 09:00:56 BST 2018 ==
+
+[[Activity 2.6]]
+
+[[Chapter 2 Self-assessment question 2.1]]
+
+
+[[Cost-Volume Profit Analysis]]
+
+
+
+== Mon Sep 24 09:05:52 BST 2018 ==
+
+[[RELEVANT COSTING: ADDITIONAL EXERCISES]]
+
+
+3,000 - not in use - Resale value of 1,000 - Replacement cost of 5,000
+
+Could subsitute for Z(6,000) + 2,000 
+either 6,000 or (3,000 + 2,000)
+
+Relevant Cost for X 
+
+*Relevant Costs:*
+  * Opportunity cost 
+  * Future outlay costs (Those that vary with the decision)
+
+Opportunity cost (to Z) | 5,000
+Opportunity cost (sell) | 1,000
+
+To start a project, the business can take material already in stock. 
+
+Materials                   Project          Market    
+=========                   =======          ======
+in use (replacement cost)                    market price
+not in use (resale value)   Cost Ex          
+
+Option 1: Sell for 1,000
+Option 2: Substitute Z
+          Saving: 6,000
+          Proc. Cost: 2,000
+          Net savings: 4,000
+          
+
+------------------
+
+Component X in use - 120 units in stock - 
+Component Y no use - 300 units in stock - resale value of 18pp (18*300=5,400)
+Component Z in use - 20 units in stock - 
+
+Project 1: 
+100 units of X - we have it - 100 * 12 = 1,200
+400 units of Y - buy 100 more - 22 * 100 = 2,200
+100 units of Z - buy 70 more - 70 * 45 = 3,150
+
+Total relevant cost: 2,200 + 3,150 + 1,200 = 6,550 
+
+
+------------------
+
+- Component A 3 per unit
+- Component B 1 per unit
+- Component C 2 per unit
+ 
+10 * Peeping Tom
+
+Development cost of 220,000 (sunk cost)
+
+For Component B, because it is not in use and there is a disposing cost as well as the MOQ, we have to buy 6, even though we only need 4, and then need to dispose the excess inventory due to its zero-value.
+
+*The disposing cost is irrelevant.*
+Because if the project would not be undertaken, the disposing cost would incur as well, thus the cost appears in both decisions (doing the project or not), and the cost is irrelevant.
+
+
+Component A:              Component B:                Component C:
+============              ============                ============
+widely in use             no longer used              in constant use
+15 in stock               6 in stock                  none in stock
+                          2,200 each                  20 unit contract about to be placed
+1,800 each                MOQ of 6 units              1,700 per units 
++ 5%                      Disposing cost (300p/unit)  for orders above 30, 10% off
+= 1890                    
+
+Material Cost             Material Cost               Material Cost
+
+10 * 3 = 30               10 * 1 = 10                 10 * 2 = 20
+                                                      
+Replacement cost          6 * 2,200                   20 * 1,700 = 34,000
+                          6 * 0                       40 * 170 = 6,800
+                                                         
+                          Total: 13,200               Total: 27,200
+                          
+                          
+                          
+
+
+
+

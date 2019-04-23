@@ -1,0 +1,89 @@
+*The Lean start-up methodology and the lean canvas*
+
+_What is the lean start-up methodology and the lean canvas? How can it be used and by whom?_
+
+*Lean start-up methodology*
+
+As "theleanstartup.com" describes:
+The Lean Startup provides a scientific approach to creating and managing startups and get a desired product to customers' hands faster.
+The Lean Startup method teaches you how to drive a startup-how to steer, when to turn, and when to persevere-and grow a business with maximum acceleration.
+It is a principled approach to new product development.
+
+_Principles_
+
+* Entrepreneurs are everywhere
+ - Universal applicability of entrepreneurship  
+* Entrepreneurship is management
+ - Institutions like start-ups require special management
+* Validated learning
+ - Learning towards building a sustainable business
+* Innovation accounting
+ - measure progress -> modern accounting -> process optimisation
+* Build-Measure-Learn
+ - measure, learn to pivot or persist -> accelerate this feedback loop
+
+The lean start-up methodology can be used for process optimisation, these include product development or delivering new products to customers faster.
+It is a set of principles that apply entrepreneurial thinking to start-up management.
+The lean start-up methodology can be used by anyone, as the entrepreneurial mindset is unlimited to its members and the concept of such could be omni-applicable. 
+
+Trying to create a MVP for a business. 
+
+*Important aspects for learning:*
+
+* A fast fail strategy
+
+*Lean Canvas*
+
+-- _Alexander Osterwalder_ <- _Ash Maurya_
+
+Fast, concise and effective startup - Lean startup spirit
+
+_Lean Canvas_ describes actionable & entrepreneur focused business plan, focusing on problems and their solutions as well as key metrics and competitive advantages.
+
+It's a layout model for a planning tool, that evaluates strengths and weaknesses of an idea for a product/service.
+
+The lean canvas can be used for outlaying a business model and allows overview over many significant aspects of the business, such as UVP, revenue streams, unfair advantage, etc.
+The lean canvas is an idea that has been evolved many times and progressively worked upon, it is not a fix thing.
+The lean canvas' idea can be taken and applied to completely new circumstances. 
+It can be used in any way of managerial overview situation.
+
+*Generic strategies & combined strategies*
+
+Generic strategies & combined strategies - what are they? What can they be used for?
+
+Remember _Concept of competitive advantage_
+
+Three generic strategies for abnormal profit - cost leadership, differentiation, focus
+
+Focus - specialisation and focusing on one segment
+
+Cost-leadership - In business strategy, cost leadership is establishing a competitive advantage by having the lowest cost of operation in the industry.
+Cost leadership is often driven by company efficiency, size, scale, scope and cumulative experience (learning curve).
+
+Differentiation - Differentiation is a high risk strategy. 
+You cannot differentiate if you do not have market presence.
+
+CAC and CLV can be integrated by considering that dropping the price due to comparative advantage, the cost of acquiring a customer decreases and the customer lifetime value increases due to happier customers as of the lower price.
+
+https://www.whitbread.co.uk/
+
+--------------------------------------------
+
+*Combined strategies*
+
+Corporate planning for simultaneous goal execution.
+
+Simultaneous execution hinders focused execution to occur.
+
+Usually, MNC create structures that allow them to conduct simultaneous and in some cases different strategies without necessarily putting each division at risk.
+
+Often, Business create _SBU's_ for simultaneous goal execution. 
+Geographic structurisation is obviously also a thing, as are the divison into similiarly scaled variables.
+
+SBU - Strategic Business Units
+
+---------------------------------------------
+
+The above strategies provide the foundation upon which organisations can establish both, a comparative advantage, as well as defend against aggresive competition.
+Competitive advantage that is easily recreated, offers limited benefits to the company. 
+

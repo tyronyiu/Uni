@@ -1,0 +1,11 @@
+*Brey’s disclosive method*  
+
+is multidisciplinary because it requires the collaboration of: 
+  * computer scientists,  
+  * philosophers,  
+  * social scientists.  
+
+Is multi-level because the method for conducting computer ethics research requires three levels of analysis, i.e. a:  
+  * disclosure level, 
+  * theoretical level,  
+  * application level. 

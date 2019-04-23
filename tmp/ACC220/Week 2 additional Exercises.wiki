@@ -1,0 +1,49 @@
+*WEEK 2: RELEVANT COSTING (CHAPTER 2): ADDITIONAL EXERCISES*
+
+*Q1:*
+A business purchased a tonne of material X at total cost of £3,000.
+The materialis no longer used in business due not meeting specific product quality criteria.
+Currently, it could be sold a scrap value of £1,000 immediately.
+Alternatively, it could be used as a substitute for another type of material Z that normally costs £6,000 per tonne  to  purchase.
+However,  it  will  require  £2,000  per  tonne  for  further  processing before it can be used as substitute.
+Current replacement cost for material X is £5,000.
+
+Required: What is the relevant cost of the material X per tonne?     (2 points)
+
+*Q2:*
+| Inventory   | Historic cost (£/unit) | Sales value (£/unit) | Replacement  cost (£/unit) |
+| Component X | 7                      | 10                   | 12                         |
+| Component y | 25                     | 18                   | 22                         |
+| Component z | 30                     | 45                   | 50                         |
+
+Component X is in constant use in business.
+We currently have 120 units of Component X.
+Component Y was bought several years agoand there are 300 units in stock which has no current use in business.
+It could be sold at salesvalue of £18 per unit.
+Component Z is in constant use in business.
+We currently have 20 units of Component Z.
+For a New Project 1, we need 100 units of Component X and 400units of Component Yand 100 units of Component Z.
+
+Required: Calculate the total relevant cost to be included for components X, Y and Z for this New Project1 and briefly explain the rationale for your choice for each component.     (10 points)
+
+*Q3.* Astra  Controls  Ltd  is  an  electronic  engineering  business  that  specialises  in  the production  of  electronic  surveillance  equipment  for  security  forces  throughout  the world.
+Recently it has received a request to produce 10 ‘Peeping Tom’ surveillance units for a foreign government.
+The Peeping Tom was developed some time ago by the business at a total research and development cost of £220,000.
+So far there has been  no  interest  shown  in  the  equipment  and  no  units  have  been  produced.
+The present order seems likely to represent the total sales for the Peeping Tom.
+The product specification for each unit is set out below:
+
+1. Materials 
+  1. Component A3 per unit Component B1 per unit Component C2 per unit
+  2. Component  A  is  normally  held  in  inventories  as  it  is  widely  used  throughout the business’s product range. There are 15 components currently held. These had cost £1,800 each. The sole supplier of this component has announced an immediate price rise of 5% for further purchases.
+  3. Component  B  is  no  longer  used for  any  other  of  the  business’s  products.  At present  there  are  six  components  in  inventories  costing  £2,000  each.  It  is possible to buy additional components at a cost of £2,200 each; however, the supplier   insists   on   a   minimum   order   quantity   of   six   components.   Any components  that  are  not  used  on  this  contract  will  be  disposed  of  at  a  total cost to the business of £300, irrespective of the quantity to be disposed of. 
+  4. Component  C  is  used  by  the  business  throughout  its  product  range.  At present there is none in inventories. However, an order for 20 components for use in another contract is about to be placed. The supplier normally charges £1,700 per component but for orders above 30 components a discount of 10% is available on the total order price.
+  5. Additional  materials  costing  £4,200  in  total  will  have  to  be  bought  if  the contract is undertaken.
+2. Labour Assembly 
+  6. time  is  estimated  at  10  hours  for  each  Peeping  Tom  unit.  The workforce  required  toassemble  the  product  is  paid  £8.00  an  hour  and  is  ingreat  demand.  If  the  order  is  accepted  the  necessary  labour  will  have  to  be transferred  from  existing  work  and,  as  a  result,  other  orders  will  be  lost.  It  is estimated that for each hour that labour is transferred to this product £60.00 of sales  revenue  willbe  lost  but  that  savings  of  £20.00  an  hour  in  materials relating to lost sales will be made.
+  7. Inspection  time  is  estimated  at  five  hours  for  each  Peeping  Tom  unit. Inspection  labour  can  be  provided  by  paying  existing  employees  overtime which is paidat 25% premium over the standard rate of £8.00 an hour.
+3. Overheads The  business normally  includes  a  mark-up  of  40%  to  cover  overheads.
+This contract is not expected to give rise to any increases in overheads.
+Required: Prepare  an  estimate  of  the  absolute  minimum  price  that  Astra  Controls  Ltd  could undertake the contract so as to leave the business no worse off as a result.
+Your answer should clearly explain your treatment of all of the information givenin the question. (25points)
+

@@ -1,0 +1,38 @@
+== Activity 2.6 ==
+
+*Calculating the cost of a project*
+
+P: (in use) $400 units * 40 = 16,000$
+Q: (Consistently used) $(100 units * 64) + (130 units * 64) = 14,720$ 
+R: (No other use, not consistently used) $(200 units * 23) + (150 units * 59) = 13,450$
+S: 
+  * option 1: $(140 units * 12) + (30 units * 49) = 3,150$ 
+  * option 2: $(225 units * 10) + (30 units * 49) = 3,720$  
+T: There is a saving of 160
+
+---------------------
+16,000
++
+6,400
++
+8,320
++
+4,600
++
+8,850
++
+2,250
++
+1,470
+-
+160
+
+| P | 400 | 40 |     |    | 16,000 |
+| Q | 230 | 64 |     |    | 14,720 |
+| R | 200 | 23 | 150 | 59 | 13,450 |
+| S | 225 | 10 | 30  | 49 | 3,720  |
+| T |     |    |     |    | -160   |
+
+---------------------
+Total relevant cost: 47,730
+

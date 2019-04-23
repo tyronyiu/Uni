@@ -1,0 +1,14 @@
+
+*Embedded Technological Features having moral implications*
+
+| Transparent Features | Morally Opaque Features |
+
+Morally Opaque Features: 
+  * _Known Features_
+  * Users are aware of these features but do not realise they have moral implications
+  * Examples can include web forms or search engine tools
+   
+Unkown Features:
+  * Users are not even aware of the technological features that have moral implications. 
+    Examples might include data-mining
+

@@ -1,0 +1,10 @@
+= Descriptive Vs. Normal Appreaches =
+
+| Descriptive | Normative |       |
+|             | Non-moral | Moral |
+|             |           |       |
+
+*Descriptive* - Report or describ what _is_ the case
+*Normative* - Prescribe what _ought_ to be the case
+*Non-Moral* - Prescribe or evaluate in matters involving standards such as arts and sports. (e.g. criteria for a good painting)
+*Moral* - Prescrive or evaluate in matters having to do with fairness and Obligation (e.g. criteria for just and unjust action and polices)

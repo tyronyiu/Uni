@@ -1,0 +1,2360 @@
+Part I
+
+THE POWER OF FRAMING
+
+Yes, I have tricks in my pocket. I have
+things up my sleeve. But I am the
+opposite of a stage magician. He gives
+you illusion that has the appearance of
+truth. I give you truth in the pleasant
+disguise of illusion.
+TOM WINGFIELD, IN
+TENNESSEE WILLIAMS’S THE GL ASS MENAGERIE
+
+THE POWER OF FRAMING
+Negotiating in the NFL
+’ve got to come up with some new idea. You guys keep
+“ Y ou
+talking past each other instead of to each other.” These were the exas1
+
+perated words of United States Magistrate Judge Arthur Boylan, who had
+been tasked with helping to end an escalating conflict between players
+and owners in the National Football League (NFL). It was May 2011,
+and team owners had already locked out the players. Much of the action
+was taking place in courtrooms, as each side tried to gain leverage through
+legal maneuverings. Ultimately, if a deal could not be struck, the coming
+season would be in jeopardy. This was not just a theoretical possibility:
+in 2005, a prolonged dispute between owners and players had decimated
+an entire season in the National Hockey League, eliminating more than
+$2 billion in projected revenue. The NFL had even more to lose, with
+approximately $10 billion standing in the balance.
+With so much money at stake in professional sports, you can be
+assured that, once in a while, the action at the bargaining table will rival
+anything fans get to witness on the field. At issue in 2011 was the fate
+of the new collective bargaining agreement (CBA), a multiyear contract
+between owners and the players’ union that governs the negotiation of
+individual contracts for all NFL players. The CBA also dictates, among
+other things, the revenue distribution between players and owners, the
+salary cap, minimum salaries, free agency rules, the terms of the annual
+draft, and working conditions. As in most CBA disputes in sports, one
+of the most salient and contentious issues in 2011 surrounded revenue
+sharing between owners and players. In other words, what percentage of
+the game’s revenue should go to players and what percentage to owners?
+In this case, the owners were demanding a $2 billion off-the-top credit to
+
+8
+
+
+Chapter 1: The Power of Framing
+
+9
+
+support investments before any split of revenues would take place, after
+which the players would receive approximately 58% of what remained.
+Players wanted no off-the-top credit for owners, and a 50–50 split of all
+revenues.2
+How do you resolve a dispute in which the demands of each party add
+up to more than is on the table—and neither side is willing to concede?
+
+NEGOTIATING THE IMPOSSIBLE
+The conflict escalated, and good faith bargaining gave way to legal maneuverings, heavy-handed tactics, and even appeals to the US Congress for
+intervention. Finally, there was a breakthrough. The resolution came
+when the parties agreed to a proposal (originating from the owners) that
+called for an entirely novel structure for revenue sharing. They decided
+that the way forward was to stop negotiating over “what percentage of all
+revenue” goes to each party. Instead, the parties would divide “all revenue” into three separate buckets that represented the different streams of
+NFL revenue. Then, they negotiated a different revenue sharing percentage for each bucket. The idea worked. The final agreement, signed August
+4, 2011, states that players will receive:
+• 55% of League Media revenue (e.g., revenue from
+TV rights)
+• 45% of NFL Ventures / Postseason revenue (i.e.,
+revenues from related businesses of the NFL)
+• 40% of Local revenue (e.g., stadium revenue)
+The solution, however, begs the question: What percentage of all revenues do the players receive from this deal? Running the numbers indicates that the three-buckets solution gives the players between 47% and
+48% of all revenues in the first year of the contract. But wait! If that’s the
+case, why go to all the trouble of creating three buckets with different percentages for each? Why not avoid the hassle of creating a new accounting
+system and simply agree to the players getting ~47.5% of all revenues?
+
+
+10
+
+PART I: THE POWER OF FRAMING
+
+There is an economically rational explanation for why three buckets may be a wiser solution than one big bucket. For example, consider
+what happens after the first year of the contract. If the players expect that
+League Media revenue will grow faster and hence represent a larger share
+of all revenues in the future, and the owners project that Local revenue
+will grow more rapidly, then the three-buckets approach is a value creating solution: it gives each side a higher percentage of the bucket it values
+most. The only problem with this economically rational explanation is
+that it has very little to do with why the two sides actually agreed to three
+buckets. We can be sure that the economically rational explanation falls
+short because when you read further down in the CBA, there is another
+provision that contains the following language:
+If, in any of the 2012–14 League Years, the Player Cost
+Amount . . . is greater than 48% of Projected “All Revenue” then
+the Player Cost Amount will be reduced to 48% of Projected
+“All Revenue.” . . . If, in any of these League Years, the Player
+Cost Amount is less than 47% of Projected “All Revenue”, the
+Player Cost Amount shall be increased to 47% of Projected
+“All Revenue.”
+
+In other words, the two sides are agreeing to roughly 47.5% of all revenues going to players. If the percentage deviates in any meaningful way from
+47.5% in any direction, it will be brought back to this relatively tight range.3
+So we still have the same question: why go to the trouble of creating
+three buckets if the agreement is practically indistinguishable from what
+they could have achieved by agreeing to some specified percentage of all
+revenues for each year of the contract? To answer this, we need to first
+keep in mind that very few people actually look carefully at these kinds
+of contracts, and almost no media outlets comprehensively report or
+analyze the finer details of the deal. Second, while practically inconsequential, there is a small degree of movement possible in the revenue split
+in future years. Most importantly, the three-buckets approach is superior
+to the one-bucket approach in one essential respect: it allows each side
+to go back to its constituents and declare victory. It creates just enough
+room for league negotiators to report to the owners that they can keep a
+higher percentage of revenues where owner investments are greater (i.e.,
+
+
+Chapter 1: The Power of Framing
+
+11
+
+stadium-related revenues), and it lets Players Association negotiators
+announce that they get more than 50% of revenues whenever fans click
+on the television.
+CONTROL THE FRAME
+As the NFL example illustrates, even in difficult negotiations where the
+parties are deadlocked, stalemate might be overcome without the use
+of money or muscle.4 Even though the argument was over money, the
+league did not have to keep throwing more dollars on the table to get the
+players to agree to the deal. Instead, what they did is a great illustration of
+the power of framing: objectively identical proposals can be made more
+or less attractive simply by how they are presented.
+The “frame” of the negotiation is a psychological lens. It is a sense-making
+apparatus that influences how people perceive each other, the issues at
+hand, and the options that exist. There is almost no limit to the number
+and types of frames that can emerge in a negotiation. For example, negotiators may look at a deal through a financial or a strategic lens, see it from
+a short-term or a long-term perspective, or regard it as a friendly or hostile
+engagement. Likewise, diplomats may look at a problem from a political
+or a security point of view, as being a central or a peripheral concern, or
+in a historic or present-day context. Deal makers may evaluate a proposal
+relative to their initial aspirations for the deal, or how well it compares to
+what others have achieved, or how it will be judged by others.
+There are no “right” or “wrong” frames, but which frame takes hold
+has important implications for how the parties behave and what they
+will ultimately be willing to accept. For example, sometimes a low-stakes
+issue that neither side really cares much about becomes infused with so
+much political or symbolic significance that neither side is willing or able
+to back down. In recent years, Democrats and Republicans in the United
+States Congress have been confronting this problem extensively: compromise on the slightest issue is considered by many partisans to be akin
+to wholesale betrayal, making it harder to reach agreements even where
+there is a lot at stake and plenty of bipartisan support on the substance of
+an issue.
+
+
+12
+
+PART I: THE POWER OF FRAMING
+
+Importantly, negotiators almost always have the power to influence the
+frame, and as we will see, reframing can be a powerful tool for overcoming
+barriers to deal making. Regardless of the objective stakes, much of what
+determines how people approach a problem depends on how they (or
+their constituents) subjectively make sense of it. Deal makers are unwilling
+to make concessions to perceived adversaries but are more amenable to
+doing so when they perceive the task as a collaborative problem-solving
+effort. Negotiators who frame a conflict as “winner takes all” will have a
+harder time than negotiators who believe it is possible for everyone to
+“win.” Negotiators will be more or less willing to accept certain proposals
+when they adopt a short-term versus a long-term lens, or when the offer
+appears better versus worse than what they initially expected. As we discuss the power of framing throughout this section, we will pay particular
+attention to how objectively identical proposals and options can be reframed
+to make them more attractive to the other side. Paying attention not just to
+the substance of what is being negotiated, but also the lens through which
+parties are evaluating their options, can sometimes help break seemingly
+impossible deadlocks.
+Control the frame of the negotiation. The frame that
+takes hold will shape how negotiators make decisions,
+evaluate options, and decide what is acceptable.
+
+THE IMPORTANCE OF HELPING THE OTHER SIDE BACK DOWN
+The problems that negotiators face in early stages of deal making can be
+quite different from the problems they face as talks progress. One critical
+difference relates to the reasons why someone stubbornly insists on making demands that you cannot possibly meet. When this happens early in
+a negotiation, it is usually a sign that you have failed to set appropriate
+expectations for what is possible. This can lead the other side to ask for
+the impossible—that is, to demand concessions that are true deal breakers for you. This is why it is a good idea to educate the other side at the
+outset about the limits of what you can offer and about the areas where
+
+
+Chapter 1: The Power of Framing
+
+13
+
+you have more or less flexibility. Negotiators often fail to do this in the
+false belief that the other side is well-enough informed about the parameters of the negotiation, or because they are worried that discussing any
+limitations or constraints will raise doubts about their value as a partner.
+There may also be insufficient trust, making it harder for either side to
+believe that the other is genuinely so constrained, or that there is truly so
+little room for movement.
+When people are initially deadlocked over incompatible positions, it
+usually means that their aspirations are unrealistic and there is simply not
+enough value on the table to meet them. If both sides want more than
+50% of the pot, you have a serious problem, and the sooner you realize
+that it has nothing do with poor math skills, the better off you will be.
+This was undoubtedly the case in the NFL. The same problem frequently
+surfaces in diplomatic negotiations and business disputes.
+But at some point in the process, perhaps after weeks of interaction,
+or months of trust building, or years of impasse, one or both parties may
+come to the conclusion that their earlier demands are not possible, and
+that major concessions will be needed to avoid a truly disastrous outcome.
+When that day comes, you may find that people are still unwilling to lower
+their demands. Now, you no longer have an education or trust problem to
+solve. The problem is how to get the other side to admit that they initially
+asked for more than was reasonable, and to back down and accept what
+is actually possible. The problem is all the worse when the other side will
+have to back down publicly, because they have committed to aggressive
+positions in front of others (e.g., their constituents or the media). In my
+experience, it is often relatively easier to get people to understand that
+they have overreached and that their demands are impossible to meet; it
+is a lot harder to get them to acknowledge this and change course. This
+was the problem that the NFL negotiators faced—and ultimately solved.
+Convincing the other party that they will have to concede
+or withdraw from initial positions is not enough. You
+have to make it easier for them to back down.
+
+
+14
+
+PART I: THE POWER OF FRAMING
+
+NEGOTIATE STYLE AND STRUCTURE, NOT JUST THE SUBSTANCE
+When the NFL negotiations were deadlocked, either side could have
+tried to make the deal more attractive to the other by reducing their own
+revenue demands. But this would have been a costly concession. As the
+solution they reached shows, you do not always have to throw money at
+the problem to move things along. Sometimes, wise concessions on style
+and structure can solve the problem more cheaply than costly concessions on substance. In this case, the three-buckets solution seems to have
+helped the parties accept a deal that did not seem palatable with a onebucket structure, even though the objective value of the deal was almost
+identical. Negotiators who are mindful of style and structure are better
+positioned to overcome resistance, avoid impasse, and achieve better
+outcomes.
+Wise concessions on style and structure can help
+solve a problem more cheaply than costly concessions
+on substance.
+In the next chapter, we take a closer look at the various ways in which
+framing can help break deadlock without using money or muscle. In
+doing so, we derive more principles for resolving conflict of all kinds. We
+also devote particular attention to two factors that were at play in the NFL
+negotiations and that can make deadlocks especially difficult to break.
+First, there is the audience problem. The other side may be concerned not
+just with what they get from you, but also with how others will judge
+their acceptance of your offer. Second, there is the zero-sum problem. In
+a zero-sum situation the amount that one side gains must precisely equal
+what the other side loses.5 When people are stuck negotiating over only
+one divisive issue, and there are no other interests involved, it becomes
+hard for them to make concessions without feeling they have lost and the
+other side has won. Let’s see how these issues might be tackled.
+
+
+2
+
+LEVERAGING THE POWER OF FRAMING
+Stalemate over Royalty Rates
+
+W
+
+e were negotiating a large commercial agreement.1 The company I was advising was an early-stage venture that had developed a
+potentially game-changing product in a multibillion-dollar industry. The
+folks on the other side of the table were hoping to license our product and
+help bring it to market. As a result, we had to negotiate a wide range of
+issues: licensing fee, royalty rate, exclusivity provisions, milestones, development commitments, and so on. We got stuck on royalty rate—that is,
+the percentage of sale price they would pay us for each product they sold.
+There had been some early discussions in which the two sides had
+very informally agreed that a 5% royalty rate was reasonable. As time
+went on, it seemed that we had slightly different interpretations regarding
+how this percentage would be applied. Our view was that 5% was low, but
+would be acceptable as the rate they paid to us initially. As the product
+gained traction and was validated by the market, we felt the royalty rate
+should increase to a more appropriate, higher level. We understood that
+our technology was still in a development phase, that early sales momentum might be slow, and that their heavy investments in manufacturing
+warranted a concession from our side.
+Their perspective was quite different. They argued that because of their
+investments, the royalty rate should initially be close to zero; after two to
+three years, the 5% rate would kick in; and after that, royalty rates should
+go down, not up. Why should they go down, we asked? “Because in our
+industry, we always see royalty rates go down over time, not up. That’s
+just how it is,” they replied. After some further probing they provided
+
+15
+
+
+16
+
+PART I: THE POWER OF FRAMING
+
+additional rationale: “If we are selling more of your product over time,
+you should be willing to accept a lower percentage.”
+Our initial hope was that we would be able to avoid confronting this
+issue head-on because the value of the overall deal was quite high, and
+with so much money to be made, this should not be a deal breaker for
+them. As the days passed with little progress, we realized that they really
+were stuck on the idea that “royalty rates are supposed to go down.” Were
+they worried about the precedent this might set in their other deals? Was
+it something they had promised their board, and now they did not want
+to lose face? Were they simply trying to get better financial terms? Try as
+we might, we could not get the numbers to work with rates going down
+over time. And if we tried to accommodate their desire for lower rates in
+the first year or two, it further increased our need for higher rates later.
+What to do?
+
+WITHOUT MONEY OR MUSCLE
+There are times when two sides have incompatible positions and one has
+to yield. There are other times when each side compromises, meeting in
+the middle (for example, we could have agreed to a flat royalty rate over
+time). And then there are times when the laws of physics do not necessarily apply to negotiations: things can go up and down at the same time.
+The breakthrough came when we noticed a flaw in how we were
+going about the discussion: we were stuck negotiating royalty rates in
+one dimension (over time), when our differing perspectives made clear
+that two dimensions were in play: the passage of time and the quantity of
+sales. Maybe we could leverage this to create a royalty schedule that went
+both up and down. If the other side needed to show rates going down
+over time, perhaps we could accommodate this and still safeguard our
+financial interests when the product sold more. With this in mind, we
+sent them a royalty table that no longer listed rates over time. Instead,
+
+
+Chapter 2: Leveraging the Power of Framing
+
+17
+
+we created a two-dimensional chart that listed rates as a function of time
+and quantity sold. It looked something like Table 1.2
+TABLE 1
+
+Quantity
+Sold
+
+Year
+1
+
+Year
+2
+
+Year
+3
+
+Year
+4
+
+Year
+5
+
+...
+
+Year
+10
+
+200,000
+
+9.5%
+
+9.0%
+
+8.5%
+
+8.0%
+
+7.5%
+
+...
+
+7.0%
+
+180,000
+
+8
+
+8
+
+7
+
+7
+
+0
+
+0
+
+160,000
+
+7
+
+7
+
+6
+
+6
+
+5
+
+5
+
+140,000
+
+6
+
+6
+
+5
+
+5
+
+4
+
+4
+
+120,000
+
+5
+
+5
+
+4
+
+4
+
+3
+
+3
+
+100,000
+
+4
+
+4
+
+3
+
+3
+
+2
+
+2
+
+80,000
+
+3
+
+3
+
+2
+
+2
+
+1
+
+1
+
+60,000
+
+2
+
+2
+
+1
+
+1
+
+1
+
+1
+
+40,000
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+20,000
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+For each year, instead of one royalty rate we would have a range (with
+a minimum and maximum) based on quantity sold. Notably, the maximum royalty rate for each year would decrease over time (top row), which
+we hoped would meet their demand for diminishing royalty rates. At the
+same time, the actual royalty rate for each year could increase year after
+year if we sold more. Our expectations for how the royalty rates would
+actually materialize is shown in Table 2, with highlighted cells showing
+our internal projections.
+
+
+18
+
+PART I: THE POWER OF FRAMING
+
+TABLE 2
+
+Quantity
+Sold
+
+Year
+1
+
+Year
+2
+
+Year
+3
+
+Year
+4
+
+Year
+5
+
+...
+
+Year
+10
+
+200,000
+
+9.5%
+
+9.0%
+
+8.5%
+
+8.0%
+
+7.5%
+
+...
+
+7.0%
+
+180,000
+
+8
+
+8
+
+7
+
+7
+
+6
+
+6
+
+160,000
+
+7
+
+7
+
+6
+
+6
+
+5
+
+5
+
+140,000
+
+6
+
+6
+
+5
+
+5
+
+4
+
+4
+
+120,000
+
+5
+
+5
+
+4
+
+4
+
+3
+
+3
+
+100,000
+
+4
+
+4
+
+3
+
+3
+
+2
+
+2
+
+80,000
+
+3
+
+3
+
+2
+
+2
+
+1
+
+1
+
+60,000
+
+2
+
+2
+
+1
+
+1
+
+1
+
+1
+
+40,000
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+20,000
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+It worked. The other side argued over some of the numbers in the
+table, but this new proposal helped reframe our dialogue and avoid
+impasse. The two sides were no longer arguing over royalty trajectory
+or the rationale for whether it should go up or down, and in the weeks
+ahead, the issue went away completely. The final agreement contained a
+simplified version of the royalty table (with fewer columns and rows) that
+accounted for time and quantity. While perhaps not substantively different
+from what could have been accomplished by agreeing to royalty rates on
+one dimension, this stylistic approach helped our negotiating partner feel
+more comfortable with how the deal looked, and let us feel comfortable
+with the financial outcome.
+PAY ATTENTION TO THE OPTICS OF THE DEAL
+As this example illustrates, it’s not just what you propose, but how you propose it. Too often, negotiators incorrectly assume that if you get the substance of the deal right—that is, your proposal is sufficiently valuable to the
+
+
+Chapter 2: Leveraging the Power of Framing
+
+19
+
+other side—then you do not have to worry about “how it looks,” what we
+call the optics of the deal. But here, as in the NFL negotiations, the problem
+was not the value on the table, but the way the proposal was framed.
+The role of optics is especially pronounced when there is an audience.
+The audience can be voters, the media, competitors, future negotiation
+partners, a boss, colleagues, or even friends and family. We are usually
+aware of our own audience, but we pay insufficient attention to theirs. In
+fact, their audience is just as important to consider as ours, especially if
+we are asking them to back down or make hefty concessions. To think of
+their audience as “their problem” ignores a central tenet of most difficult
+negotiations: there is no such thing as their problem; what seems to be
+their problem, if left unsolved, eventually becomes your problem. You
+may have already given them an offer that is superior to their alternatives,
+one that they “should” accept, but if you have not paid sufficient attention
+to the other factors that influence their decisions, you may find that even
+your generous offers are being rejected.
+Pay attention to the optics of the deal. It’s not just the
+substance of what you offer that matters, but how it
+looks to your negotiating partners and to their audience.
+
+HELP THE OTHER SIDE SELL IT
+In the 1991 book Getting Past No, William Ury uses a cogent phrase to
+highlight the importance of helping the other side with its audience. Ury
+tells us to “write their victory speech” for them. I always ask my students
+and clients to carefully consider not just how much value they are providing to the other side, but also how they and their audience will view
+an offer. Think about how they can possibly say yes to what you are proposing
+and still declare victory. If you cannot think of a way that they can construe
+the agreement as a “win,” you may be in trouble.
+This does not mean you should use stylistic or structural maneuvers
+to sell deals that are not in the best interest of either side’s constituents.
+Later in this section we will tackle the possibility and problems of doing
+
+
+20
+
+PART I: THE POWER OF FRAMING
+
+so, but for now, let us appreciate how everyone can benefit from effective
+framing. In the NFL example, reframing the proposal using three buckets
+helped create a narrative that the parties could use when they went home
+with what quite likely was the best deal they were going to get. Reframing
+helped avoid an impasse that could have resulted from negotiators being
+too concerned about their own image rather than what was best for their
+constituents. In our negotiations over royalty rates we were able to come
+up with a substantive proposal that worked for the other side, but they
+still needed help in framing the proposal so that nonsubstantive concerns
+would not derail it.
+The same principle applies in less complex environments—for example, when you are negotiating a job offer. If the hiring manager is going to
+sweeten the deal or make an exception for you, he or she will need some
+way to justify it internally. I always remind my MBA students to help the
+other side with the arguments and narrative they need to explain why the
+concession they made was appropriate and necessary in this case.
+Think about how the other side will sell the deal, and
+frame the proposal with their audience in mind.
+
+MAKE IT SAFE FOR THE OTHER SIDE TO ASK FOR HELP
+It is not always obvious whether the other side truly needs a substantive
+concession or merely has a problem with how your offer will look to their
+audiences. As you might also suspect, the other side is often unwilling to
+clarify which of these is the case. For them to admit that they don’t absolutely need a substantive concession would be costly if we were already
+prepared to make one. Telling us that our proposal is, in fact, sufficiently
+valuable also undermines their argument for making further demands.
+Finally, revealing that they need help selling the deal could make them
+look weak, and may disrupt the deal process. These are all understandable
+concerns that might cause someone who is struggling with the optics to
+act as if the deal is simply not good enough.
+If there is sufficient trust in the relationship, the other side is more
+likely to be candid about what is really standing in the way of the deal.
+
+
+Chapter 2: Leveraging the Power of Framing
+
+21
+
+Even when there is little trust, a healthy degree of professional respect
+between the negotiators can help them signal to each other if they are
+stuck on the optics. Such signaling usually happens with a degree of
+plausible deniability; their signals will be ambiguous enough so that, if
+pushed, they can deny having such needs, but you know and they know
+that a message was sent.
+It is important to remember that even these signals are hard to come
+by if you are seen as someone who always takes advantage of the slightest
+sign of weakness from the other side. To put it simply: The safer you make
+it for the other party to tell you the truth, the more likely they are to do so.3
+The best way to make it safe is to show them, through your actions, that
+you do not exploit every advantage you see, and that you appreciate the
+risks they are taking in being honest or transparent on important issues.
+In my experience, repeated negotiations or multiple deals over many
+months or years are not required for such reputations to be built; reputations for integrity and reliability are usually built in countless small ways
+throughout the process of even one deal. For example, you build trust by
+reciprocating when others have shared sensitive information or made a
+concession, by following through on your commitments, and by showing
+a willingness to be flexible when possible rather than fighting tooth and
+nail on every point.
+Make it safe for the other side to ask for help on optics.
+Build a reputation for rewarding transparency and not
+exploiting their moments of weakness.
+
+AVOID ONE-ISSUE NEGOTIATIONS
+The royalty rate negotiation highlights a common problem in negotiations: getting stuck on one divisive issue. Counterintuitive as it may seem,
+negotiations are often easier when you have more than one thing to fight
+about. When there is only one issue on the table, and it is not easy to see
+how both sides can get what they want—or as much as they have promised to their audiences—you have a zero-sum problem in which at least
+
+
+22
+
+PART I: THE POWER OF FRAMING
+
+one of you is going to feel or look like you lost. In these situations, it is
+useful to consider whether you can bring other issues to the table so that
+each side can walk away with something. When one of my children wants
+a toy that a sibling is playing with, I often advise him or her to bring along
+another toy to facilitate a potential trade. Arguing over who will get the
+one and only toy is not as likely to end well.
+Alternatively, you might consider linking or combining what otherwise would have been two separate one-issue negotiations to create one
+easier negotiation rather than two more difficult ones. It is easier for my
+kids to agree on which TV show they will watch on Friday and Saturday if
+they discuss both days at the same time rather than having a separate conversation each day. What would be two separate arguments is replaced
+with one discussion in which each person gets something of value.
+Sometimes, introducing even a relatively minor second issue is
+enough to dislodge the stalemate. The “win” you help to create for the
+other side need not always be as substantively valuable as what they give
+to you on the divisive issue. As noted, they may already be willing to live
+with you having your way on the divisive issue and are only looking for
+something—anything—around which to create a narrative that says
+“Both sides made concessions.”
+Avoid negotiating over a single divisive issue. Add issues
+or link separate one-issue negotiations.
+
+NEGOTIATE MULTIPLE ISSUES SIMULTANEOUSLY
+Even if there are multiple issues in the negotiation, if I have to concede on
+the issue we are discussing now in the hope that you will concede on the
+issue to be discussed later, I may be unwilling to take that risk. To address
+such concerns, it is usually wise to negotiate multiple issues simultaneously.
+In other words, instead of trying to reach agreement one issue at a time,
+create the habit of making “package” offers and counteroffers. For example, “Here is what we can do on Issue A, here is where we need to be on
+Issue B, and here is what we can accommodate on Issue C.” This serves
+
+
+Chapter 2: Leveraging the Power of Framing
+
+23
+
+two purposes. First, as mentioned, it eliminates the risk that a concession
+made now will not be reciprocated later—you can make your concession
+contingent on theirs. Second, with multiple issues in the mix during the
+same discussion, it becomes easier for negotiators to make wise trades
+across issues—you can fight for what you care about more in exchange
+for giving up what the other side values more. In contrast, when you
+negotiate one issue at a time, people will often fight equally hard for whatever happens to be on the table at that time, making it difficult to find out
+what each side really cares about most.
+For example, if I’m negotiating a complex business deal and someone
+tries to negotiate on one issue in isolation (e.g., price), I will usually shift
+the conversation to include other issues. There are many ways to do this.
+I can simply say that my position on price depends on where we are on
+other terms, so we need to discuss those issues as well before we try to
+finalize the price. I can make a “package” offer that includes terms other
+than price and clarify that my stated price assumes the following terms.
+I can present multiple offers, each with a different price and different
+terms, so the other side can better understand how the issues are related
+and how much flexibility I have. Any of these tactics can help us avoid
+getting bogged down on one divisive issue.
+Negotiate multiple issues simultaneously to help
+identify wise trades and to reduce the risk that
+concessions will not be reciprocated.
+
+DIFFUSE THE SPOTLIGHT
+With multiple issues on the table, it is easier to construct an agreement
+that allows each side to show some wins. Unfortunately, even with multiple issues, one issue sometimes becomes the most prominent, and
+everyone starts using it as the sole measure of who wins and who loses.
+This was precisely the problem in the NFL negotiations; even if one
+side received monumental concessions on other issues, most observers
+would still use the revenue-split issue as the only barometer of success.
+
+
+24
+
+PART I: THE POWER OF FRAMING
+
+We also see this when political parties are negotiating over legislation.
+The reason it happens can vary. Sometimes the media or other audiences
+have limited information or expertise to judge anything other than one
+prominent issue. Other times, regrettably, the negotiators themselves
+inflate the importance of a single issue in their rhetoric. Politicians might
+do this to drum up enthusiasm among supporters, or deal makers may
+inadvertently do so as they try to efficiently articulate their positions. In
+some cases the problem arises even when there is no audience; one issue
+becomes prominent because one or both sides have overstated its importance to justify an aggressive opening position.
+Don’t let any single issue become too prominent. Educate
+your audiences about how to measure success, and limit
+the amount of attention given to any one issue.
+
+SPLIT ONE ISSUE INTO TWO
+Of course, there are situations where one issue is objectively the most
+important. And there are situations where, try as you may, no other issues
+are relevant (or possible to include) in the discussion. Even in these cases
+there is another strategy for avoiding a win/lose outcome: split the one
+issue into two or more. This is what the NFL negotiators did by splitting
+one revenue number into three separate revenue “buckets.” We did something similar in the commercial agreement discussion: splitting “royalty
+rate per year” into “royalty scale per year” and “royalty based on quantity.”
+And going back to the example of children and their toys: if there is only
+one toy, you might “split one issue into two” by discussing who gets the
+toy now and who gets it later. (Note: it is usually not as effective to actually break the toy into two pieces, although there are exceptions to this.)
+If there is only one issue, try to split it into two or more
+separate issues.
+
+
+Chapter 2: Leveraging the Power of Framing
+
+25
+
+UNMASK THE UNDERLYING INTERESTS
+What seems like one contentious issue is sometimes composed of multiple hidden interests that are reconcilable. In such situations, you may be
+able to overcome stalemate by unmasking the underlying interests. For
+example, consider an employee who is haggling over an increase in salary
+with an employer who is clearly unwilling to agree to the raise. The reason
+may be that the employer does not think the employee deserves such a
+large increase in pay. If so, one option would be for the two of them to
+“meet in the middle” and find an amount they can both live with. If they
+can’t find such a number, they may have to go their separate ways. But
+what if the employer thinks the employee’s demand is fair, and the only
+reason she is saying no to the initial ask is that her budget is limited for
+this year? In that case, instead of meeting in the middle, it may be wise to
+split the issue into “salary this year” and “salary next year.” This way, the
+employer can delay a hit to the budget, and the employee gets a much
+higher salary starting the following year.
+In other words, it may be possible for both sides to meet their underlying interests (getting a higher raise, staying within budget), but this
+will only happen if they stop arguing about “what they want,” and start
+discussing their motivations for “why they want it.” This is referred to as
+shifting from positions (what people want) to interests (why they want
+it). Even when you have opposing positions on an issue, you might have
+compatible interests. The sooner you shift from arguing over positions
+to exploring underlying interests, the more quickly you will ascertain
+whether the needs of both sides can be reconciled.
+Incompatible positions might be hiding reconcilable
+underlying interests. Understanding why the other
+side wants something can lead to better outcomes than
+continuing to argue over competing demands or trying
+to meet in the middle.
+
+
+26
+
+PART I: THE POWER OF FRAMING
+
+FIRM ON SUBSTANCE, FLEXIBLE ON STRUCTURE
+Effective negotiators are assertive where needed and flexible when possible. After you have evaluated what each side brings to the table, and after
+you have considered what would be fair to demand, be as firm as necessary
+on what you deserve. But your assertiveness on substance should not spill
+over into stubbornness regarding how your demands are met. As the NFL
+and royalty rate examples demonstrate, the less demanding you are on the
+precise structure of the agreement, the more likely you are to find a deal
+that works for everyone. This flexibility gives the other side more options
+and makes it more likely that they can find some way to meet your needs. In
+my experience, a useful message to send to the other party, in both words
+and deeds throughout the negotiation, is this: I know where I need to get;
+I’m flexible on how we get there. To put it another way: the more currencies
+you allow them to pay you in, the more likely you are to get paid.
+Be as firm as needed on substance; be as flexible as
+possible on style and structure.
+
+GETTING UNSTUCK IS A WORTHY ENOUGH SHORT-TERM GOAL
+You may have noticed that our offer to negotiate royalty rates in two
+dimensions instead of one did not immediately solve the problem.
+Instead, the other side pushed back on elements of the structure and
+found faults with this proposal, not the least of which was the fact that the
+numbers were too high for them. But what the proposal did accomplish
+was getting us unstuck on the divisive issue. We were now discussing matters that were substantive and ultimately reconcilable. This is an important point: crafting proposals that are sensitive to the other side’s audience
+needs and which help to maneuver around divisive issues will not necessarily resolve the entire conflict or seal the entire deal. These proposals
+will, however, reduce the amount of time spent in deadlock and make it
+more likely that a mutually acceptable agreement can be found.
+
+
+Chapter 2: Leveraging the Power of Framing
+
+27
+
+A wisely framed proposal need not resolve the entire
+dispute. Sometimes just getting unstuck is the key to
+paving the path towards eventual agreement.
+In the examples considered so far, deadlock was caused by the two
+sides having opposing objectives, which led them to make demands that
+seemed irreconcilable. But it is possible to have deadlock even when the
+interests of everyone in the room are aligned and everyone is working
+towards the same objective. People might still disagree about the best way
+to achieve that objective. This might happen because there is insufficient
+trust, or because people are not effectively articulating the merits of their
+proposals, or because everyone has strong, and different, prior beliefs
+about the right path to take. We will see a number of these factors at play
+in the next chapter, in a domain of human interaction that is quite different from the situations we have considered so far. Let’s see how framing
+tactics can help overcome psychological resistance to ideas that are new,
+foreign, or different from a person’s existing beliefs or expectations.
+
+
+3
+
+THE LOGIC OF APPROPRIATENESS
+Negotiating in the Shadow of Cancer
+
+Y
+
+ou may have the best, most innovative proposal, but how do you
+present it to someone who insists on doing things the way they’ve
+always been done? You may have the person’s best interest in mind, but
+how can you negotiate in the face of severe resistance to change? You may
+be right, but how do you make your case when the other side is emotionally attached to an alternative course of action?
+Consider the case of patients who are diagnosed with low-risk prostate cancer.1 Most prostate cancer cases in the United States are detected
+using a screening test called the prostate-specific antigen test (PSA).2
+There is considerable evidence that many PSA-detected cancers are
+overdiagnosed—that is, the patient would have lived out the natural
+course of his life without ever knowing he had prostate cancer if not for
+having taken the PSA test.3 At Memorial Sloan Kettering Cancer Center
+(MSKCC) in New York, one of the preeminent institutions in cancer
+research and treatment, “active surveillance” is generally recommended
+for men with low-risk prostate cancer—and is preferred over treatments
+such as surgery and radiotherapy that can cause side effects, including
+incontinence and erectile dysfunction. This recommendation is consistent with the National Comprehensive Cancer Network guidelines and
+the American Urology Association guidelines.
+In active surveillance (AS), patients are carefully monitored with
+PSA tests, repeat biopsies, and physical examinations; if there is a sign
+that the disease has progressed to a higher risk category, patients are
+recommended for treatment (e.g., surgery or radiation therapy). An AS
+program typically includes lab tests and exams every six months, and a
+repeat biopsy every two years, to detect any disease progression.
+28
+
+
+Chapter 3: The Logic of Appropriateness
+
+29
+
+When Dr. Behfar Ehdaie, MD, MPH, began practicing surgery at
+MSKCC, he found that only about 60% of the patients for whom he
+had recommended AS complied; all others opted for surgery or radiation and were unwilling to accept active surveillance as recommended.
+Other doctors at MSKCC had similar rates of compliance when they recommended AS. Moreover—and understandably—even the discussions
+a doctor would have with patients who agreed to AS were lengthy and
+difficult. Why were so many patients unwilling to accept an expert’s recommendation, even though the doctor would arguably have made more
+money by proposing surgery, and even though surgery and radiation have
+significant quality-of-life detriments? What could be done differently to
+achieve better patient outcomes?
+
+WITHOUT MONEY OR MUSCLE
+Dr. Ehdaie and his collaborator, Dr. Andrew Vickers, started experimenting with ways to improve how AS is discussed with patients. When Dr.
+Ehdaie reached out to me, he wanted to work together on refining his
+approach to discussing AS, and more generally, on helping other doctors
+improve their communication with patients. Note that his goal was not to
+get other doctors to prescribe AS or any other remedy—that is a choice
+for each doctor to make—but to help physicians be more effective in
+making whatever recommendation they considered appropriate.4
+The core problem, it seemed, was that patients were being asked
+to consider an option that was different from what they had initially
+assumed they would or should choose. How to overcome this resistance?
+How could we help patients more carefully consider doing what is in
+their own best interest? Building on ideas Dr. Ehdaie had already started
+to implement, we worked together to refine the approach based on existing research in psychology and on my experience helping organizations
+articulate their value proposition to customers and stakeholders. The
+results have been quite striking. Since changing the conversation in the
+room, according to data collected over three months, adoption of AS by
+Dr. Ehdaie’s patients has increased from about 60% to 95%. And what
+did it cost him to implement the change? Less than nothing. First, the new
+
+
+30
+
+PART I: THE POWER OF FRAMING
+
+approach did not require any costly changes to policy, administrative
+structure, or interactions between doctors, hospitals, and insurance companies. In addition, his average counseling time for low-risk patients actually decreased to around 35 minutes compared to over 60 minutes prior to
+implementing the new approach. The conversations were not only more
+effective, but also more efficient.
+Here I share some of the principles that Dr. Ehdaie now applies in
+his communication with patients to keep the conversation from getting
+derailed.5 In particular, I focus on how the options are reframed to overcome resistance to change. When blended together, these principles are
+like a “recipe” for dealing with resistance to ideas, not just in this setting,
+but in all kinds of negotiations.
+THE LOGIC OF APPROPRIATENESS
+How do people make decisions? How do they decide whether to say “Yes”
+or “No,” to choose “A” or “B,” or to act rather than do nothing? We are all
+familiar with one way people choose: cost-benefit analysis. The basic idea
+is that people weigh the costs and benefits of all options and pick the one
+that seems to be best overall, perhaps with some adjustment based on risk
+preferences. But is that really how people behave all, or even most, of the
+time? Social scientists James March and Johan Olsen have an alternative
+model for decision making, which they refer to as the logic of appropriateness.6 They suggest that, rather than engaging in a potentially complex
+or time-consuming cost-benefit analysis, people often make decisions by
+asking themselves a simple question: “What does a person like me do in a
+situation like this?”7 Whatever answer comes to mind when this question
+is posed has a significant influence on how people choose to behave.
+If we take the logic of appropriateness seriously, it means that we should
+be mindful of whether people will perceive our offer or preferred option
+as “appropriate,” and also of how we might boost the appropriateness of
+the proposals we make. A large body of work in psychology (and more
+recently, in behavioral economics) looks at the topic of persuasion
+and how choices can be framed to make them more compelling. In my
+work with Dr. Ehdaie, we introduced three of these ideas to boost the
+
+
+Chapter 3: The Logic of Appropriateness
+
+31
+
+appropriateness of AS. I’ve added a fourth here that is not as directly
+relevant to negotiation with patients but is very important across many
+negotiation contexts. These principles, based on my experience, are
+among the most powerful and broadly applicable means of boosting the
+appropriateness—and hence the attractiveness—of an idea or proposal.8
+The logic of appropriateness tells us that many of the
+choices people make are based on how they answer one
+simple question: What does a person like me do in a
+situation like this?
+
+1: LEVERAGE SOCIAL PROOF
+The principle of “social proof,” as articulated by social psychologist
+Robert Cialdini, says that when people are unsure about which way to go,
+or what to choose, they look to the behavior of others, actual or implied.9
+According to the logic of appropriateness, if we think most others are
+actually doing something, it must be appropriate. This is because when
+people look at the world, they think the world is supposed to make sense.
+And so when they see other people choosing a certain course of action,
+they say to themselves, “There must be a reason,” and take it as a signal
+that it is the correct or normal or acceptable behavior. Not surprisingly,
+then, the most direct way to boost the appropriateness of an option is
+to demonstrate or signal that others are also choosing it. Dr. Ehdaie
+describes how, prior to revising his approach, the principle of social proof
+was actually working against him. His earlier efforts to highlight what
+makes MSKCC unique were turning patients off to the idea of AS. He
+changed his language to take the power of social proof into account:
+Before, I would tell patients something like “most men in
+the United States do not choose active surveillance because
+they are worried that cancer would spread or physicians feel
+uncomfortable not recommending surgery or radiation.
+However, at MSKCC, we are committed to maintaining your
+quality of life and treating your cancer; therefore we recommend surgery or radiation only to men who we know will
+
+
+32
+
+PART I: THE POWER OF FRAMING
+
+benefit.” Unfortunately, all they heard was “most men do not
+choose active surveillance,” and they stopped paying attention
+after that. Given the success I have had with my new approach,
+I am now able to articulate a very compelling argument. I
+emphasize that the vast majority of men like them choose
+active surveillance in my clinic and that I follow more than
+300 men per year.10
+
+Leverage social proof to boost the appropriateness of
+your proposal.
+
+The promise and peril of uniqueness
+In business negotiations, the same principle is prevalent. For example,
+most people know that “being innovative” can be a source of attraction
+and leverage. But as the patients’ example shows, in our rush to portray
+our solution as unique, path-breaking, and better than the competition,
+we sometimes inadvertently shoot ourselves in the foot. A salesperson,
+for example, who is trying to convince the customer that she will have
+the advantage of being among the first adopters of a new technology or
+solution may find that the strength of this pitch is eroded (or wiped out
+completely) by the fact that the other side is implicitly hearing “Other
+people like me don’t do this,” and thinking “What do they know that I
+don’t?” or “There must be no urgency to do this.” A salesperson in this
+situation may need to counterbalance the “uniqueness” argument with
+other information that can allay such concerns.
+Framing an option as unique might make it more
+intriguing but less attractive.
+
+2: SET THE DEFAULT OPTION
+Default options are another marker of appropriateness. When something
+is the presumptive or preset choice in a setting, it leads people to conclude “It must be the default for a reason”— that is, it must be what most
+
+
+Chapter 3: The Logic of Appropriateness
+
+33
+
+others do, or it is normal or acceptable. Research has shown that people
+are strongly influenced by default options. Even when they are completely
+free to choose whatever they want, it seems that shifting away from the
+default (i.e., the status quo) is psychologically taxing. Whether people
+are choosing between different strategies or different product offerings,
+you can boost an option’s appropriateness by making it the default. To
+be precise, the principle does not say that the default option is always
+the most attractive option, but that an option’s attractiveness is enhanced
+when it becomes the default. With prostate cancer, for example, when the
+patient enters the room, surgery is often the default option in his mind.
+The conversation will be much easier if you can shift the default to AS at
+the very beginning of the conversation. To allow surgery to persist as the
+default and to later try and muster reasons for moving away from it may
+be an uphill battle. Here is how Dr. Ehdaie describes his implementation
+of this principle:
+When it comes to discussing options, I now introduce
+active surveillance as the default choice and focus on it first.
+Specifically, I reassure patients that they have low-risk prostate
+cancer as compared to other men with high risk disease and
+say, “In men like you with low-risk prostate cancer, we recommend active surveillance, and for other men with higher-risk
+prostate cancer, we recommend surgery or radiation. Today,
+I want to focus on active surveillance, but I can also answer
+questions about surgery or radiation. 11
+
+Present your proposal as the default option to boost its
+appropriateness.
+
+Start with your draft of the agreement or process
+When you are negotiating a contract, who sets the default? Where does
+it reside? Usually, it is in the hands of whichever party drafts the initial
+version of the contract or whichever party’s boilerplate (i.e., standard contract) you are using. There is a clear advantage to being the party who
+presents the initial draft or whose standard contract will be used as the
+
+
+34
+
+PART I: THE POWER OF FRAMING
+
+template for the deal. In my experience, many items that reside in boilerplates—even some important provisions that have a substantive impact
+on the value of the deal—often go unchallenged or, because they are
+included in the standard contract, are not haggled over as aggressively
+as they would be had they only been proposed orally by the other side.
+There is a natural tendency to think, “If it is in their boilerplate, it must
+be there for a reason. Perhaps this is normal. This is probably something
+most people are willing to accept.”
+Relatedly, in the academic literature on negotiation, among the most
+widely studied tactics is what is known as “anchoring,” which typically
+refers to the idea that the first offer from either side will powerfully frame
+the negotiation and shape the other side’s perception about what is possible and acceptable in the deal. As a result, the final outcomes of a negotiation (e.g., the price of an asset) are often correlated with first offers.12
+Default proposals or expectations are also relevant to how a negotiation process should be structured—for example, timetables for completing
+the deal, who will be involved in the negotiation, which side will make
+the opening offer, what will be on the agenda, and so on. In most cases,
+there are preexisting expectations or standards for such choices based on
+precedent. It behooves negotiators to evaluate existing defaults, and to try
+to shift them if necessary. As with other factors that influence framing,
+the longer a default persists, the harder it is to change. If you can shift the
+default before the other party enters the room, all the better. If you cannot,
+move quickly to shift perceptions regarding the default at the outset of
+negotiations. For this reason, Dr. Ehdaie now tries to shift the default from
+“surgery” to “active surveillance” as early as possible in the conversation.
+The party that drafts the initial version of the
+agreement or process gains leverage.
+
+3: SHIFT THE REFERENCE POINT
+Is $10,000 a lot of money? It can be a hard question to answer definitively
+because it depends on what you are comparing it to or contemplating. If
+you are thinking about buying a watch, it is a lot of money and the amount
+
+
+Chapter 3: The Logic of Appropriateness
+
+35
+
+will be very salient; if you’re buying a house or discussing the national
+debt, then it is not particularly attention worthy. The point is that people
+do not react to or evaluate data and options in a vacuum. Someone who
+is evaluating an offer, the suitability of a timetable, or the level of success
+achieved on a performance metric always has some reference point in
+mind. If it is the “wrong” reference point, even the best data or the most
+meritorious argument will be evaluated as weak. Before presenting your
+information, then, it is wise to set an appropriate reference point. As Dr.
+Ehdaie explains:
+In the past, when I would explain that active surveillance
+entails six-month follow-ups, the patients and their families
+would immediately get alarmed that this did not seem like
+“close” monitoring and that the cancer might spread in the six
+months between appointments. The discussion would shift to
+a very defensive posture, where I would be arguing that maybe
+it could spread in six months but this was very, very improbable. Now, before I discuss the follow-plan at the end of the discussion, I say, “PSA screening has enabled us to detect prostate
+cancer four to six years before it would have been diagnosed
+clinically. Furthermore, in men with prostate cancer who were
+never treated, changes in their prostate cancer, or progression,
+occurred usually after 10 years. Therefore, it would even be
+safe to see you again in five years; however, we will be aggressive about how closely we monitor you and plan to see you
+back every six months.” Previously, six months seemed like
+an eternity to patients. With the proper frame of reference,
+which is derived from the natural history of prostate cancer
+progression, six months now is understood to be a short time
+between follow-ups.13
+
+Whether you are negotiating a business deal, in armed conflict, or in
+the doctor’s office, the reference point that is in the mind of the recipient can determine whether your proposal will be perceived as balanced
+or one-sided, generous or unfair, comforting or anxiety-provoking. It is
+important for negotiators to ensure that the other party is evaluating the
+substance of what is being offered within an appropriate context. There is
+always a context in which the proposal will be evaluated—there is always
+
+
+36
+
+PART I: THE POWER OF FRAMING
+
+a reference point. As with defaults, it is worth asking whether a preexisting
+reference point is appropriate or useful, or whether it needs to be reset.
+Establish a proper reference point. Even generous
+proposals can be evaluated negatively if the other side’s
+reference point is not set appropriately.
+
+4: DON’T APOLOGIZE FOR YOUR OFFER
+It does a doctor little good if she gives the best advice possible, but then
+undermines it by seeming apologetic for having proposed something the
+patient does not like. The same is true in negotiations of all types. For
+example, I’ve worked with a number of companies that have innovative
+products and services, and in many cases, this puts their price point as
+much as ten times higher than that of their competitors. Inevitably, when
+the salesperson first mentions a high price, the customer’s reaction is
+some mix of surprise, disappointment, and annoyance. “No one pays that
+much for this type of thing.” At this point, the worst mistake a salesperson
+can make is to appear apologetic for the high price point. Yet salespeople
+do this often, perhaps because they are unprepared for the pushback and
+are put on the defensive, or perhaps because they are trying to appear
+sympathetic. There are many words and deeds that convey an apology:
+responding with, “I know it’s a high price, but . . .”; too quickly expressing a willingness to negotiate price if necessary; getting derailed from the
+initial pitch surrounding the value proposition; getting into a discussion
+about what others are charging; or simply losing confidence in tone. So
+what should a salesperson do instead?
+In sales and in negotiations of all sorts, if you’ve crafted your proposal
+carefully and think it is appropriate, don’t apologize for it. The moment
+you seem apologetic, you give the other side the license to start haggling.
+This does not mean you should be unwilling to negotiate price. Nor does
+it mean you shouldn’t explain your price. But when you apologize for
+your offer, you are creating a frame that says your proposal is inappropriate and that even you do not think it is a reasonable starting point. If you
+are bringing more to the table than competing offers, you want to shift
+
+
+Chapter 3: The Logic of Appropriateness
+
+37
+
+the frame to a discussion of value. For example, if the customer complains
+about the price being too high, the salesperson might say, “I think what
+you’re wondering is, how is it that despite having this price we have so
+many people lining up to buy our product? What kind of value are we
+delivering that allows us to win so many deals over our competitors? I’m
+happy to have that conversation. At the end of the day, we both know that
+nobody will ever pay more than something is worth. So let’s discuss the
+value proposition . . .”
+Always justify your offer, but don’t apologize for it.
+As a final point regarding the tools for boosting appropriateness, it
+is worth considering the ethics of framing. Dr. Ehdaie’s objectives were
+clearly benevolent. In other contexts, however, we must consider when
+framing is appropriate and when it might be unscrupulous. Any time you
+are helping to shape the choice someone else makes, it is essential to evaluate not only your own intentions but also all of the consequences that will
+follow. In the examples so far, we have tried to focus on negotiators who
+have used framing tactics to help all of the parties overcome deadlock and
+achieve value-creating outcomes.
+This does not mean that these principles cannot be applied in nefarious ways—either due to ill intentions or because of the failure to consider how others will be affected. (We will consider such a situation later
+in this section.) The good news is that it is not so easy to persuade people
+to choose a course of action that is bad for them simply via framing. In the
+vast majority of cases, and as evidenced throughout the examples we have
+considered, framing works best when the party you are targeting is willing, and perhaps even hoping, to move in the direction you are steering
+them—if only you can make it easy for them.
+On the other hand, it is not always the case that the other side is willing to accommodate your substantive demands as long as you can accommodate them on style and structure. In some cases, unfortunately, both
+sides have strongly held views or severe constraints, and neither side can
+afford to accept the other’s position. How might the power of framing
+help then? We consider this in the next chapter.
+
+
+4
+
+STRATEGIC AMBIGUITY
+US–India Civil Nuclear Agreement
+
+I
+
+n 1968, the “tre at y on the Non-Proliferation of Nuclear
+Weapons,” more commonly known as the Non-Proliferation Treaty
+(NPT), was negotiated into existence. The NPT was designed to restrict
+the number of countries that would have access to nuclear weapons to
+the five countries that had them at the time: the United States, the United
+Kingdom, the Soviet Union, France, and China. Not coincidentally, these
+were also the five permanent members of the United Nations Security
+Council. The long-term vision of the NPT was that signatories would
+commit (a) not to engage in proliferation activities, (b) to eventual
+disarmament among those who currently had nuclear weapons, (c) to
+supporting the peaceful use of nuclear technology for all signatories, and
+(d) to submit to inspections and safeguards by the International Atomic
+Energy Agency (IAEA) to ensure safety and compliance.
+By the turn of the century, 190 countries had signed the NPT, with
+the only holdouts at the time being North Korea, Israel, Pakistan, and
+India.1 Those who refused to sign argued, as did many signatories, that
+given insufficient commitment to disarmament by the nuclear haves, the
+treaty was simply suppressing the sovereign and strategic rights of nuclear
+have-nots. In the years since the NPT went into effect, each of these four
+nonsignatories had, with varying degrees of success, developed its own
+nuclear weapons.
+In July 2005, the United States and India set in motion what would
+become a three-year marathon of interrelated negotiations aimed at completing a “civilian nuclear agreement” between the two countries.2 The
+premise was relatively straightforward: India would agree to separate its
+military and civilian nuclear facilities and place the latter under IAEA
+38
+
+
+Chapter 4: Strategic Ambiguity
+
+39
+
+safeguards in exchange for full civil (i.e., nonmilitary) nuclear cooperation (e.g., commerce) by the United States and the then-45-nation
+Nuclear Suppliers Group (NSG). India’s status as a nonsignatory to the
+NPT, however, made the negotiations difficult—some would have said
+inconceivable. To allow India to engage in civil nuclear commerce would,
+in the view of many, undermine American commitment to the NPT. If
+nonsignatories would be treated as well as signatories, what incentive
+would there be for anyone to sign? In contrast, the Bush administration
+and others among the NSG believed that despite being a nonsignatory
+of the NPT, and despite having developed its own weapons, India had
+not engaged in proliferation activities. Allowing it to participate in civilian nuclear commerce in exchange for some degree of IAEA inspections
+and safeguards would only promote continued responsible behavior and
+greater safety.
+Reaching such an agreement was meant to be difficult. Negotiations
+would need to be coordinated and sequenced at many levels, across the
+globe. First, the United States would have to pass domestic legislation
+allowing it to engage with a nonsignatory of the NPT (accomplished
+via the Hyde Act in 2006). Then, the United States and India would
+have to negotiate a bilateral agreement (referred to as a 123 Agreement).
+Meanwhile, the IAEA would have to approve an agreement with India to
+place Indian civil nuclear facilities under IAEA safeguards, and the NSG
+would have to grant India an unprecedented waiver to allow it to have
+access to nuclear technology and fuel. Finally, the agreement between US
+and Indian diplomats would have to be approved by the US Congress and
+supported by India’s Parliament.
+One of the more vexing problems that arose during these negotiations
+pertained to the consequences that would follow if India tested another
+nuclear weapon. In 1998, India had, to broad international condemnation, conducted five nuclear tests, resulting not only in sanctions by the
+United States and others, but also in retaliatory nuclear tests (for the first
+time) by Pakistan, a mere two weeks later. A year later, in 1999, due to
+Pakistani military incursions through the “Line of Control” separating
+India and Pakistan in Kashmir, the two had waged history’s first and only
+conventional war between known nuclear powers. With this terrifying
+
+
+40
+
+PART I: THE POWER OF FRAMING
+
+backdrop in place, it is no surprise that support for the civil nuclear agreement among US lawmakers and many NSG nations was contingent upon
+guarantees that India would not test another nuclear weapon.3
+Meanwhile, support in India was contingent upon exactly the opposite.
+There seemed no possibility that India’s Parliament would approve a deal
+if the agreement limited their perceived sovereign right to test nuclear
+weapons if and when they felt it was necessary. Indeed, this was the very
+reason India had not signed the NPT in the first place: a civil nuclear
+agreement that imposed NPT-type restrictions was entirely unacceptable. India had announced a voluntary moratorium on testing but was
+unwilling to make the moratorium binding.
+How do you negotiate an agreement when the exact same issue is a
+deal breaker for both sides? How can you reconcile the interests of both
+parties when the minimum requirements of one (based on the logic of
+international security) are entirely unacceptable to the other (based on the
+logic of national sovereignty)?
+
+WITHOUT MONEY OR MUSCLE
+In 2007, the United States and India negotiated their bilateral agreement;
+in 2008, the government of Prime Minister Singh survived a no-confidence
+vote in the Indian Parliament, the IAEA approved the safeguard agreement,
+and the 45-nation NSG granted its waiver. Later that same year, the US
+Congress approved the deal, and the two countries officially signed it on
+October 10, 2008.
+How did this happen? Which side subordinated its demands and
+accepted the other side’s logic? Who made the courageous concession?
+It turns out no one did.
+So did the 123 Agreement signed by the United States and India
+restrict nuclear tests? Did it stipulate the termination of nuclear commerce if India detonated a nuclear device? No one could say for sure.
+On October 1, 2008, US Secretary of State Condoleezza Rice gave
+testimony to the Senate in which she declared, “Let me reassure you that
+an Indian test, as I have testified publicly, would result in most serious
+
+
+Chapter 4: Strategic Ambiguity
+
+41
+
+consequences. Existing US law would require automatic cutoff of cooperation, as well as a number of other sanctions, if India were to test.”4
+On the other side, on October 3, 2008, Indian External Affairs Minister
+Pranab Mukherjee, when asked whether India had sacrificed the right to
+test, clarified that “we would not like to convert this voluntary moratorium into a treaty-bound obligation. That position has been maintained.”5
+What is going on? What does the agreement actually say? If anyone
+ought to know, it would be Secretary Rice and Minister Mukherjee, the
+two people who signed the final agreement on October 10, 2008. The fact
+is that the 123 Agreement, and the network of agreements on which the
+US–India deal is structured, are deliberately vague. But the lack of precision is by design: this is the art of strategic ambiguity.
+STRATEGIC AMBIGUITY
+Strategic ambiguity is a risky tactic that can pay dividends when used at
+the appropriate time in the appropriate way. It is risky because it creates
+an agreement that can be interpreted differently by different parties—we
+will revisit this problem shortly. But multiple interpretations can also
+be valuable. This is because sometimes the problem isn’t that the two
+sides cannot live with each other’s demands, but that writing down or
+announcing explicitly what you’re willing to live with is too problematic.
+In this case, negotiators in the United States and India understood that
+any agreement, no matter what language was used to write it down, would
+involve both sides knowing that if India tested another weapon, which of
+course it could technically do, the United States would be forced to terminate the agreement due to domestic and international pressure. It really
+did not matter what was or was not in the signed agreement. The practical reality was that there was no way to stop India from testing a nuclear
+weapon if it wished, and there was no way to stop the United States from
+pulling out of the agreement if India tested. Knowing this would be the
+American reaction was the best incentive for India not to test a weapon
+in the first place. In other words, incentives were aligned and everyone
+in the room agreed on everything—there was no misunderstanding. Yet,
+putting the deal in writing would be problematic. For weeks negotiators
+
+
+42
+
+PART I: THE POWER OF FRAMING
+
+labored over how to draft language that would be acceptable to each
+side given its constraints. Any language akin to “if India tests a nuclear
+weapon . . .” was a nonstarter in India; the absence of such language was
+unacceptable in the United States. The eventual solution was an approach
+that runs contrary to the instincts of most lawyers: the agreement had
+to be sufficiently imprecise, allowing each side to interpret the agreement
+and present it to its constituency in the most favorable way.
+When neither side is willing to openly subordinate
+its demands on key issues or principles, strategic
+ambiguity—language that is deliberately open to
+multiple interpretations—can help the parties reach
+an agreement.
+
+AMBIGUITY IS DANGEROUS IF THERE ARE
+NO INCENTIVES FOR APPROPRIATE BEHAVIOR
+To appreciate the role of strategic ambiguity in the negotiator’s tool kit—
+and to help draw some clear boundaries on when it is advisable—we need
+to first distinguish between different kinds of strategic relationships. There
+are those in which one or both parties have the incentive and ability to
+exploit the other—and will do so—unless a contract or treaty makes this
+impossible or extremely costly. In such a case, it is wise to have an agreement
+that clearly delineates the rights and responsibilities of each side and clarifies what behaviors are proscribed. Strategic ambiguity should be avoided
+in these instances. In contrast, there are relationships in which mutual
+interests are aligned enough so that the relationship is self-sustaining
+regardless of what you write down. Here, you have the flexibility to keep the
+contract incomplete or ambiguous if doing so helps you solve other problems (e.g., optics). In other words, strategic ambiguity should be limited
+to situations where other mechanisms are in place to enforce appropriate
+behavior from each party. India’s External Minister Pranab Mukherjee
+made it quite clear that the nuclear negotiations fit this criterion—that is,
+that the deal was inherently self-enforcing based on each side’s rights and
+interests—when he said, days before the signing of the agreement: “We
+
+
+Chapter 4: Strategic Ambiguity
+
+43
+
+have the right to test; others have a right to react.”6 This is not the kind
+of language that could go into the agreement but was perhaps suitable for
+a domestic audience. More generally, when the shadow of the audience
+looms large, people are sometimes willing to accept certain de facto limitations being imposed on them in a strategic relationship, but are unwilling
+to acknowledge or substantiate these in writing.
+Strategic ambiguity should be used only when other
+mechanisms are in place to ensure compliance with
+appropriate behavior.
+
+THE ROLE OF STRATEGIC AMBIGUITY IN EARLY RELATIONSHIPS
+Strategic ambiguity can also be useful, ironically, when there is too little
+trust at the outset for the parties to reach a comprehensive agreement.
+Instead, parties may reach an initial deal that is incomplete or ambiguous, but which helps them stay engaged until trust is built. For example,
+in cross-cultural deal making, if a party fears that tying their hands with
+a long-term relationship is too risky, given the lack of a partner’s prior
+track record, they will avoid signing a deal that is too committal. But
+being explicitly noncommittal may also muddy the waters. For instance,
+consider a situation in which Company X is sourcing from a new manufacturer, Company Y, but is unwilling to commit to a multiyear contract
+or make any other commitments to offset Company Y’s investment in
+the deal. Company Y can live with the reality that, at the end of the day,
+if Y does not deliver a great product, X will look elsewhere. And yet, an
+agreement that is explicitly noncommittal, with numerous provisions
+that delineate all of the ways in which X is not responsible for the fate of Y,
+could send a very negative signal or force the parties to confront and get
+caught up haggling on issues that cannot be easily resolved. Introducing
+some degree of ambiguity regarding the nature of the relationship and
+the strength and length of commitment can provide both parties with the
+flexibility and freedom they need to overcome initial hesitations and pursue early-stage collaboration with the comfort of “no strings attached.”
+Even when both sides will benefit from behaving appropriately, some
+
+
+44
+
+PART I: THE POWER OF FRAMING
+
+arrangements remain easy to understand and agree to in principle, but
+are difficult to write down with precision, especially at the outset of what
+might be a long-term, evolving relationship.
+Strategic ambiguity can help parties initiate relationships when there is insufficient trust for full commitment,
+but where being explicitly noncommittal is unacceptable.
+It is worth highlighting that in each of the situations we’ve considered,
+strategic ambiguity is not meant to substitute for a genuine and durable
+understanding between the two sides. If there are deep divisions on key
+issues of substance, strategic ambiguity not only will fail to help but may
+make matters worse. This is the topic we now visit in more detail, as we
+consider the potential misuse of framing to resolve conflict.
+
+
+5
+
+THE LIMITS OF FRAMING
+Charting a Path to War in Iraq
+
+I
+
+n 2 0 0 2 , t he u s government, under President George W. Bush,
+was pushing for a United Nations Security Council Resolution that
+would put the Iraqi government, under Saddam Hussein, in material
+breach of previous resolutions pertaining to, among other issues, Iraq’s
+weapons of mass destruction (WMD) program. All parties agreed
+that weapons inspectors would go to Iraq to assess whether Iraq was now
+complying with UN demands. A strong disagreement surfaced when it
+came to next steps. The United States, along with the United Kingdom
+and others, demanded that a United Nations “authorization of force”
+against Iraq be automatically triggered in the event that Iraq failed to
+quickly satisfy inspectors. France, along with Germany, Russia, and
+others (including the inspectors themselves), wanted to give the inspectors more time and—crucially—did not want an automatic trigger for
+the use of force.1 Instead, they demanded that the parties agree to meet
+again if the authorization of force seemed necessary. From the French
+coalition perspective, an automatic trigger almost guaranteed war even
+if there were no WMD program in place. The thinking was: How was
+Iraq to “immediately, unconditionally, and actively” prove the nonexistence of something that others believed the Iraqis were good at hiding
+and likely to lie about?
+At the heart of the negotiation, then, was disagreement over a substantive issue (the trigger) that necessitated some type of compromise.
+More importantly, there was a deeper underlying dispute regarding the
+conditions under which the use of force would be appropriate.
+
+45
+
+
+46
+
+PART I: THE POWER OF FRAMING
+
+A CAUTIONARY TALE
+Rather than resolving this core dispute, the parties opted for a strategically ambiguous solution: UN Security Council Resolution 1441 did not
+contain any automatic triggers per se, but its language would allow the
+United States and its coalition partners to later interpret it as being sufficient to authorize the use of force.2 For example, while making it clear that
+further deliberation would precede military action, it also stated that Iraq
+was being given “a final opportunity to comply with its disarmament obligations.” Moreover, as the US Ambassador to the UN, John Negroponte,
+pointed out soon after Resolution 1441 was adopted, the trigger was not
+the only thing the resolution did not contain:
+If the Security Council fails to act decisively in the event of
+further Iraqi violations, this resolution does not constrain any
+Member State from acting to defend itself against the threat
+posed by Iraq or to enforce relevant United Nations resolutions and protect world peace and security.3
+
+As long as both coalitions were on the same page regarding their
+assessments of Iraq’s compliance with this resolution, there would be
+no problem: both sides could look forward to a second vote to authorize force if and when needed. Unfortunately, it was not long before
+the two coalitions disagreed about the extent of Iraq’s compliance, and
+whether and how soon the use-of-force vote should be taken. Given the
+unresolved underlying dispute on this core issue, it became clear that the
+French and the Russians were not in favor of quickly resorting to force
+and would veto any such authorization. Meanwhile, for the Bush administration in the United States, which continued to favor the use of force, a
+failed authorization vote would be worse than no vote at all.
+And so it transpired that, without a second vote on the use of force,
+against the strenuous objections of the French-led coalition, and even in
+the absence of any trigger for the use of force in the resolution, the US-led
+coalition went to war against Iraq on March 20, 2003. And both sides—
+the French and the United States—argued that they were acting in accordance with Resolution 1441. The failure of this approach to deal making
+can be seen not only in terms of the failure to prevent war, but because
+
+
+Chapter 5: The Limits of Framing
+
+47
+
+it led to even greater divisions and mistrust in the UN Security Council
+and beyond. Even if war was inevitable (for example, if the United States
+was committed to this course of action), the use of strategic ambiguity to
+gloss over deep divisions did not help and actually made matters worse.
+AMBIGUITY IS NOT A REMEDY FOR SUBSTANTIVE CONFLICT
+Ideally, ambiguity should be employed only if it helps to reach a deal that
+all sides understand and accept substantively, but which they are having
+difficulty writing down explicitly, due to the burden that is sometimes
+imposed by excessive precision. Unfortunately, even when there is no
+underlying agreement on substance, parties sometimes opt for strategic
+ambiguity simply because it is a convenient way to overcome a deadlock,
+or because it allows them to reach “some sort of agreement” rather than
+no deal. This is problematic because it only postpones the substantive
+conflict by sweeping it under the rug while creating a false belief that a
+worthwhile deal has been reached. When the conflict reemerges, it can
+be even worse because of dashed expectations, perceptions of breach, and
+the costly accumulation of psychological, political, or economic investments that parties have since made on the basis of their alleged agreement.
+Ambiguity should not be used as a substitute for
+genuine agreement on substance.
+
+A TRADE-OFF BETWEEN CURRENT AND FUTURE CONFLICTS
+Strategic ambiguity involves a trade-off between minimizing current conflict and minimizing future conflict. If you are trying to reduce the likelihood of a dispute arising in the future, strategic ambiguity is not a good
+idea. The agreement should be as explicit and unambiguous as possible to
+avoid multiple interpretations of the deal as you go forward. If, however,
+you are more concerned about how to resolve current deadlock so that
+it does not obstruct deal making at the outset of the relationship, then
+one solution is to use strategic ambiguity. From this perspective, strategic
+ambiguity entails a bet—we accept a greater risk of future problems in
+
+
+48
+
+PART I: THE POWER OF FRAMING
+
+exchange for making things easier for ourselves now. As we have seen,
+deciding whether to take the bet requires careful consideration of the
+costs and benefits, but a good rule is to lean away from strategic ambiguity when there are deep divisions on substantive issues that are unlikely to
+go away (or are likely to get worse) with the passage of time.
+Ambiguity involves a trade-off between solving current
+conflicts and minimizing future conflicts.
+
+BEWARE THE TEMPTATION TO SHAKE HANDS
+WHEN THERE IS NO AGREEMENT
+As the Resolution 1441 negotiation demonstrates, parties often embrace
+strategic ambiguity with insufficient regard for the impact it can have on
+future conflict. This may be due to strategic myopia—that is, insufficient
+consideration of downstream consequences—but it can also result from
+incentive systems. If negotiators are rewarded for reaching a deal or punished for failing to do so, they will find a way to reach an agreement, however flawed. These incentives may be explicit, as they are in the business
+world, or implicit, as they might be in politics. When it is easier for the
+audience (e.g., voters, top management, media) to judge whether a deal
+was reached, and much harder to evaluate its long-term consequences,
+negotiators are likely to favor strategies that defuse current conflicts, even
+if doing so increases the likelihood or the magnitude of future conflicts.
+If closing deals is rewarded, negotiators might conceal
+substantive disagreements to push through flawed deals.
+
+AMBIGUOUS AGREEMENTS MAY BE PARASITIC
+In fairness, there is another—more cynical—way to assess what transpired between the United States and France in 2003. Consider what
+would have happened if instead of a strategically ambiguous 1441, the
+United States and the French had just agreed to reach no deal. In all likelihood, this would have meant that the United States would act without
+
+
+Chapter 5: The Limits of Framing
+
+49
+
+UN authorization—that is, go to war against Iraq with a handful of coalition partners, which is what it did anyway. So why bother reaching a deal
+at all? The reason for the deal may have been that both sides preferred
+an ambiguous agreement that they knew would likely cause future conflict
+over reaching no deal: the United States wanted to be able to claim UN
+authorization even though few countries were ever going to join in the
+attack, and the French wanted to avoid establishing precedents where
+the Security Council is completely sidelined when UN members want
+to go to war.
+The cynical perspective suggests that, in fact, strategic ambiguity did
+serve the interests of both sides in this case and there was no deep disagreement on substance—that is, the French and the United States knew
+all along that the United States would act without broad UN support, but
+both wanted to feed the illusion that the UN had not been abandoned.
+This would give the United States some degree of legitimacy for its
+actions, and give the French some degree of legitimacy for the UN.
+If this view is accurate, then the failure here is not the inappropriate
+use of strategic ambiguity from the point of view of the parties who were
+present in the negotiation—each of them succeeded in achieving its
+goals. The failure is at a system level, suggesting that sometimes, when
+negotiators at the bargaining table find a way for each side to declare victory, it is not in the service of the greater good, but rather to achieve their
+own narrow goals, perhaps at significant cost to other stakeholders. We
+refer to such behavior—that is, action designed to benefit everyone in the
+room at the expense of parties who are not at the table—as parasitic value
+creation.4 The value captured by those at the bargaining table is “parasitic”
+in that it does not result from synergies or mutual benefit created through
+cooperation and trade; it comes out of the pockets of others.
+Unfortunately, strategic ambiguity as a tool to “make everyone happy”
+can be effective in the hands of people who are actually creating no value
+in aggregate, but who will personally benefit from getting a deal done. The
+lesson, then, is especially important for stakeholders who may be at the
+receiving end of future negative consequences: beware of ambiguity or
+incompleteness in agreements that are sold to you. If substantive disputes
+will persist, or if costs will be incurred by other stakeholders—which you
+
+
+50
+
+PART I: THE POWER OF FRAMING
+
+may need to work hard to discover if you were not privy to the discussions—you may want to demand greater clarity or precision in the deal,
+or a more robust explanation for why it should be done.
+Ambiguous or incomplete agreements might be
+parasitic, meeting at-the-table interests at the expense
+of other stakeholders.
+Having reflected on potential problems with using strategic ambiguity
+and, more generally, the considerations that should accompany any use of
+framing to resolve conflicts, it is important to note that in most cases, the
+use of framing helps overcome deadlocks without imposing the types of
+negative consequences seen in this chapter. It is also worth remembering
+that negotiation frames will always exist, regardless of whether someone
+has tried to influence them. There is inevitably some default lens through
+which proposals and options are being evaluated. The question is whether
+and how a negotiator might reframe a situation to achieve better or fairer
+outcomes for all parties—those who are at the table as well as others who
+are affected by the negotiation.
+We have discussed at great length how a proposal or outcome can be
+framed. Let’s end this section by zooming out and discussing the frame
+of the relationship itself. How parties perceive each other can have broad,
+powerful, and long-lasting effects on negotiations. If you are mindful of
+this, you will act early to create the right frame for the future relationship.
+
+
+6
+
+FIRST-MOVER ADVANTAGE
+The Unbroken Peace Treaty
+
+C
+
+an you name this country? The longest standing treaty in United
+States history is with this country. The first building on foreign soil
+ever acquired by the United States is located there—and that building is
+also the only place outside of the United States to have ever been designated a National Historic Landmark.1 This country has been a prominent
+supporter of the United States in its “war” against terrorism, but military
+cooperation between the two is not a recent development—soldiers
+from this country fought alongside American forces in World War I,
+and it emphatically sided with the United States in its fight against the
+Confederate states during the American Civil War. Likewise, the United
+States has long championed this country’s aspirations for noninterference
+by foreign powers. It is also one of the 20 countries around the world with
+which the United States of America has a Free Trade Agreement. Which
+country is it?
+Some more hints: It is in Africa. Approximately 99% of the population
+is Arab or Berber, and 99% is Muslim. It is one of only two countries on
+the continent that has been designated a “major non-NATO ally” of the
+United States, affording it special military and financial cooperation. Any
+other guesses?
+Final hint: One of the greatest American films—with perhaps the
+most highly acclaimed screenplay—is set in the largest city of this country. Who is this special friend to America?
+Historians and movie buffs who have seen Casablanca might have
+an advantage in identifying the African nation as being the Kingdom of
+Morocco. The real question, however, is what accounts for this long-lasting
+relationship?
+51
+
+
+52
+
+PART I: THE POWER OF FRAMING
+
+WITHOUT MONEY OR MUSCLE
+In 1786, Thomas Jefferson and John Adams signed the “Moroccan–
+American Treaty of Friendship” that had been negotiated between the
+American representative, Thomas Barclay, and Mohammed III, Sultan of
+Morocco.2 The treaty, written in Arabic and then translated into English,
+had 25 articles, mostly pertaining to naval and commercial matters. The
+final article set the length of the treaty obligations: “This Treaty shall continue in full Force, with the help of God for Fifty Years.” Almost 230 years
+later, it is still in effect. The treaty’s preamble had been much more optimistic—and ultimately more accurate—when it stated that the agreement
+was made (according to the Islamic calendar) “on the twenty-fifth day of
+the blessed Month of Shaban, in the Year One thousand two hundred,
+trusting in God it will remain permanent.”
+But the signing of the Treaty of Friendship merely formalized a relationship that had already existed between the two countries for almost
+a decade. The first, and most consequential, step towards friendship was
+planted in 1777, when Morocco became the first sovereign country to recognize the independence of the fledgling United States of America. In
+December of that year, seeing the value of enhanced commercial relationships with America, the sultan announced that the ports of his country
+would be open to the United States. While it took a few years for the US
+government to respond to this offer—they had more pressing concerns
+during the war with England— it planted the seed that would grow into a
+friendship and a commercial relationship for centuries.
+FIRST-MOVER ADVANTAGE
+As we have seen previously, there is a powerful first-mover advantage when
+it comes to framing. The sooner a frame takes hold, the more likely it is to
+stick and to shape subsequent negotiations. We saw this when discussing
+default options: it pays to start with your initial template for the negotiations, or with your draft of the agreement. In the case of the longstanding relationship between the United States and Morocco, the friendship
+frame was set early on, when there was no prior, dominant frame to
+contest it. In business contexts, multiple frames are usually established
+
+
+Chapter 6: First-Mover Advantage
+
+53
+
+very early in the deal-making process. These include, for example, who is
+perceived as strong or weak, whether it makes sense to be transparent or
+to be guarded, and which reference points or precedents are appropriate
+when evaluating offers, valuations, and so on. Effective negotiators are
+mindful of the influence such frames will have as the negotiation unfolds
+and seek to establish the preferred frame as early as possible.
+There is a powerful first-mover advantage in framing.
+Whenever possible, seek to control the frame of the
+negotiation at the start.
+
+REFRAME AS EARLY AS POSSIBLE
+Because you do not always get to set the initial frame, you might need to
+act quickly to assess and change the frame as needed. Not so long ago, a
+very successful interventional cardiologist I know was negotiating a contract renewal with his hospital. He knew the hospital CEO understood
+the tremendous value he brought to the hospital and assumed this would
+be a smooth process. To his surprise, the CEO of the hospital began the
+negotiations with an aggressive opening offer that would lower his salary
+by 20%. The CEO justified this using data and extensive documentation
+that showed the hospital was losing money and that the doctor, too, was
+operating at a loss. Conveniently, the CEO had included all manner of
+hospital fixed costs in the calculations to make the case and had ignored
+various other ways in which the doctor was contributing to the bottom
+line and to other goals of the hospital system. Each time they met to discuss the situation, the conversation would get bogged down in intractable
+arguments over what constituted fairness and the legitimacy of specific
+line items in the CEO’s profit/loss analyses.
+It became clear to the doctor that the only way to dislodge the dominant “We are losing money so it is only fair that you should be paid
+less” framing would be to introduce an entirely different template as the
+basis for discussion. Before the next meeting, the doctor asked the CEO
+whether, given fairness was the concern, he would be open to an objective, third-party analysis of the fair market value of his contribution to the
+
+
+54
+
+PART I: THE POWER OF FRAMING
+
+hospital. Many hospitals use comparative analyses in a region to decide
+on physician salaries, and there are firms that provide such services. The
+CEO agreed to this approach. When the data came in, it revealed, as the
+doctor had expected, that he was currently underpaid given the revenue
+he was generating for the hospital. Not only did this shift the conversation towards the appropriate increase in salary; also it gave the CEO the
+justification he would need to approve a salary increase for the doctor.
+If the existing frame is disadvantageous, seek to reframe
+as soon as possible.
+
+DISPUTES ARE EASIER TO PREEMPT THAN TO RESOLVE
+One element that sets the Morocco example apart from earlier cases
+we have examined is that the initiatives by the sultan were not aimed at
+resolving an existing deadlock or dispute with the United States; rather,
+he was engineering a path that might preempt future conflicts. Just as
+early framing is more powerful than late framing, it is much easier to preempt a deadlock than it is to resolve one. This principle holds not only
+when it comes to managing grand strategic initiatives, but also in dealing
+with more parochial tactical issues.
+Here is an amusing example that makes the point. At the Third
+UN Conference on the Law of the Sea (1973–1982), Tommy Koh,
+Singapore’s permanent representative to the United Nations, chaired one
+of the key committees related to the contentious issue of deep seabed
+mining. With delegates from over 150 nations at the table, Ambassador
+Koh needed to find some way to reconcile the divergent interests and
+perspectives of everyone in the room. Discussing every issue with such
+a large group would have been impossible, so Koh needed some way to
+shrink the group to a more manageable number. This would not be easy
+to do if everyone felt that they had a right and reason to be there. Tommy
+Koh reflected on this issue, years later:
+In the case of the negotiation on the financial terms of mining
+contracts, we began in a room of 150 countries, and it was
+necessary to have meetings with 150 countries because you
+
+
+Chapter 6: First-Mover Advantage
+
+55
+
+are indulging in public education . . . on what are the issues,
+what are the parameters, what are the various scenarios, [and
+to] explain to them all of the technical terms. . . . Once that’s
+accomplished, you have to make a transition from this huge
+plenary group to a smaller forum. . . . 3
+
+But how do you exclude anyone, even when it is for the good of the
+whole group? Here’s what Koh did:
+So I invented a new group called the “Group of Financial
+Experts,” and I picked a meeting room that could accommodate maximum 40 people. It was open-ended—nobody’s
+name. Anybody could come. But just by calling it the Group of
+Financial Experts was sort of intimidating. So a lot of my colleagues felt that they didn’t qualify to join this group. I didn’t
+try to dissuade them [by telling them] that they did. And so
+most people did not come. . . . And it gave us—in a smaller
+forum—[the ability] to advance the collective knowledge
+about the problem.
+
+As we see in Koh’s approach, effective negotiators try to foresee deadlock and create conditions that will allow people to walk away from direct
+confrontation without feeling that they are losing or conceding anything
+of importance. It would have been much harder to ask people to leave
+the room than it was to create a frame that dissuaded them from entering
+in the first place. It is a reminder to not wait for conflict to erupt before
+we start thinking about framing, optics, audience problems, and strategic
+ambiguity. If the parties are on a collision course, it is better to help them
+steer away from each other rather than to pick up the pieces afterwards.
+A colleague and I recently discussed the following situation: a person
+was to be selected to oversee a peace process between warring factions
+within an ethnic group. We knew that the leader of one particular faction
+would feel strongly that he should be chosen because, from his point of
+view, he was the legitimate leader of the ethnic group and deserved to
+hold this esteemed position. The problem was that not all of the warring
+factions agreed, and this discrepancy was one of the key reasons for much
+of the infighting. This leader was too powerful to rebuff and too controversial to include.
+
+
+56
+
+PART I: THE POWER OF FRAMING
+
+From our point of view, we needed someone who could be trusted by
+all of the parties. My suggestion was for us to reframe and redefine the
+role of overseer so that it no longer represented prestige or status—and
+to do so before discussing the role in any detail with the parties. If the
+role were conceptualized as more bureaucratic and low-level, the leader
+would be less likely to fight for it.
+Disputes are easier to preempt than to resolve. Decisions
+can sometimes be framed in ways that help people avoid
+confrontation in the first place.
+
+HIGH-LEVERAGE MOMENTS FOR FRAMING
+Both the Morocco example and the Law of the Sea scenario serve to
+highlight another commonly overlooked factor in negotiations: along
+with the big issues and decisions that parties must often confront, there
+are many less visible, less urgent, and seemingly simpler decisions that
+can sometimes have a large effect on the outcome of the deal. In Koh’s
+case, given the enormity of the overall negotiation, the decision to move
+from a plenary group to a working group was not a particularly noteworthy moment. In the sultan’s case, there was no urgency in reaching out to
+the United States, or in moving quickly to establish peaceable relations.
+In both cases, however, potential conflict was preempted by small, early
+actions that took place before there was a need to act.
+This is not to suggest that one needs to worry about every small decision in a negotiation, but there are some small but consequential choices
+in most negotiations that deal makers should take seriously. I think of
+these as high-leverage moments in a negotiation—for relatively little effort,
+they allow you to significantly impact the frame and, as a result, the likelihood of success. These high-leverage moments tend to emerge in the
+early stage of the negotiation or relationship when the frame is still up for
+grabs and every decision has the potential to be imbued with heightened
+significance. This is powerfully demonstrated in an incident that dates
+back to the start of US–Morocco relations.4 When Thomas Barclay was
+negotiating the treaty with the Moroccans, the sultan raised the issue of
+
+
+Chapter 6: First-Mover Advantage
+
+57
+
+a tribute—a gift—which he said he ought to receive to secure the deal
+between the two countries. Barclay responded that the only “tribute” he
+could offer was a friendship with the United States on equal terms. If that
+was unacceptable to the sultan, Barclay said, he would have to go back to
+the United States without a treaty. In that small moment of high leverage,
+the sultan conceded and agreed to a relationship based on equality. That
+was a pretty smart move with a country that would go on to become the
+world’s greatest superpower.
+Early actions can take on heightened significance. Look
+for low-cost opportunities to powerfully influence the
+frame and to establish the appropriate expectations
+and precedents for the relationship.
+
+SUMMARY OF LESSONS FROM PART I: THE POWER OF FRAMING
+• Control the frame of the negotiation.
+• Make it easier for the other side to back down from strong positions.
+• Wise concessions on style and structure can help avoid costly
+concessions on substance.
+• Pay attention to the optics: how will the deal look to the other side’s
+audience?
+• Help the other side sell the deal to their audience.
+• Make it safe for the other side to ask for help on optics.
+• Avoid one-issue negotiations: add issues or link separate one-issue
+negotiations.
+• Negotiate multiple issues simultaneously, not sequentially.
+• Diffuse the spotlight so one issue does not become too prominent.
+• If there is only one issue, try splitting it into two.
+• Unmask the underlying interests: incompatible demands can hide
+reconcilable interests.
+• Be firm on substance, flexible on structure: I know where I need to
+get, I’m flexible on how I get there.
+• Getting unstuck is a worthy enough short-term goal.
+
+
+58
+
+PART I: THE POWER OF FRAMING
+
+• Address the logic of appropriateness: what does a person like me do
+in a situation like this?
+• Leverage social proof to boost appropriateness.
+• Framing an option as unique is a double-edged sword.
+• Frame your proposal as the default option.
+• The party that drafts the initial version of the agreement or process
+gains leverage.
+• Establish a proper reference point for their evaluations.
+• Always justify your offer, but don’t apologize for it.
+• Strategic ambiguity can help resolve deadlock when no one can
+back down.
+• Strategic ambiguity should be used only if other mechanisms are in
+place to ensure compliance.
+• Strategic ambiguity can help overcome initial hesitations to starting
+relationships.
+• Ambiguity is not a remedy for substantive conflict.
+• Ambiguity involves a trade-off between current conflicts and future
+conflicts.
+• If closing deals is rewarded, negotiators might conceal substantive
+disagreements to push through flawed deals.
+• Ambiguous deals may be parasitic, hurting those who are not at the
+table.
+• Be the first mover: control the frame early.
+• If the existing frame is disadvantageous, reframe as early as possible.
+• Better to preempt conflict than to resolve it: frame decisions in ways
+that help people avoid confrontation.
+• Early in the relationship, find low-cost opportunities to create the
+right frame for the relationship.
+
+
+Part II
+
+THE POWER OF PROCESS
+
+The good news is, there is light at the
+end of the tunnel. The bad news is,
+there is no tunnel.
+SHIMON PERES
+
+59
+
+
+7
+
+THE POWER OF PROCESS
+Negotiating the US Constitution
+
+T
+
+he war for american independence between the United
+States and Great Britain lasted eight years, formally ending in the
+Treaty of Paris, which was signed in 1783. By that time, the Articles of
+Confederation had served as the governing document of the United
+States for six years.1 By design, the Articles gave little power to the central government, and the sovereignty of the 13 states was paramount.
+The Articles went so far as to clarify that the relationship between the
+states was merely a “league of friendship with each other.” This was to
+be expected given the confederation was formed by people who had just
+freed themselves from the grip of power vested in a distant monarch. Soon
+enough, however, problems with this arrangement emerged. George
+Washington, commander in chief of the Continental Army, had seen the
+failings firsthand during the war itself. Congress had no power to tax, and
+the states were often unwilling to contribute the funds necessary to pay
+military wages or the war debt owed to foreign countries. After the war
+ended, matters worsened. Congress was considered so powerless that its
+delegates often failed to even show up; on occasions when a quorum was
+reached, little was accomplished. Even bills aimed at raising tax dollars
+to pay the war debt were defeated, not because a majority of the states
+dissented, but because the Articles gave every state a veto. In 1786, Rhode
+Island defeated such a bill despite support in 12 other states; in 1787, New
+York cast the deciding vote to do the same.
+Evidence that the Articles had serious shortcomings mounted. In 1787,
+the highly publicized but short-lived Shays’ Rebellion, an uprising among
+Massachusetts farmers who had economic grievances, made the economic
+
+60
+
+
+Chapter 7: The Power of Process
+
+61
+
+and political problems plaguing the young nation especially vivid. Soon
+after, the various states agreed to send delegates to the Constitutional
+Convention in Philadelphia. The goal of the convention was explicitly
+modest: to consider modifications to the Articles of Confederation. Had
+the convention been seen as an event at which reformers would try to
+completely overhaul the government and wrest power away from the
+states, it is unlikely that any state would have even sent delegates. Yet,
+that is precisely what occurred.
+Although it is certainly possible to overstate the role any one person
+plays at historic events, James Madison is quite rightly considered to
+have been one of the few indispensable characters in Philadelphia that
+summer. Yet, by almost any measure, the deck was stacked against him.
+At 5 feet 4 inches, and weighing close to 100 pounds, Madison did not
+project strength or stature. Far from being a captivating orator, he was
+shy and sometimes spoke too quietly in the debates to be properly heard.
+At 36 years of age, he was neither a war hero, nor a prominent national
+figure, nor even a senior member of the delegation from his home state of
+Virginia. Most problematic, there was very little support for a significant
+overhaul among the American population at large, and the notion that
+state legislatures would accept any sizable reduction in their powers was
+almost unthinkable. Nonetheless, in large part due to Madison’s efforts,
+when the convention ended, the delegates had drafted an entirely new
+constitution that shifted considerable power towards a new central government. By late 1788, the required supermajority of states (nine of 13)
+had ratified it, and by early 1789, the US Constitution became the law of
+the land. How did this happen?
+
+NEGOTIATING THE IMPOSSIBLE
+For his contributions, Madison would come to be known as the “Father of
+the Constitution.” And while he spoke over 200 times during the debates
+that took place in the summer of 1787, much of what he managed to
+accomplish might be attributed to what took place before most other delegates even arrived in Philadelphia. By the time the convention started,
+Madison had already shaped the deliberations that would take place.2
+
+
+62
+
+PART II: THE POWER OF PROCESS
+
+Madison arrived in Philadelphia on May 3, 1787, 11 days before
+the Constitutional Convention was scheduled to start. True to character, he was the first delegate to show up. George Washington, a fellow
+Virginian—and the most popular man on the continent—would be the
+second to arrive ten days later. When Madison and Washington visited
+the convention hall on May 14 for the scheduled commencement of the
+now-historic deliberations, they discovered that apart from some local
+Pennsylvanians, they were the only two people from among the other
+12 states to have made it to Philadelphia. While justifiably concerned by
+what the delay portended, Madison got straight to work. The task ahead,
+as Madison saw it, was to convince the other delegates that the Articles of
+Confederation needed to be thrown out completely. To be more precise,
+given the potentially fatal shortcomings of a system in which any one state
+could overrule all others on matters of national importance, the new system needed to vest significantly greater power in a national government.
+Madison understood that the greatest barrier to the drastic change
+he wanted was the default process that was in place: the Articles of
+Confederation were going to be the starting point of any conversation. As
+long as the Articles served as the template to be revised, they would be too
+powerful an anchor in every discussion of how to structure government
+appropriately. A process based on, “How should we revise the Articles?”
+could never lead to as much change as a process based on, “What is the
+best system of government?” The process would need to be changed.
+Madison, working with George Washington and other like-minded
+delegates from Pennsylvania and Virginia, started to draft an alternative
+document that could serve as the starting point for discussion. What
+came to be known as the “Virginia Plan” consisted of 15 resolutions that,
+although presented as revisions to the Articles, in fact upended the existing compact between the states. Among its proposals were the idea of
+proportional representation in Congress, giving power to citizens rather
+than state legislatures; the veto power of the executive branch; elements
+of checks and balances; and the ability of the legislative branch to negate
+state laws that were incompatible with the national interest. Perhaps most
+astutely, anticipating the resistance of state legislatures to the changes,
+it also proposed a revised process for ratifying the new Constitution: it
+
+
+Chapter 7: The Power of Process
+
+63
+
+called for ratification not by state legislatures, but by assemblies specifically selected for this purpose by the people of the various states.3
+Not even the considerable talent gathered in Philadelphia in May 1787
+could have created such a document without the exhaustive preparation
+Madison had undertaken before setting foot in Philadelphia. One month
+earlier, in April 1787, after countless weeks of careful and extensive
+research on the history of different forms of government dating at least as
+far back as ancient Greece, Madison had drafted a document titled “Vices
+of the Political System of the United States.” In it, he laid out a careful critique of the existing system, as well as ideas on how the problems could
+be addressed. Shared with the Virginia and Philadelphia delegates in May,
+this treatise served not only as the backbone of the Virginia Plan but also
+as the basis for reformation presented at the Constitutional Convention.
+The convention finally started on May 25. Only four days later, Virginia
+Governor Edmund Randolph presented the Virginia Plan. Reactions
+ranged from enthusiastic support to shock and anger. But the die was
+cast, and all of the debates to follow would take place in the shadow of
+the Virginia Plan. There was now an entirely new process in place; instead
+of debating the legitimacy of revisions to the Articles, arguments were
+focused on supporting or opposing elements of the Virginia Plan. Many
+compromises were made by all sides in the months ahead, but as each day
+progressed, the Articles of Confederation were left further behind.
+HAVE A PROCESS STRATEGY
+What truly exemplifies Madison’s genius is not merely the extent of his
+preparedness, but the focus of it. Whereas most people know to prepare for the substantive discussions that will eventually occur, Madison
+understood the power of shaping the process that will ultimately determine
+whether, when, and how the substantive discussions will take place. The
+most obvious examples were Madison’s extensive efforts in resetting the
+starting point of discussions and the coalition-building he did before the
+convention even started. If he had not executed these process interventions, the negotiations might well have gone a different way. Another crucial process element that favored Madison was the gag rule that delegates
+
+
+64
+
+PART II: THE POWER OF PROCESS
+
+instituted to shield their debates from public interference; if too much
+information on the ongoing negotiations had leaked early on, it would
+have been difficult for some delegates to continue the controversial work
+of the convention. If these process elements had not been carefully considered and shaped, the debates would have started—and likely ended—
+quite differently.
+The substance of a negotiation is about what the parties are trying to
+achieve. Process is about how they will get from where they are today to
+where they want to be. In the previous section, I discussed the peril of
+focusing exclusively on substance and ignoring the frame. In this section,
+I will make the same argument regarding process: even the most brilliant
+strategy for the substance of negotiations can be undermined if there is
+insufficient attention to process. Here are just a few elements of process to
+consider and try to shape:
+• How long will negotiations last?
+• Who will be involved and in what capacity?
+• What will be on the agenda, and in what order will
+issues be discussed?
+• Who will draft the initial proposal?
+• Will negotiations be public or private?
+• When and how will progress be reported outside of
+negotiations?
+• Given multiple parties or issues, will there be one
+negotiation track or many?
+• Will all the parties be in the same room at the same time?
+• Will negotiations take place face-to-face or via
+technology?
+• How many meetings will be scheduled?
+• How will major deadlocks or other problems be
+managed?
+• Will there be outside observers or mediators?
+
+
+Chapter 7: The Power of Process
+
+65
+
+• Will deadlines, if any, be binding or not?
+• What milestones might help build momentum and keep
+the process on track?
+• If the negotiations end in no deal, when and how might
+parties reengage?
+• Who are the parties that need to ratify the deal, and how
+much support is sufficient for passage?
+In most negotiations, some or many of these factors will be predetermined, or there may be a default process in place due to precedent or the
+actions of other parties. But as we have seen, defaults need not be blindly
+accepted—they can be reset to great advantage. This happens only when
+negotiators have evaluated all of the important elements of process in
+advance and have assessed how alternative processes might facilitate or
+hinder progress.
+Have a process strategy: how will you get from where
+you are today to where you want to be? Consider
+the factors that influence whether, when, and how
+substantive negotiations will occur.
+
+DON’T IGNORE THE IMPLEMENTATION PROCESS
+In the case of the United States Constitution, the crucial role of process
+can be seen even after the close of the convention. Much of the success
+in achieving ratification by the states can be attributed to the type of process that was implemented. Recall that many state governments would
+not have been in favor of the kinds of changes the new Constitution
+proposed. Moreover, many detractors of the Constitution were going
+to argue that delegates at the Constitutional Convention had exceeded
+their authority, that there was going to be too much power vested in the
+national government, and that individual rights were not sufficiently protected (a concern that was later remedied by the Bill of Rights).
+How do you get sufficient support for a deal that is certain to shock
+many of those who have been outside of the negotiation? Fortunately
+
+
+66
+
+PART II: THE POWER OF PROCESS
+
+for Madison and other supporters of the Constitution (dubbed the
+Federalists), the process for ratification was tailor-made to help them
+overcome opposition by the Anti-Federalists. First, and most crucially,
+according to Article VII of the Constitution, only nine of the 13 states
+needed to ratify the Constitution for it to go into effect for those states.
+This was despite the fact that any previous revision to the Articles of
+Confederation, which is what the new Constitution was supposed to
+be, had required a unanimous vote by all 13 states. Second, ratification
+took place through specially called state ratification conventions, rather
+than by the sitting state legislatures. Third, delegates were empowered
+to make only one choice—vote yes or no—and could not propose
+amendments or negotiate for revisions. And fourth, the Federalists
+moved quickly and strategically to schedule early votes designed to win
+passage in five of the pro-Constitution states. This made it easier for
+delegates in other states who might have been on the fence to feel more
+comfortable voting in favor. Certainly, substantive concessions were
+also made to shore up support in some states—most notably, reaching
+an understanding that the Bill of Rights would be taken up by the first
+Congress under the new Constitution. But it is hard to imagine how the
+Federalists could have achieved success without the right process elements in place. If ratification had required consensus, states like Rhode
+Island, which had not even sent delegates to the Convention, would
+have surely vetoed all efforts from the start. Had states been allowed to
+vote on different versions of the Constitution, or to reopen debates in
+the hopes of scoring concessions, deadlock would have almost certainly
+resulted. Likewise, had the Anti-Federalists been given more time to
+mount an organized challenge to the Constitution, things might have
+ended differently.
+A process strategy for deal making is not enough—you
+also have to strategize the implementation process.
+What will be required for successful implementation?
+How will you garner sufficient support for the deal?
+How will you ensure ratification?

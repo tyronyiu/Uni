@@ -1,0 +1,6 @@
+*Perspective # 1: Cyberethics as a Branch of Professional Ethics* 
+
+The purpose of cyberethics is to identify and analyze issues of ethical responsibility for computer/information technology (IT)professionals.  
+Consider a computer professional's role in designing, developing, and maintaining computer hardware and software systems.  
+Suppose a programmer discovers that a software product she has been working on is about to be released for sale to the public, even though it is unreliable because it contains “buggy” software.  
+Should she “blow the whistle”?
