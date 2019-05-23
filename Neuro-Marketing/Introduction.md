@@ -20,7 +20,8 @@ Instructor: Timothy Desmet
 
 ## The Toolbox
 
-
+The goal is to increase (returning) customer satisfaction, by minimising
+disrupting factors such as stress or queuing.
 
 
 
