@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Value creation via Blockchain technology concepts"
+excerpt: "Smart Contracts, P2P & fractional investment"
+date: 2019-05-24
+authors: Ty Yiu
+---
+
 Telco companies offer a centralised data exchange system (mobile data).
 Every device talks to the relays owned by the Telco to exchange information to
 another device, instead of directly connecting the devices themselves. 
