@@ -78,6 +78,8 @@ Another example could be a hiring interview, in which one would clearly answer
 lying, with a strategy in mind, than telling the truth, with the objective in
 mind to increase one's position within the perception of the interviewer.
 
+## Implicit measures
+
 ### Eye Tracking
 Eye tracking is the most frequently used Neuro-marketing technique, because it
 is easy to use and cheap considering modern technological advancements. Eye
@@ -112,4 +114,10 @@ The two eye tracking methods, being stationary and mobile, have their advantages
 and disadvantages such as being more adequate for contingent situations or for
 special circumstances. Mobile eye tracking changes physical environment, thus
 the analysis of the data is much harder to classify.
+
+### Physiological implicit measures
+
+**Galvanic Skin Response** / Skin conductance
+
+
 
