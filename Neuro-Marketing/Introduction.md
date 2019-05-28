@@ -119,5 +119,31 @@ the analysis of the data is much harder to classify.
 
 **Galvanic Skin Response** / Skin conductance
 
+Arousal as distraction/focus implies physiological effects, such as a raised
+heart beat frequency, dilated pupils et cetera. As there are many physiological
+effects, we measure *galvanic skin response and heart rate variability*.
+Arousal can be of feared nature or desired nature, such are fear of e.g.
+predators or sexual encounters.
 
+[Schweppes Advert](https://www.youtube.com/watch?v=AACYzE_VPus)
+
+### Emotions and attention in Commercials
+
+[FIAT 500s advert](https://www.youtube.com/watch?v=ZoC1QWlLFKI)
+
+a) What emotions do you think are triggered by the commercial?
+    Joy, Hapiness, weirdness, surprise, cringe
+b) List main emotions for different time windows
+    0-7: neutral, joy
+    7-19: Weirdness, surprise, joy
+    19-28: Joy, happiness, funny
+    28 - : neutral 
+c) Do you think the emotional profile is appropriate?
+    Its staged - funny (controllable imitiation of women actions) -> sexism?
+d) 5 attracting aspects Do they contribute to the story line of the commercials?
+    Kicking, the bag, walk away (testing guy), Real-life/women action
+e) Logo processing?
+   Bad BoyS, logo is always small - but its known that FIAT is the company in
+   question, If there weren't any sound, you'd probably miss that it's FIAT
+   explicitly. The logo is central at the very end - attention slip? 
 
