@@ -162,3 +162,8 @@ neurons to the CNS. The Interneurons get information from neurons and pass it on
 to other neurons, where as motor neurons get informed from the CNS and activate
 muscles, organs etc.
 
+**Neuroplasticity**
+: The brain forms new neurons and the connections and functions can change or adapt throughout our lives.
+
+**The Triune Brain Theory**
+: from Macleon is too simplistic. Every brain structure has been changed through evolution.
