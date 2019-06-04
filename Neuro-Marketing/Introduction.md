@@ -147,3 +147,7 @@ e) Logo processing?
    question, If there weren't any sound, you'd probably miss that it's FIAT
    explicitly. The logo is central at the very end - attention slip? 
 
+## The nervous System
+
+*Neuro* in *"neuromarketing"* refers to our entire nervous system (central +
+peripheral). 
