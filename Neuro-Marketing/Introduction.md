@@ -151,3 +151,14 @@ e) Logo processing?
 
 *Neuro* in *"neuromarketing"* refers to our entire nervous system (central +
 peripheral). 
+
+The nervous system is the system containing all nerve cells (neurons).
+
+![Nerve
+cell](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Neuron.svg/1200px-Neuron.svg.png)
+
+Sensory neurons get information from the outside world and pass it via other
+neurons to the CNS. The Interneurons get information from neurons and pass it on
+to other neurons, where as motor neurons get informed from the CNS and activate
+muscles, organs etc.
+
