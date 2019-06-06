@@ -193,3 +193,4 @@ additional piece of information for identification.
 26: leather
 
 yes
+no
