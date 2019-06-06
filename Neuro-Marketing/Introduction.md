@@ -170,3 +170,17 @@ muscles, organs etc.
 : from Macleon is too simplistic. Every brain structure has been changed through evolution.
 
 ## Sight & Perception
+
+## Smell Test
+
+44: cinnamon
+46: chocolate
+30: wax
+1: lavender
+16: haribo
+2: lemongrass
+14: -
+20: wax
+27: peppermint
+26: - 
+
