@@ -173,14 +173,22 @@ muscles, organs etc.
 
 ## Smell Test
 
+Containers containing different smells were passed around for recognition. Most
+were recognised to have been smelled before, but the classification, the
+association with a specific odor-donor was rare. This illustrates how our brain
+can easily recognise but not as easy classify/associate. Most of the time we
+smell in conjunction with visual inputs while knowing what the smell is going to
+be, we don't necessarily "save" smells by their smell and definition but as an
+additional piece of information for identification.
+
 44: cinnamon
 46: chocolate
-30: wax
+30: tobacco
 1: lavender
-16: haribo
+16: pineapple
 2: lemongrass
-14: -
-20: wax
+14: butter
+20: coconut
 27: peppermint
-26: - 
+26: leather
 
