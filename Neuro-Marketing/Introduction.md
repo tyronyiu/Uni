@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Introduction to Neuro-Marketing"
-excerpt: ""
+excerpt: "Understanding how different neurological concepts influence decision
+making within the realm of marketing."
 authors: Ty Yiu
 date: 2019-05-21
 ---
