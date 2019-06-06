@@ -2,7 +2,7 @@
 layout: post
 title: "Introduction to Neuro-Marketing"
 excerpt: "Understanding how different neurological concepts influence decision
-making within the realm of marketing."
+making within the realm of marketing can be helpful for marketing methods."
 authors: Ty Yiu
 date: 2019-05-21
 ---
