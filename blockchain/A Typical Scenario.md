@@ -8,7 +8,7 @@ showing the need for the solution."
 ---
 
 A typical scenario for the concept of utility provision using decentralised,
-consensus driven blockchain would be to imagine someone in a rural area such as
+consensus driven Blockchain would be to imagine someone in a rural area such as
 within the southern African countries.
 
 Let us have a look at a specific country and imagine a typical day of someone
@@ -27,7 +27,7 @@ development.
 Description, high level map of scenario, hotspot within scenario (pain
 concentration), who are the actors in the hot-spot and what are the pain points?
 How does that impact you and your role within the organisation? (e.g. an
-educated inhabitant of south sudan is highly limited in the potential
+educated inhabitant of South sudan is highly limited in the potential
 realisation available)
 
 What is it now? What does it need to be? Why does it need to be like that? ->
