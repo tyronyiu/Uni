@@ -24,6 +24,11 @@ power generation and distribution, transportation infrastructure, and property
 development.
 [reference](https://www.worldatlas.com/articles/countries-with-the-lowest-access-to-electricity.html)
 
+If we put ourselves into a south-sudanian inhabitant living in a rural area we
+can start analysing the need for the realisation of the idea, based on the pain
+that is induced by not having the idea realised on a daily basis.
+
+
 Description, high level map of scenario, hotspot within scenario (pain
 concentration), who are the actors in the hot-spot and what are the pain points?
 How does that impact you and your role within the organisation? (e.g. an
@@ -32,3 +37,4 @@ realisation available)
 
 What is it now? What does it need to be? Why does it need to be like that? ->
 because of all the pain (you even laid out yourself)
+
