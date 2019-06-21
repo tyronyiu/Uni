@@ -1,10 +1,15 @@
 ---
 layout: post
 title: "Introduction to Neuro-Marketing"
-excerpt: "Understanding how different neurological concepts influence decision
-making within the realm of marketing can be helpful for marketing methods."
+excerpt: "Understanding how different neurological concepts influence decision making within the realm of marketing can be helpful for marketing methods."
 authors: Ty Yiu
 date: 2019-05-21
+documentclass: report
+lang: en
+toc: true
+header-includes: |
+    \usepackage{caption}
+    \usepackage{subcaption}
 ---
 
 ## Introduction Session
@@ -192,5 +197,142 @@ additional piece of information for identification.
 27: peppermint
 26: leather
 
-yes
-no
+## Sensory Information
+
+It makes sense not to process all sensory information. Instead our nervous
+system is wired to assign relevance to certain information, so that less
+relevant stimuli do not diminish capacity.
+
+Sensory information can make its way to the mind by sheer force. This is known
+as bottom-up attention. (Senses are stimulated and produce effects higher up in
+the processing system.)
+
+Bottom up attention is automatic, fast and non-volutional.
+
+**Saliency** can affect consumer choice especially when we dont have much time
+to decide. 
+
+*insert missing slides here*
+
+## How to grab attention
+
+### Make them search
+When needing a lift and thinking about *Uber* instead of a regular Taxi service,
+*Uber* has a marketing advantage.
+
+### Make it easy to find
+Laziness drives people's behaviour and ease of use has a lower threshold of
+activation required to associate a certain brand with a specific product.
+
+### Make it salient
+Saliency and presence can be a big impact in situations of being unsure and
+system one making a fast decision based on the environment.
+
+### Less is more
+But there are limits to it. Think about *Nutella* and think away the visuals and
+leave nothing but the logo. The composition doesn't match and wouldn't be
+successful, the question arising is whether or not that is due to the visuals
+being so consistent over time that they have become part of the brand or if the
+visual is appealing because of the visuals, not the brand.
+
+## Consciousness
+Exists in two definitions, the mental state and as the content. The content
+describes when you are awake, alert and in the moment, but some information is
+processed consciously and other information unconsciously. The mental state
+refers to unconsciousness as being in a vegetative or conscious responsive
+state, which is less relevant for marketing purposes.
+Conscious vs unconscious information might be a contiuum. E.g. tip-of-the-tongue
+phenomenon. Show pictures of famous people and test the ability to name them -
+some names will be *"known"*, to be somewhere in the brain, but it can't be
+located because of the many associations made with *"famous people"*.
+
+![Michael Caine](http://bit.ly/2Rc8DaP){width=30%}
+![Ben Kingsley](http://bit.ly/2IenM8X){width=30%}
+![Jeremy Irons](http://bit.ly/2IcgqCF){width=30%}
+\begin{figure}[!h]
+\begin{subfigure}[t]{0.3\textwidth}
+\caption{Michael Caine}
+\end{subfigure}
+\hfill
+\begin{subfigure}[t]{0.3\textwidth}
+\caption{Ben Kingsley}
+\end{subfigure}
+\hfill
+\begin{subfigure}[t]{0.3\textwidth}
+\caption{Jeremy Irons}
+\end{subfigure}
+\caption{Famous actors and the Tip-on-the-tongue phenomenon}
+\end{figure}
+
+*insert missing slides here*
+
+### The Unconscious and its impacts
+
+Sometimes unconscious processes are at an advantage, for example in defense
+situations. Unconscious processes require less energy and are thus predominant
+in situations impacted by *ease* of choice. You wouldn't put the same
+*effort/energy* into the purchase of a toothpaste compared to that of a house.
+*Auto-pilot* often called, is a state in that we go to *save energy*.
+
+Another unconscious behaviour are instinctive behaviours that can influence the
+buying decision making process. Expensive diapers may unconsciously be bought
+and preferred for the baby as the baby is of high value and only the best wants
+to be provided for that baby.
+
+Habits and automatic behaviours are very similar, one might always choose *Lucky
+Strike* cigarettes over *Marlboro*, for no apparent reason other than being used
+to it and the automatic habit of choosing becomes automated.
+
+Evaluation and labelling on the first sight has a huge impact on the internal
+image we have with that person, which is based on the associations we make with
+certain *outfits* or behaviours. On flights, a free drink in the beginning that
+diminishes anger for bad service or delays. Another example is *Abercrombie &
+Fitch*, who make people wait in front of their stores that make those having
+waited feel relief and reward in the sense of "finally I'm in this exclusive
+store".
+
+## Emotions
+
+> *What's the favourite and least favourite brand, why?*
+>
+> **Favourite:** Apple, SpaceX, 
+> **Least Favourite:** Google, Facebook   
+> Responsibility for the society/planet et cetera. Everyone can build a product,
+> and building a good product is also *easy*, but building a sustainable,
+> responsible and good product isn't.
+> Google's behaviour is outrageous, where as Apple's should be rewarded. There's
+> a strong emotional association between Google and *outrage*, negativity and
+> *pride*, positivity for Apple.
+
+Are the most important predictor for behaviour.
+
+### Emotions & Feelings
+The body has *emotions* and the mind is interpreting those to associate them to
+*feelings*. Emotions cause bodily responses like pupil dilation, heart frequency
+increases and galvanic skin response increase. They are event related... 
+Emotions can be triggered by external or internal stimuli. An external stimuli
+is someone slapping someone else, where as an internal stimuli would be a
+situation a few days later where the two people approach each other and the one
+having been slapped internally becomes angry because of the personal association
+with that person and being slapped.
+
+*insert missing slides here*
+
+A emotion can become conscious and trigger a *feeling*. Mood is less specific
+and intense, it's less likely to be evoked by a certain stimulus or event, thus
+it is less event-related than emotional stimuli. Mood is often thought of as
+related to ones personality. It seems as though mood is a much *slower* process
+than *emotions* or *feelings*
+
+Animals share emotions with humans, such as jealousy are also present in
+primates:
+[Monkeys were paid unequally](http://bit.ly/2RcjT75)
+
+### Why do we have emotions?
+
+### Dimensions of emotions: Arousal & Valence
+
+### Brain Regions
+
+### Emotions in marketing
+
