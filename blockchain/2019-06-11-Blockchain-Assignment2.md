@@ -282,6 +282,7 @@ independent and sustainable as possible.
 > these assumptions.*
 
 
+
 --------------------------------------------------------------------------------
 
 ### References
@@ -312,7 +313,13 @@ Data.worldbank.org. Retrieved 12 June 2019, from [here](http://bit.ly/31s02pb)
 Value comes like waves at the beach, the pain relief is the retreat of the
 wave, which causes value to take its place.
 
+- **bridge instabilities (adoption fractures) via smart contract balancing**
+- **fractional ownership -> lease basis** 
+- **synergy/emergence -> is it worth it?**
+- Ontology
 
+### Principles Matrix
 
-
-
+The intents are the principles to be followed
+- smart
+- trustworthy
