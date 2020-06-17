@@ -2,8 +2,6 @@
 
 > **machine learning do detect doping in athletes' performance.**
 
-
-
 #### Case: e-sports for cognitive PED's 
 
 #### Why e-sports?
